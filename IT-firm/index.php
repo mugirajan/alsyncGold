@@ -86,43 +86,18 @@
 
 								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class="dropdown"><a href="#">Home</a>
-											<ul>
-												<li><a href="index.html">Homepage One</a></li>
-												<li><a href="index-2.html">Homepage Two</a></li>
-												<li><a href="index-3.html">Homepage Three</a></li>
-												<li><a href="index-4.html">Homepage Four</a></li>
-												<li class="dropdown"><a href="#">Header Styles</a>
-													<ul>
-														<li><a href="index.html">Header Style One</a></li>
-														<li><a href="index-2.html">Header Style Two</a></li>
-														<li><a href="index-3.html">Header Style Three</a></li>
-														<li><a href="index-4.html">Header Style Four</a></li>
-													</ul>
-												</li>
-											</ul>
+										<li class="dropdown"><a href="index.php">Home</a>
+											
 										</li>
-										<li><a href="about.html">About Us</a></li>
-										<li class="dropdown"><a href="#">Services</a>
-											<ul>
-												<li><a href="services.html">Services</a></li>
-												<li><a href="service-detail.html">Service Detail</a></li>
-											</ul>
+										<li><a href="about.php">About Us</a></li>
+										<li class="dropdown"><a href="services.php">Services</a>
+											
 										</li>
-										<li class="dropdown"><a href="#">Project</a>
-											<ul>
-												<li><a href="project.html">project</a></li>
-												<li><a href="project-detail.html">project Detail</a></li>
-											</ul>
+										<li class="dropdown"><a href="career.php">Career</a>
+											
 										</li>
-										<li class="dropdown"><a href="#">Blog</a>
-											<ul>
-												<li><a href="blog.html">Our Blog</a></li>
-												<li><a href="blog-detail.html">Blog Detail</a></li>
-												<li><a href="not-found.html">Not Found</a></li>
-											</ul>
-										</li>
-										<li><a href="contact.html">Contact</a></li>
+										
+										<li><a href="contact.php">Contact</a></li>
 									</ul>
 								</div>
 
@@ -165,7 +140,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<!-- Logo -->
 						<div class="logo">
-							<a href="index.html" title=""><img src="assets/images/logo.png" alt="" title=""></a>
+							<a href="index.php" title=""><img src="assets/images/logo.png" alt="" title=""></a>
 						</div>
 
 						<!-- Right Col -->
@@ -218,10 +193,10 @@
 				<div class="menu-backdrop"></div>
 				<div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="index.php"><img src="assets/images/logo.png" alt="" title=""></a></div>
 					<!-- Search -->
 					<div class="search-box">
-						<form method="post" action="contact.html">
+						<form method="post" action="contact.php">
 							<div class="form-group">
 								<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
 								<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
@@ -345,7 +320,7 @@
 		<div class="header-image">
 			<div class="banner1   d-lg-block d-none">
 				<video autoplay loop muted plays-inline class="background-video">
-					<source src="images/alsync.mp4" type="video/mp4" />
+					<source src="assets/images/alsync.mp4" type="video/mp4" />
 				</video>
 			</div>
 			<div class="banner2 d-lg-none d-xl-none">
@@ -387,7 +362,7 @@
 						<div class="service-block_one-text">Ensure an up-to-date, efficient IT network for your
 							company</div>
 						<a class="theme-btn service-block_one-link" href="#">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(images/Service-1.jpg)">
+						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">It is a comprehensive set of services that help
 								businesses manage their IT resources, networks, and systems with maximum
 								efficiency.These services include hardware and software support…</div>
@@ -404,7 +379,7 @@
 						<div class="service-block_one-text">At IT Solutions, we provide our clients with proactive.
 						</div>
 						<a class="theme-btn service-block_one-link" href="#">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(images/Service-1.jpg)">
+						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Warranty Management Services are designed to
 								help
 								businesses manage and track their warranties, ensuring that
@@ -422,7 +397,7 @@
 						<div class="service-block_one-text">Ensure and update your IT environment’s compliance.
 						</div>
 						<a class="theme-btn service-block_one-link" href="#">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(images/Service-1.jpg)">
+						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Entrusting the IT operations of a company to an
 								outside entity , called Managed Service Providers (MSPs ), is referred to as managed
 								IT services .....
@@ -439,7 +414,7 @@
 						<h5 class="service-block_one-title"><a href="#">Software <span>Solutions</span></a></h5>
 						<div class="service-block_one-text">Improve efficiency, productivite Softwares </div>
 						<a class="theme-btn service-block_one-link" href="#">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(images/Service-1.jpg)">
+						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Software solution is a program that will perform
 								all the time-consuming tasks and automate regular task catering you ease,...</div>
 							<a class="theme-btn service-block_one-link two" href="#">Read More</a>
@@ -728,7 +703,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/avatar1.jpg" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.html">Ashish Sudra</a></h5>
+								<h5 class="team-one_title"><a href="team-detail.php">Ashish Sudra</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -737,7 +712,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.html">Read more</a>
+									<a class="team_one-more" href="team-detail.php">Read more</a>
 								</div>
 							</div>
 
@@ -757,7 +732,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/avatar2.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.html">Rachna Sheth</a></h5>
+								<h5 class="team-one_title"><a href="team-detail.php">Rachna Sheth</a></h5>
 								<div class="team-one_designation">International Business Head</div>
 							</div>
 
@@ -766,7 +741,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.html">Read more</a>
+									<a class="team_one-more" href="team-detail.php">Read more</a>
 								</div>
 							</div>
 
@@ -786,7 +761,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/avatar3.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.html">Tapak Meni</a></h5>
+								<h5 class="team-one_title"><a href="team-detail.php">Tapak Meni</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -795,7 +770,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.html">Read more</a>
+									<a class="team_one-more" href="team-detail.php">Read more</a>
 								</div>
 							</div>
 
@@ -815,7 +790,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/avatar4.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.html">Ergi Laura</a></h5>
+								<h5 class="team-one_title"><a href="team-detail.php">Ergi Laura</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -824,7 +799,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.html">Read more</a>
+									<a class="team_one-more" href="team-detail.php">Read more</a>
 								</div>
 							</div>
 
@@ -992,7 +967,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/gallery/award.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">Award-Winning
+									<h5 class="project-one_title"><a href="project-detail.php">Award-Winning
 											Photo</a></h5>
 									<div class="project-one_designation">Photo Editing</div>
 								</div>
@@ -1003,7 +978,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1017,7 +992,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/gallery/editing.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">Property
+									<h5 class="project-one_title"><a href="project-detail.php">Property
 											Simplified</a></h5>
 									<div class="project-one_designation">Photo Editing</div>
 								</div>
@@ -1028,7 +1003,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1053,7 +1028,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1067,7 +1042,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/gallery/collection.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">Collection
+									<h5 class="project-one_title"><a href="project-detail.php">Collection
 											Management</a></h5>
 									<div class="project-one_designation">Web Application</div>
 								</div>
@@ -1078,7 +1053,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1117,7 +1092,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/gallery/ios.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">iOS Application</a>
+									<h5 class="project-one_title"><a href="project-detail.php">iOS Application</a>
 									</h5>
 									<div class="project-one_designation">Admin Dashboard</div>
 								</div>
@@ -1128,7 +1103,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1142,7 +1117,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/gallery/handyman.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">HandyMan app</a>
+									<h5 class="project-one_title"><a href="project-detail.php">HandyMan app</a>
 									</h5>
 									<div class="project-one_designation">Web App</div>
 								</div>
@@ -1153,7 +1128,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus fa-fw"
-											href="project-detail.html"></a>
+											href="project-detail.php"></a>
 									</div>
 								</div>
 
@@ -1216,7 +1191,7 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.html">get a quote</a>
+					<a class="cta-one_btn theme-btn" href="contact.php">get a quote</a>
 				</div>
 			</div>
 		</div>
@@ -1238,7 +1213,7 @@
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.html"><img src="assets/images/footer-logo.png" alt="" /></a>
+										<a href="index.php"><img src="assets/images/footer-logo.png" alt="" /></a>
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new
 										ones in advertising sector.</div>
@@ -1254,7 +1229,7 @@
 
 									<!-- Email Box -->
 									<div class="email-box">
-										<form method="post" action="contact.html">
+										<form method="post" action="contact.php">
 											<div class="form-group">
 												<input type="email" name="search-field" value=""
 													placeholder="Your mail address" required>
@@ -1308,35 +1283,35 @@
 								<div class="footer-widget instagram-widget">
 									<h4>Gallery</h4>
 									<div class="widget-content">
-										<div class="images-outer clearfix">
+										<div class="assets/images-outer clearfix">
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-1.jpg"><img
+													href="assets/images/gallery/project-1.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-1.jpg" alt=""></a>
 											</figure>
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-2.jpg"><img
+													href="assets/images/gallery/project-2.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-2.jpg" alt=""></a>
 											</figure>
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-3.jpg"><img
+													href="assets/images/gallery/project-3.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-3.jpg" alt=""></a>
 											</figure>
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-4.jpg"><img
+													href="assets/images/gallery/project-4.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-4.jpg" alt=""></a>
 											</figure>
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-5.jpg"><img
+													href="assets/images/gallery/project-5.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-5.jpg" alt=""></a>
 											</figure>
 											<!--Image Box-->
 											<figure class="image-box"><a class="lightbox-image"
-													href="images/gallery/project-6.jpg"><img
+													href="assets/images/gallery/project-6.jpg"><img
 														src="assets/images/gallery/footer-gallery-thumb-6.jpg" alt=""></a>
 											</figure>
 										</div>
@@ -1366,7 +1341,7 @@
 	<div class="search-popup">
 		<div class="color-layer"></div>
 		<button class="close-search"><span class="flaticon-020-x-mark"></span></button>
-		<form method="post" action="blog.html">
+		<form method="post" action="blog.php">
 			<div class="form-group">
 				<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 				<button type="submit"><i class="flaticon-001-loupe"></i></button>
@@ -1376,13 +1351,13 @@
 	<!-- End Search Popup -->
 
 	<!-- Scroll To Top -->
-	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
+	<div class="scroll-to-top scroll-to-target" data-target="php"><span class="fa fa-angle-double-up"></span></div>
 
 	<script src="style/js/jquery.js"></script>
 	<script src="style/js/appear.js"></script>
 	<script src="style/js/owl.js"></script>
 	<script src="style/js/wow.js"></script>
-	<script src="js/odometer.js"></script>
+	<script src="style/js/odometer.js"></script>
 	<script src="style/js/mixitup.js"></script>
 	<script src="style/js/popper.min.js"></script>
 	<script src="style/js/parallax.min.js"></script>

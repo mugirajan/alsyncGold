@@ -44,7 +44,7 @@
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(images\ career/arrow-pointing-forward.jpg) !important;
+  background-image: url(images/career/arrow-pointing-forward.jpg);
 }
 .card:nth-child(2):before {
   background-image: url(images/career/Hand\ holding\ balance\ scales\ with\ money\ and\ win\ golden\ cup.jpg);
@@ -158,7 +158,11 @@
     transition-duration: 0s;
   }
 }
-
+@media (min-width: 600px) {
+  .card {
+    height: 350px;
+  }
+}
 
 .page-content {
   display: grid;
