@@ -2,16 +2,17 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>IT-Firm IT Businees HTML-5 Template | Service's</title>
+<title>IT-Firm IT Businees HTML-5 Template | Homepage 04</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
-<link href="css/service.css" rel="stylesheet">
-<link href="css/career.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
@@ -19,7 +20,6 @@
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
 
 </head>
 
@@ -31,40 +31,40 @@
     <div class="preloader"></div>
 	<!-- End Preloader -->
  	
- 	<!-- Main Header -->
-    <header class="main-header header-style-one">
+ 	<!-- Main Header / Header Style Three -->
+    <header class="main-header header-style-three">
     	
-		<!-- Header Top -->
-		<div class="header-top">
+		<!-- Header Top Three -->
+		<div class="header-top_three">
 			<div class="auto-container">
-				<div class="inner-container d-flex flex-wrap">
-					<!-- Info List -->
-					<ul class="info-list">
-						<li><a href="#"><span class="icon fa-solid fa-phone fa-fw"></span>(678) 345-3456</a></li>
-						<li><a href="#"><span class="icon fa-solid fa-envelope fa-fw"></span>envato@mail.com</a></li>
-						<li><a href="#"><span class="icon fa-solid fa-map fa-fw"></span>380 Albert St, Melbourne, Australia</a></li>
-					</ul>
-					<!-- Social Box -->
-					<ul class="header-social_box">
-						<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-						<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-						<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
-					</ul>
+				<div class="d-flex justify-content-between align-items-center flex-wrap">
+					<div class="left-box">
+						<div class="text">380 Albert St, Melbourne, Australia</div>
+					</div>
+					<div class="right-box align-items-center d-flex">
+						
+						<!-- Social Box -->
+						<ul class="header-social_box">
+							<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
+							<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
+							<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li>
+							<li><a href="https://instagram.com/" class="fa-solid fa-instagram fa-fw"></a></li>
+						</ul>
+						
+					</div>
 				</div>
 			</div>
 		</div>
 		<!-- End Header Top -->
 		
-        <!-- Header Lower -->
-        <div class="header-lower">
-            
-			<div class="auto-container">
-				<div class="inner-container d-flex justify-content-between align-items-center">
-					
+		<!-- Header Upper -->
+        <div class="header-upper">
+            <div class="auto-container">
+				<div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 					<!-- Logo Box -->
-					<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+					<div class="logo"><a href="index.html"><img src="images/logo-2.png" alt="" title=""></a></div>
 					
-					<div class="nav-outer d-flex align-items-center">
+					<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
 						
 						<!-- Main Menu -->
 						<nav class="main-menu show navbar-expand-md">
@@ -98,17 +98,11 @@
 									<li class="dropdown"><a href="#">Services</a>
 										<ul>
 											<li><a href="services.html">Services</a></li>
-											<li><a href="service-detail.html">IT INFRASTRUCTURE MANAGEMENT SERVICES</a></li>
-											<li><a href="service-warranty.html">WARRANTY MANAGEMENT SERVICES</a></li>
-											<li><a href="service-print.html">MANAGED PRINT SERVICES</a></li>
-											<li><a href="service-system.html">SYSTEM INTEGRATION</a></li>
-											<li><a href="service-software.html">SOFTWARE SOLUTIONS</a></li>
-											<li><a href="service-managed.html">MANAGED IT SERVICES</a></li>
+											<li><a href="service-detail.html">Service Detail</a></li>
 										</ul>
 									</li>
-									<li class="dropdown"><a href="#">career</a>
+									<li class="dropdown"><a href="#">Project</a>
 										<ul>
-                                            <li><a href="career.html">Career</a></li>
 											<li><a href="project.html">project</a></li>
 											<li><a href="project-detail.html">project Detail</a></li>
 										</ul>
@@ -121,24 +115,41 @@
 										</ul>
 									</li>
 									<li><a href="contact.html">Contact</a></li>
-                                    <li><a href="career.html"></a></li>
 								</ul>
 							</div>
 							
 						</nav>
 						<!-- Main Menu End-->
 						
-						<!-- Mobile Navigation Toggler -->
-						<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
-						
+						<div class="outer-box d-flex align-items-center">
+							<!-- Search Btn -->
+							<div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span></div>
+							
+							<!-- Nav Btn -->
+							<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
+								<span>1</span>
+							</div>
+							
+							<!-- Button Box -->
+							<div class="button-box style-two">
+								<a class="btn-style-one theme-btn btn-item" href="#">
+									<div class="btn-wrap">
+										<span class="text-one">contact me</span>
+										<span class="text-two">contact me</span>
+									</div>
+								</a>
+							</div>
+							
+							<!-- Mobile Navigation Toggler -->
+							<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
+							
+						</div>
 					</div>
 					
 				</div>
-				
 			</div>
-        </div>
-        <!-- End Header Lower -->
-        
+		</div>
+		
 		<!-- Sticky Header  -->
         <div class="sticky-header">
             <div class="auto-container">
@@ -158,23 +169,27 @@
 						
 						<div class="outer-box d-flex align-items-center">
 							
+							<!-- Social Box -->
+							<ul class="header-social_box-two">
+								<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
+								<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
+								<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
+							</ul>
+							
+							<!-- Nav Btn -->
+							<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
+								<span>1</span>
+							</div>
+							
 							<!-- Button Box -->
-							<div class="button-box">
-								<a class="btn-style-three theme-btn btn-item" href="#">
+							<div class="button-box style-two">
+								<a class="btn-style-one theme-btn btn-item" href="#">
 									<div class="btn-wrap">
-										<span class="text-one">Get a quote <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Get a quote <i class="fa-solid fa-arrow-right fa-fw"></i></span>
+										<span class="text-one">contact me</span>
+										<span class="text-two">contact me</span>
 									</div>
 								</a>
 							</div>
-							
-							<!-- Social Box -->
-							<ul class="header-social_box">
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li>
-								<li><a href="https://instagram.com/" class="fa-solid fa-instagram fa-fw"></a></li>
-							</ul>
 							
 							<!-- Mobile Navigation Toggler -->
 							<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
@@ -211,261 +226,746 @@
     </header>
     <!-- End Main Header -->
 	
-	<!-- Page Title -->
-    <section class="page-title" style="background-image:url(images/career/asia-businessmen-businesswomen-meeting-brainstorming-ideas-conducting-business-presentation-project-colleagues-working-together-plan-success-strategy-enjoy-teamwork-small-modern-night-office.jpg)">
-        <div class="auto-container">
-			<h2>Career</h2>
-			<ul class="bread-crumb clearfix">
-				<li><a href="index.html">Home</a></li>
-				<li>career</li>
-			</ul>
-        </div>
-    </section>
-    <!-- End Page Title -->
-	
-	<!-- Service Two -->
-	<section class="service-two">
-		<div class="auto-container">
-			<!-- Sec Title -->
-			<div class="sec-title centered">
-				<div class="sec-title_title">Career</div>
-				<h2 class="sec-title_heading"> reasons for you to join<br> Alsync Global Solutions</h2>
-			</div>
-			
-            <div class="row  clearfix page-content">
-				
-				<!-- Service Block Two -->
-				
-					<div class=" card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Management Vision</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-				
-				<!-- Service Block Two -->
-				
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Financial Stability</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-				
-				<!-- Service Block Two -->
-				
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Great Clients</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-				
-				<!-- Service Block Two -->
-				
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Work-Life Balance</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-				<!-- Service Block Two -->
-				
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Skill Developement Opportunity</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-				
-				<!-- Service Block Two -->
-				
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="750ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Growth Opportunity</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-                    <!-- Service Block Two -->
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Positive Culture</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                         </div>
-					</div>
-                    
-                    <!-- Service Block Two -->
-					<div class="card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="1050ms" data-wow-duration="1500ms">
-                        <div class="content">
-                            <h2 class="title">Inclusive Environment</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="btn">Book Now</button>
-                          </div>
-					</div>
-				
-              
-				
-			
-				
-			</div>	
-		</div>
-	</section>
-	<!--content-sec-->
-   
-    <!--content-sec-end-->
-    <!-- Steps One -->
-	<section class="steps-one">
-		
-		<div class="auto-container">
-			<!-- Sec Title Three -->
-			
-			<div class="steps-one_blocks-outer">
-			
-				<!-- Step Block One -->
-				<div class="step-block_one">
-					<div class="step-block_one-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-						<div class="row clearfix">
-							<!-- Step Block One -->
-							<div class="step-block_one-content col-lg-6 col-md-12 col-sm-12">
-								<div class="step-block_one-content-inner">
-									<h3 class="step-block_one-title">Big League</h3>
-									<div class="step-block_one-text">We have faced the same challenges as some of the biggest solution providers globally and now we have the goal and vision to be a part of the Big League
-                                         – be a part of this young Alsync Global Solutions team.<br><br>
-                                         We will give you the opportunity to work with some of the biggest names in the technology ecosystem, we want to learn and grow together, 
-                                         with you.</div>
-									<div class="step-block_one-arrow fa-solid fa-arrow-right fa-fw"></div>
-									<a href="#" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
+	<!-- Sidebar Cart Item -->
+	<div class="xs-sidebar-group info-group">
+		<div class="xs-overlay xs-bg-black"></div>
+		<div class="xs-sidebar-widget">
+			<div class="sidebar-widget-container">
+				<div class="close-button">
+					<span class="fa fa-solid fa-power-off fa-fw"></span>
+				</div>
+				<div class="sidebar-textwidget">
+					
+					<!-- Sidebar Info Content -->
+					<div class="sidebar-info-contents">
+						<div class="content-inner">
+						
+							<!-- Title Box -->
+							<div class="title-box">
+								<h5>Shopping <span>Bag</span></h5>
+								<div class="price">$15 from free economy shipping</div>
+							</div>
+							
+							<!-- Empty Cart Box -->
+							<div class="empty-cart-box">
+								<!-- No Product -->
+								<div class="no-cart">
+									<span class="icon fa fa-solid fa-cart-plus fa-fw"></span>
+									No products in cart.
 								</div>
 							</div>
-							<!-- Step Block One -->
-							<div class="step-block_one-number-column col-lg-6 col-md-12 col-sm-12">
-								<div class="step-block_one-number-inner">
-									<div class="d-flex step-block_one-number-content">
-										<div class="step-block_one-number">01</div>
-										<span class="step-one_icon"><img src="images/icons/step-1.png" alt="" /></span>
+							
+							<!-- Lower Box -->
+							<div class="lower-box">
+								<h5>Popular <span>Suggestions</span></h5>
+									
+								<!-- Post Block -->
+								<div class="post-block">
+									<div class="inner-box">
+										<div class="image">
+											<img src="images/resource/post-thumb-1.jpg" alt="" />
+										</div>
+										<h6><a href="#">Technical Support</a></h6>
+										<div class="rating">
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+										</div>
+										<div class="price-box">$125</div>
+										<a class="theme-btn bag-btn" href="#">add to bag</a>
 									</div>
+								</div>
+								
+								<!-- Post Block -->
+								<div class="post-block">
+									<div class="inner-box">
+										<div class="image">
+											<img src="images/resource/post-thumb-2.jpg" alt="" />
+										</div>
+										<h6><a href="#">Business Planning</a></h6>
+										<div class="rating">
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+										</div>
+										<div class="price-box">$205</div>
+										<a class="theme-btn bag-btn" href="#">add to bag</a>
+									</div>
+								</div>
+								
+								<!-- Post Block -->
+								<div class="post-block">
+									<div class="inner-box">
+										<div class="image">
+											<img src="images/resource/post-thumb-3.jpg" alt="" />
+										</div>
+										<h6><a href="#">Cyber Security</a></h6>
+										<div class="rating">
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+										</div>
+										<div class="price-box">$125</div>
+										<a class="theme-btn bag-btn" href="#">add to bag</a>
+									</div>
+								</div>
+								
+							</div>
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Main Slider Three -->
+	<div class="main-slider-three">
+		<div class="slider-three_icon-one" data-parallax='{"y" : -80}' style="background-image:url(images/icons/service-22.png)"></div>
+		<div class="slider-three_icon-two" data-parallax='{"y" : 80}' style="background-image:url(images/icons/service-23.png)"></div>
+		<div class="single-item-carousel owl-carousel owl-theme">
+			
+			<!-- Slide -->
+			<div class="slide">
+				<div class="slider-three_image-layer" style="background-image:url(images/main-slider/3.jpg)"></div>
+				<div class="slider-three_curve-layer" style="background-image:url(images/main-slider/curve.png)"></div>
+				<div class="auto-container">
+					
+					<!-- Content Column -->
+					<div class="slider-three_content-box">
+						<!-- About One Detail -->
+						<a class="slider-three_play lightbox-video fa-solid fa-play fa-fw" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+							<i class="ripple"></i>
+						</a>
+						<h1 class="slider-three_title">Discover Our Proven <br> formula to get Success.</h1>
+						<div class="slider-three_text">See, most new coaches get so busy marketing themselves.</div>
+						<!-- Button Box -->
+						<div class="slider-three_button-box text-center">
+							<a class="btn-style-seven theme-btn" href="#">
+								<div class="btn-wrap">
+									<span class="text-one">get started</span>
+									<span class="text-two">get started</span>
+								</div>
+							</a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<!-- Slide -->
+			<div class="slide">
+				<div class="slider-three_image-layer" style="background-image:url(images/main-slider/3.jpg)"></div>
+				<div class="slider-three_curve-layer" style="background-image:url(images/main-slider/curve.png)"></div>
+				<div class="auto-container">
+					
+					<!-- Content Column -->
+					<div class="slider-three_content-box">
+						<!-- About One Detail -->
+						<a class="slider-three_play lightbox-video fa-solid fa-play fa-fw" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+							<i class="ripple"></i>
+						</a>
+						<h1 class="slider-three_title">Discover Our Proven <br> formula to get Success.</h1>
+						<div class="slider-three_text">See, most new coaches get so busy marketing themselves.</div>
+						<!-- Button Box -->
+						<div class="slider-three_button-box text-center">
+							<a class="btn-style-seven theme-btn" href="#">
+								<div class="btn-wrap">
+									<span class="text-one">get started</span>
+									<span class="text-two">get started</span>
+								</div>
+							</a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+			<!-- Slide -->
+			<div class="slide">
+				<div class="slider-three_image-layer" style="background-image:url(images/main-slider/3.jpg)"></div>
+				<div class="slider-three_curve-layer" style="background-image:url(images/main-slider/curve.png)"></div>
+				<div class="auto-container">
+					
+					<!-- Content Column -->
+					<div class="slider-three_content-box">
+						<!-- About One Detail -->
+						<a class="slider-three_play lightbox-video fa-solid fa-play fa-fw" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+							<i class="ripple"></i>
+						</a>
+						<h1 class="slider-three_title">Discover Our Proven <br> formula to get Success.</h1>
+						<div class="slider-three_text">See, most new coaches get so busy marketing themselves.</div>
+						<!-- Button Box -->
+						<div class="slider-three_button-box text-center">
+							<a class="btn-style-seven theme-btn" href="#">
+								<div class="btn-wrap">
+									<span class="text-one">get started</span>
+									<span class="text-two">get started</span>
+								</div>
+							</a>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<!-- End Main Slider Three -->
+	
+	<!-- Services Three -->
+	<section class="services-three">
+		<div class="auto-container">
+			<div class="row clearfix">
+				
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="images/icons/service-18.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Best UI/UX Design Service</a></h5>
+						<div class="service-block_five-text">Our customer get solutions & business opportunities.</div>
+						<a href="service-detail.html" class="theme-btn service-block_five-more">Read more</a>
+					</div>
+				</div>
+				
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="images/icons/service-19.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Business Planner for Clients</a></h5>
+						<div class="service-block_five-text">Our customer get solutions & business opportunities.</div>
+						<a href="service-detail.html" class="theme-btn service-block_five-more">Read more</a>
+					</div>
+				</div>
+				
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="images/icons/service-20.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Sequrity provider for Business</a></h5>
+						<div class="service-block_five-text">Our customer get solutions & business opportunities.</div>
+						<a href="service-detail.html" class="theme-btn service-block_five-more">Read more</a>
+					</div>
+				</div>
+				
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="images/icons/service-21.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Technical Service Provider</a></h5>
+						<div class="service-block_five-text">Our customer get solutions & business opportunities.</div>
+						<a href="service-detail.html" class="theme-btn service-block_five-more">Read more</a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Company One -->
+	
+	<!-- Company Three -->
+	<section class="company-three">
+		<div class="company-three_icon-one" data-parallax='{"y" : -80}' style="background-image:url(images/background/pattern-39.png)"></div>
+		<div class="company-three_icon-two" data-parallax='{"y" : 80}' style="background-image:url(images/background/pattern-40.png)"></div>
+		<div class="auto-container">
+			<div class="row clearfix">
+				<!-- Image Column -->
+				<div class="company-three_image-column col-lg-6 col-md-12 col-sm-12">
+					<div class="company-three_image-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="company-three_image">
+							<img src="images/resource/company-1.png" alt="" />
+						</div>
+					</div>
+				</div>
+				<!-- Content Column -->
+				<div class="company-three_content-column col-lg-6 col-md-12 col-sm-12">
+					<div class="company-three_inner">
+						<div class="company-three_title">We are <span>ITfirm</span> IT solutions agency!</div>
+						<h2 class="company-three_heading">Choose <span>The Best</span> IT Service Company in the City.</h2>
+						<div class="d-flex justify-content-between align-items-center flex-wrap">
+							<div class="company-three_text">Want to join with our connection? <br> <a href="contact.html">Contact us</a> for details talk.</div>
+							<ul class="company-three_reviews d-flex align-items-center flex-wrap">
+								<li><img src="images/resource/author-6.png" alt="" /></li>
+								<li><img src="images/resource/author-7.png" alt="" /></li>
+								<li><img src="images/resource/author-8.png" alt="" /></li>
+								<li><a class="reviews" href="#">Reviews</a></li>
+							</ul>
+						</div>
+						<!-- About One Detail -->
+						<a class="about-three_play lightbox-video" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+							<span class="fa-solid fa-play fa-fw"><i class="ripple"></i></span>
+							View How We work?
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Company Three -->
+	
+	<!-- CTA Two -->
+	<section class="cta-two wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+		<div class="auto-container">
+			<div class="cta-two_inner-container" style="background-image: url(images/background/map.png)">
+				<div class="d-flex justify-content-between align-items-center flex-wrap">
+					<div class="cta-two_author">
+						<span class="cta-two_author-image"><img src="images/resource/author-9.png" alt="" /></span>
+						Arnold Burner
+						<i>Support Person</i>
+					</div>
+					<div class="cta-two_title">Contact with us Any time!</div>
+					<!-- Button Box -->
+					<div class="cta-two_button-box">
+						<a class="btn-style-seven theme-btn" href="#">
+							<div class="btn-wrap">
+								<span class="text-one">Contact us!</span>
+								<span class="text-two">Contact us!</span>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End CTA Two -->
+	
+	<!-- Steps Two -->
+	<section class="steps-two" style="background-image:url(images/background/6.jpg)">
+		<div class="steps-two_pattern" data-parallax='{"y" : 60}' style="background-image:url(images/icons/service-23.png)"></div>
+		<div class="steps-two_pattern-two" data-parallax='{"y" : 60}' style="background-image:url(images/icons/service-22.png)"></div>
+		<div class="steps-two_pattern-three" style="background-image:url(images/background/pattern-41.png)"></div>
+		<div class="auto-container">
+			<!-- Sec Title Three -->
+			<div class="sec-title_three light centered">
+				<div class="sec-title_three-title">Working Steps</div>
+				<h2 class="sec-title_three-heading">Some <span>easy steps</span> to process!</h2>
+			</div>
+			<div class="inner-container">
+				<div class="row clearfix">
+				
+					<!-- Step Block Two -->
+					<div class="step-block_two col-lg-3 col-md-6 col-sm-12">
+						<div class="step-block_two-inner">
+							<div class="step-block_two-number"><span class="icon fa-solid fa-check-double fa-fw"></span>01</div>
+							<h4 class="step-block_two-heading">Select Service</h4>
+							<div class="step-two_block-text">ITfirm is a design studio founded in London and expanded our multinational firm.</div>
+						</div>
+					</div>
+					
+					<!-- Step Block Two -->
+					<div class="step-block_two col-lg-3 col-md-6 col-sm-12">
+						<div class="step-block_two-inner">
+							<div class="step-block_two-number"><span class="icon fa-solid fa-pencil fa-fw"></span>02</div>
+							<h4 class="step-block_two-heading">Send Message</h4>
+							<div class="step-two_block-text">ITfirm is a design studio founded in London and expanded our multinational firm.</div>
+						</div>
+					</div>
+					
+					<!-- Step Block Two -->
+					<div class="step-block_two col-lg-3 col-md-6 col-sm-12">
+						<div class="step-block_two-inner">
+							<div class="step-block_two-number"><span class="icon fa-solid fa-cube fa-fw"></span>03</div>
+							<h4 class="step-block_two-heading">Consult with us</h4>
+							<div class="step-two_block-text">ITfirm is a design studio founded in London and expanded our multinational firm.</div>
+						</div>
+					</div>
+					
+					<!-- Step Block Two -->
+					<div class="step-block_two col-lg-3 col-md-6 col-sm-12">
+						<div class="step-block_two-inner">
+							<div class="step-block_two-number"><span class="icon fa-solid fa-link fa-fw"></span>04</div>
+							<h4 class="step-block_two-heading">Get in touch!</h4>
+							<div class="step-two_block-text">ITfirm is a design studio founded in London and expanded our multinational firm.</div>
+						</div>
+					</div>
+				
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End Steps Two -->
+	
+	<!-- Services Four -->
+	<section class="services-four">
+		<div class="auto-container">
+			<!-- Sec Title Three -->
+			<div class="sec-title_three centered">
+				<div class="sec-title_three-title">Our Feachered Services</div>
+				<h2 class="sec-title_three-heading">We provide some <span>exclusive</span> <br> services for clients</h2>
+			</div>
+			<div class="inner-container">
+				<div class="row clearfix">
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-25.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">UI/UX Design</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-26.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">SEO & Marketing</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-27.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">Business Planning</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-28.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">Web Development</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-29.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">Cloud Services</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Service Block Six -->
+					<div class="service-block_six col-lg-4 col-md-6 col-sm-12">
+						<div class="service-block_six-inner">
+							<div class="service-block_six-content">
+								<span class="service-block_six-icon">
+									<img src="images/icons/service-30.gif" alt="" />
+								</span>
+								<h4 class="service-block_six-heading"><a href="#">Hosting Services</a></h4>
+								<div class="service-block_six-text">Lorem ipsum dolor sit amet, con sectetur adipiscing elit, sed do eiusmod tempor incididunt.</div>
+								<a class="service-block_six-more theme-btn" href="#">Discover more</a>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+				
+				<!-- Button Box -->
+				<div class="services-four_button-box text-center">
+					<a class="btn-style-seven theme-btn" href="#">
+						<div class="btn-wrap">
+							<span class="text-one">get started</span>
+							<span class="text-two">get started</span>
+						</div>
+					</a>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Services Four -->
+	
+	<!-- Case Two -->
+	<section class="case-two">
+		<div class="case-two_pattern" data-parallax='{"y" : 60}' style="background-image:url(images/icons/service-22.png)"></div>
+		<div class="case-two_pattern-two" data-parallax='{"y" : 60}' style="background-image:url(images/icons/service-23.png)"></div>
+		<div class="auto-container">
+			<!-- Sec Title Three -->
+			<div class="sec-title_three light">
+				<div class="sec-title_three-title">Case Studies</div>
+				<h2 class="sec-title_three-heading">Some of our <span>works</span></h2>
+			</div>
+			<div class="inner-container">
+				<div class="case-carousel-two owl-carousel owl-theme">
+					
+					<!-- Case Block Two -->
+					<div class="case-block-two">
+						<div class="case-block_two-inner">
+							<div class="case-block_two-image">
+								<img src="images/gallery/project-9.jpg" alt="" />
+								<div class="case-block_two-content">
+									<div class="case-block_two-title">Web Development</div>
+									<h4 class="case-block_two-title"><a href="project-detail.html">ITFirm Webdesign</a></h4>
 								</div>
 							</div>
 						</div>
 					</div>
-				</div>	
-			
+					
+					<!-- Case Block Two -->
+					<div class="case-block-two">
+						<div class="case-block_two-inner">
+							<div class="case-block_two-image">
+								<img src="images/gallery/project-10.jpg" alt="" />
+								<div class="case-block_two-content">
+									<div class="case-block_two-title">Web Development</div>
+									<h4 class="case-block_two-title"><a href="project-detail.html">ITFirm Webdesign</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<!-- Case Block Two -->
+					<div class="case-block-two">
+						<div class="case-block_two-inner">
+							<div class="case-block_two-image">
+								<img src="images/gallery/project-11.jpg" alt="" />
+								<div class="case-block_two-content">
+									<div class="case-block_two-title">Web Development</div>
+									<h4 class="case-block_two-title"><a href="project-detail.html">ITFirm Webdesign</a></h4>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>
 			</div>
 		</div>
 	</section>
-	<!-- End Steps One -->
+	<!-- End Case Two -->
 	
-	<!--form section-->
-<section class="form-container">
-	<div id="survey-container">
-
-	
-		<div class="sec-title centered">
-			<div class="sec-title_title">Application Form</div>
-			<h2 class="sec-title_heading"> Career Opportunities Application Form</h2>
+	<!-- Contact One -->
+	<section class="contact-one">
+		<div class="contact-one_pattern" data-parallax='{"y" : 60}' style="background-image:url(images/background/pattern-42.png)"></div>
+		<div class="contact-one_pattern-two" data-parallax='{"y" : -60}' style="background-image:url(images/background/pattern-43.png)"></div>
+		<div class="auto-container">
+			<!-- Sec Title Three -->
+			<div class="sec-title_three">
+				<div class="sec-title_three-title">Contact Us</div>
+				<h2 class="sec-title_three-heading">It’s very easy to <span>contact</span> us</h2>
+			</div>
+			<div class="row clearfix">
+				<!-- Form Column -->
+				<div class="contact-one_form-column col-lg-6 col-md-12 col-sm-12">
+					<div class="contact-one_form-inner">
+						
+						<!-- Default Form -->
+						<div class="default-form">
+							<form method="post" action="contact.html">
+								<div class="row clearfix">
+									
+									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+										<input type="text" name="username" placeholder="Your Name" required="">
+									</div>
+									
+									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
+										<input type="text" name="username" placeholder="Web Address" required="">
+									</div>
+									
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<input type="text" name="email" placeholder="Email Address" required="">
+									</div>
+									
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<textarea class="" name="message" placeholder="Type Your Message"></textarea>
+									</div>
+									
+									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
+										<!-- Button Box -->
+										<div class="button-box">
+											<button class="theme-btn btn-style-seven">
+												<span class="btn-wrap">
+													<span class="text-one">Send Message Now</span>
+													<span class="text-two">Send Message Now</span>
+												</span>
+											</button>
+										</div>
+									</div>
+									
+								</div>
+							</form>
+						</div>
+						<!-- End Default Form -->
+						
+					</div>
+				</div>
+				<!-- Form Column -->
+				<div class="contact-one_info-column col-lg-6 col-md-12 col-sm-12">
+					<div class="contact-one_info-inner">
+						<div class="row clearfix">
+							
+							<!-- Contact One Info -->
+							<div class="contact-one_info col-lg-6 col-md-6 col-sm-6">
+								<div class="contact-one_info-outer">
+									<span class="contact-one_info-icon fa-solid fa-phone fa-fw"></span>
+									Call Us for help!
+									<strong>+ (888) 452 1505</strong>
+								</div>
+							</div>
+							
+							<!-- Contact One Info -->
+							<div class="contact-one_info col-lg-6 col-md-6 col-sm-6">
+								<div class="contact-one_info-outer">
+									<span class="contact-one_info-icon fa-solid fa-map fa-fw"></span>
+									Our Locations
+									<strong>30 Commercial Road, Australia</strong>
+								</div>
+							</div>
+							
+							<!-- Contact One Info -->
+							<div class="contact-one_info col-lg-6 col-md-6 col-sm-6">
+								<div class="contact-one_info-outer">
+									<span class="contact-one_info-icon fa-solid fa-envelope fa-fw"></span>
+									Our Mail Address
+									<strong>help@gmail.com <br> envato@gmail.com</strong>
+								</div>
+							</div>
+							
+							<!-- Contact One Info -->
+							<div class="contact-one_info col-lg-6 col-md-6 col-sm-6">
+								<div class="contact-one_info-outer">
+									<span class="contact-one_info-icon fa-solid fa-clock fa-fw"></span>
+									Official Timing:
+									<strong>Mon-Sat 9:00 - 7:00</strong>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-	  
-		
-	  
-		<form id="survey-form">
-	  
-		  <!-- name -->
-		  <label id="name-label" class="row-label" for="name">Name:</label>
-		  <input id="name" class="row-input" type="text" placeholder="Enter your name" required>
-
-		  <!-- phone -->
-		  <label id="phone-label" class="row-label" for="phone">Email:</label>
-		  <input id="pjone" class="row-input" type="number" placeholder="Enter your phone number" required>
-	  
-		  <!-- email -->
-		  <label id="email-label" class="row-label" for="email">Email:</label>
-		  <input id="email" class="row-input" type="email" placeholder="Enter your email" required>
-	  
-		  <!-- education dropdown -->
-		  <label class="row-label" for="dropdown">preferred Role:</label>
-		  <select id="dropdown" class="row-input" required>
-			<option disabled selected>Desktop/Laptop Engineer</option>
-			<option value="primary">Network Engineer</option>
-			<option value="secondary">MAC & Server Engineer</option>
-			<option value="higher">Printer Engineer</option>
-			<option value="na">Administrator</option>
-			<option value="na">Coordinator</option>
-			<option value="na">Team Leader</option>
-			<option  value="na">Manager</option>
-		  </select>
-	  
-		  <!-- years of experience -->
-		  <label id="number-label" class="row-label" for="number">Years of experience (optional):</label>
-		  <input id="number" class="row-input" type="number" placeholder="Enter number of years of experience" min="0" max="50">
-	  
-		  <!-- programs checkbox -->
-		  <p class="row-label">Known programs:</p>
-	  
-		  <label class="row-input small" for="box-windows">
-			<input type="checkbox" id="box-windows" name="checkbox" value="windows">
-			<span class="inline-label">Windows</span>
-		  </label>
-	  
-		  <label class="row-input small" for="box-word">
-			<input type="checkbox" id="box-word" name="checkbox" value="word">
-			<span class="inline-label">Word</span>
-		  </label>
-	  
-		  <label class="row-input small" for="box-excel">
-			<input type="checkbox" id="box-excel" name="checkbox" value="excel">
-			<span class="inline-label">Excel</span>
-		  </label>
-	  
-		  <label class="row-input small" for="box-powerpoint">
-			<input type="checkbox" id="box-powerpoint" name="checkbox" value="powerpoint">
-			<span class="inline-label">Power Point</span>
-		  </label>
-	  
-		  <label class="row-input small" for="box-outlook">
-			<input type="checkbox" id="box-outlook" name="checkbox" value="outlook">
-			<span class="inline-label">Outlook</span>
-		  </label>
-	  
-		  <!-- salary radio -->
-		  <p class="row-label">Are you open to relocating for this opportunity?</p>
-	  
-		  <label class="row-input small" for="below-3k">
-			<input type="radio" id="below-3k" name="radio" value="below-3k">
-			<span class="inline-label">Yes</span>
-		  </label>
-	  
-		  <label class="row-input small" for="3k-4k">
-			<input type="radio" id="3k-4k" name="radio" value="3k-4k">
-			<span class="inline-label">No</span>
-		  </label>
-	  
-		 
-	  
-		  <!-- comments textarea -->
-		  <label class="row-label" for="comments">Additional informations:</label>
-		  <textarea id="comments" placeholder="Enter other informations here..."></textarea>
-	  
-		  <!-- submit button -->
-		  <button id="submit" type="submit">Submit</button>
-	  
-		</form>
-	  
-	  </div>
-</section>
-	<!--form section end-->
+	</section>
+	<!-- End Contact One -->
+	
+	<!-- Testimonial Two -->
+	<section class="testimonial-two">
+		<div class="testimonial-two_pattern" data-parallax='{"y" : 60}' style="background-image:url(images/background/pattern-44.png)"></div>
+		<div class="auto-container">
+			<div class="row clearfix">
+				
+				<!-- Image Column -->
+				<div class="testimonial-two_image-column col-lg-6 col-md-12 col-sm-12">
+					<div class="testimonial-two_image-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="testimonial-two_image">
+							<img src="images/resource/testimonial-1.png" alt="" />
+						</div>
+					</div>
+				</div>
+				
+				<!-- Carousel Column -->
+				<div class="testimonial-two_carousel-column col-lg-6 col-md-12 col-sm-12">
+					<div class="testimonial-two_carousel-inner">
+						<!-- Sec Title Three -->
+						<div class="sec-title_three">
+							<div class="sec-title_three-title">Testimonials</div>
+							<h2 class="sec-title_three-heading">We have many good <br> <span>client’s</span> review</h2>
+						</div>
+						<div class="single-item-carousel owl-carousel owl-theme">
+						
+							<!-- Testimonial Block Two -->
+							<div class="testimonial-block_two">
+								<div class="testimonial-block_two-inner">
+									<span class="testimonial-block_two-quote"><img src="images/icons/quote.png" alt="" /></span>
+									<div class="testimonial-block_two-author">
+										<img src="images/resource/author-10.jpg" alt="" />
+									</div>
+									<div class="testimonial-block_two-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua.</div>
+									<div class="testimonial-block_two-author-name">Arnold Burner</div>
+									<div class="testimonial-block_two-designation">Senior Developer</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block Two -->
+							<div class="testimonial-block_two">
+								<div class="testimonial-block_two-inner">
+									<span class="testimonial-block_two-quote"><img src="images/icons/quote.png" alt="" /></span>
+									<div class="testimonial-block_two-author">
+										<img src="images/resource/author-10.jpg" alt="" />
+									</div>
+									<div class="testimonial-block_two-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua.</div>
+									<div class="testimonial-block_two-author-name">Arnold Burner</div>
+									<div class="testimonial-block_two-designation">Senior Developer</div>
+								</div>
+							</div>
+							
+							<!-- Testimonial Block Two -->
+							<div class="testimonial-block_two">
+								<div class="testimonial-block_two-inner">
+									<span class="testimonial-block_two-quote"><img src="images/icons/quote.png" alt="" /></span>
+									<div class="testimonial-block_two-author">
+										<img src="images/resource/author-10.jpg" alt="" />
+									</div>
+									<div class="testimonial-block_two-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidi dunt ut labore et dolore magna aliqua.</div>
+									<div class="testimonial-block_two-author-name">Arnold Burner</div>
+									<div class="testimonial-block_two-designation">Senior Developer</div>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</section>
+	<!-- End Testimonial Two -->
+	
+	<!-- Clients Three -->
+	<section class="clients-three">
+		<div class="auto-container">
+			<div class="clients-three_inner-container">
+				<!-- Sponsors Carousel -->
+				<ul class="sponsors-carousel-two owl-carousel owl-theme">
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/16.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/17.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/18.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/15.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/16.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/17.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/18.png" alt=""></a></figure></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- End Clients Three -->
 	
 	<!-- CTA One -->
 	<section class="cta-one">
@@ -473,10 +973,14 @@
 			<div class="d-flex justify-content-between align-items-center flex-wrap">
 				<div class="left-box">
 					<h3 class="cta-one_heading">Looking for the Best IT Business Solutions?</h3>
-					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.html">get a quote</a>
+					<a class="btn-style-seven theme-btn" href="#">
+						<div class="btn-wrap">
+							<span class="text-one">get a quote</span>
+							<span class="text-two">get a quote</span>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -589,25 +1093,24 @@
 			</div>
 			
 		</div>
-		
 	</footer>
-	<!-- End Footer -->
+	<!-- Footer -->
+	
+	<!-- Search Popup -->
+	<div class="search-popup">
+		<div class="color-layer"></div>
+		<button class="close-search"><span class="fa-solid fa-power-off fa-fw"></span></button>
+		<form method="post" action="blog.html">
+			<div class="form-group">
+				<input type="search" name="search-field" value="" placeholder="Search Here" required="">
+				<button class="fa-solid fa-paper-plane fa-fw" type="submit"></button>
+			</div>
+		</form>
+	</div>
+	<!-- End Search Popup -->
 	
 </div>
 <!-- End PageWrapper -->
-
-<!-- Search Popup -->
-<div class="search-popup">
-	<div class="color-layer"></div>
-	<button class="close-search"><span class="flaticon-020-x-mark"></span></button>
-	<form method="post" action="blog.html">
-		<div class="form-group">
-			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
-			<button type="submit"><i class="flaticon-001-loupe"></i></button>
-		</div>
-	</form>
-</div>
-<!-- End Search Popup -->
 
 <!-- Scroll To Top -->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
@@ -617,16 +1120,16 @@
 <script src="js/owl.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/odometer.js"></script>
+<script src="js/nav-tool.js"></script>
 <script src="js/mixitup.js"></script>
 <script src="js/popper.min.js"></script>
 <script src="js/parallax.min.js"></script>
+<script src="js/parallax-scroll.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/tilt.jquery.min.js"></script>
 <script src="js/magnific-popup.min.js"></script>
 
 <script src="js/script.js"></script>
-<script src="js/service.js">
-</script>
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
