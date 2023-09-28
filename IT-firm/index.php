@@ -9,6 +9,10 @@
 	<link href="style/css/style.css" rel="stylesheet">
 	<link href="style/css/responsive.css" rel="stylesheet">
 	<link href="style/css/main_banner.css" rel="stylesheet">
+	<!-- <link href="style/css/font-awesome.css" rel="stylesheet"> -->
+	<link href="style/css/flaticon.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -19,9 +23,13 @@
 		rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap"
 		rel="stylesheet">
+	
 
 	<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
 	<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js" integrity="sha512-Tn2m0TIpgVyTzzvmxLNuqbSJH3JP8jm+Cy3hvHrW7ndTDcJ1w5mBiksqDBb8GpE2ksktFvDB/ykZ0mDpsZj20w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,8 +59,8 @@
 
 							<!-- Social Box -->
 							<ul class="header-social_box">
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
+								<li><a href="https://www.twitter.com/"> <i class="fab fa-facebook"></i> </a></li>
+								<li><a href="https://www.facebook.com/"> <i class="fab fa-twitter"></i> </a></li>
 								<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li>
 								<li><a href="https://instagram.com/" class="fa-solid fa-instagram fa-fw"></a></li>
 							</ul>

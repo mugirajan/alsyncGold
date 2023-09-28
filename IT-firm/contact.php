@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <title>IT-Firm IT Businees HTML-5 Template | Contact Us</title>
 <!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
+<link href="style/css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
+<link href="style/css/responsive.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -59,7 +59,7 @@
 				<div class="inner-container d-flex justify-content-between align-items-center">
 					
 					<!-- Logo Box -->
-					<div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+					<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
 					
 					<div class="nav-outer d-flex align-items-center">
 						
@@ -76,19 +76,43 @@
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
 									<li class="dropdown"><a href="#">Home</a>
-										
-									</li>
-									<li><a href="about.php">About Us</a></li>
-									<li class="dropdown"><a href="#">Services</a>
 										<ul>
-											<li><a href="services.php">Services</a></li>
-											<li><a href="service-detail.php">Service Detail</a></li>
+											<li><a href="index.html">Homepage One</a></li>
+											<li><a href="index-2.html">Homepage Two</a></li>
+											<li><a href="index-3.html">Homepage Three</a></li>
+											<li><a href="index-4.html">Homepage Four</a></li>
+											<li class="dropdown"><a href="#">Header Styles</a>
+												<ul>
+													<li><a href="index.html">Header Style One</a></li>
+													<li><a href="index-2.html">Header Style Two</a></li>
+													<li><a href="index-3.html">Header Style Three</a></li>
+													<li><a href="index-4.html">Header Style Four</a></li>
+												</ul>
+											</li>
 										</ul>
 									</li>
-									
-									
-									<li><a href="career.php">Career</a></li>
-									<li><a href="contact.php">Contact</a></li>
+									<li><a href="about.html">About Us</a></li>
+									<li class="dropdown"><a href="#">Services</a>
+										<ul>
+											<li><a href="services.html">Services</a></li>
+											<li><a href="service-detail.html">Service Detail</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="#">Project</a>
+										<ul>
+											<li><a href="project.html">project</a></li>
+											<li><a href="project-detail.html">project Detail</a></li>
+										</ul>
+									</li>
+									<li class="dropdown"><a href="#">Blog</a>
+										<ul>
+											<li><a href="blog.html">Our Blog</a></li>
+											<li><a href="blog-detail.html">Blog Detail</a></li>
+											<li><a href="not-found.html">Not Found</a></li>
+										</ul>
+									</li>
+									<li><a href="career.html">Career</a></li>
+									<li><a href="contact.html">Contact</a></li>
 								</ul>
 							</div>
 							
@@ -112,7 +136,7 @@
 				<div class="d-flex justify-content-between align-items-center">
 					<!-- Logo -->
 					<div class="logo">
-						<a href="index.php" title=""><img src="images/logo.png" alt="" title=""></a>
+						<a href="index.html" title=""><img src="images/logo.png" alt="" title=""></a>
 					</div>
 					
 					<!-- Right Col -->
@@ -160,10 +184,10 @@
             <div class="menu-backdrop"></div>
             <div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
             <nav class="menu-box">
-                <div class="nav-logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
+                <div class="nav-logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
 				<!-- Search -->
 				<div class="search-box">
-					<form method="post" action="contact.php">
+					<form method="post" action="contact.html">
 						<div class="form-group">
 							<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
 							<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
@@ -183,7 +207,7 @@
         <div class="auto-container">
 			<h2>Contact Us</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.php">Home</a></li>
+				<li><a href="index.html">Home</a></li>
 				<li>Contact Us</li>
 			</ul>
         </div>
@@ -315,7 +339,7 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">get a quote</a>
+					<a class="cta-one_btn theme-btn" href="contact.html">get a quote</a>
 				</div>
 			</div>
 		</div>
@@ -337,7 +361,7 @@
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.php"><img src="images/footer-logo.png" alt="" /></a>
+										<a href="index.html"><img src="images/footer-logo.png" alt="" /></a>
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new ones in advertising sector.</div>
 									<a href="#" class="theme-btn about-btn">About us</a>
@@ -352,7 +376,7 @@
 									
 									<!-- Email Box -->
 									<div class="email-box">
-										<form method="post" action="contact.php">
+										<form method="post" action="contact.html">
 											<div class="form-group">
 												<input type="email" name="search-field" value="" placeholder="Your mail address" required>
 												<button type="submit"><span class="icon fa-solid fa-paper-plane fa-fw"></span></button>
@@ -439,7 +463,7 @@
 <div class="search-popup">
 	<div class="color-layer"></div>
 	<button class="close-search"><span class="flaticon-020-x-mark"></span></button>
-	<form method="post" action="blog.php">
+	<form method="post" action="blog.html">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="flaticon-001-loupe"></i></button>
@@ -466,7 +490,8 @@
 
 <script src="js/script.js"></script>
 
-
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 
 </body>
 </html>

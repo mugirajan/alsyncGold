@@ -1,5 +1,5 @@
 
-    :root {
+:root {
   --d: 700ms;
   --e: cubic-bezier(0.19, 1, 0.22, 1);
   --font-sans: "Rubik", sans-serif;
@@ -44,7 +44,7 @@
   transition: transform calc(var(--d) * 2) var(--e);
 }
 .card:nth-child(1):before {
-  background-image: url(images/career/arrow-pointing-forward.jpg);
+  background-image: url(images\ career/arrow-pointing-forward.jpg) !important;
 }
 .card:nth-child(2):before {
   background-image: url(images/career/Hand\ holding\ balance\ scales\ with\ money\ and\ win\ golden\ cup.jpg);
@@ -158,11 +158,7 @@
     transition-duration: 0s;
   }
 }
-@media (min-width: 600px) {
-  .card {
-    height: 350px;
-  }
-}
+
 
 .page-content {
   display: grid;
@@ -273,13 +269,19 @@
     border: none;
     border-radius: var(--border-radius);
     resize: none;
+    margin-bottom:2rem;
   }
   
   #submit {
     margin-top: calc(2 * var(--space-between));
     height: var(--box-height);
-    width: 100%;
-    background: var(--color-4);
+    width: 30%;
+    text-align:Center;
+    display:flex;
+    justify-content:center;
+    align-items:Center;
+    margin:0 auto;
+    background: var(--color-fourteen);
     border: none;
     border-radius: var(--border-radius);
     color: white;
