@@ -91,7 +91,7 @@
 											</li>
 										</ul>
 									</li>
-									<li><a href="about.html">About Us</a></li>
+									<li><a href="about.php">About Us</a></li>
 									<li class="dropdown"><a href="#">Services</a>
 										<ul>
 											<li><a href="services.html">Services</a></li>
