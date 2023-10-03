@@ -893,7 +893,7 @@
 
 .header-top_three .text:before{
 	position:absolute;
-	content:'\f279';
+	/* content:'\f279'; */
 	left:0px;
 	top:0px;
 	font-weight:800;
