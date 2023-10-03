@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <title>IT-Firm IT Businees HTML-5 Template | Contact Us</title>
 <!-- Stylesheets -->
-<link href="style/css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
-<link href="style/css/responsive.css" rel="stylesheet">
+<link href="css/responsive.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -28,137 +28,18 @@
     <div class="preloader"></div>
 	<!-- End Preloader -->
  	
- 	<!-- Main Header -->
-    <header class="main-header header-style-one">
-    	
-		<!-- Header Top -->
-		<div class="header-top">
-			<div class="auto-container">
-				<div class="inner-container d-flex flex-wrap">
-					<!-- Info List -->
-					<ul class="info-list">
-						<li><a href="#"><span class="icon fa-solid fa-phone fa-fw"></span>(678) 345-3456</a></li>
-						<li><a href="#"><span class="icon fa-solid fa-envelope fa-fw"></span>envato@mail.com</a></li>
-						<li><a href="#"><span class="icon fa-solid fa-map fa-fw"></span>380 Albert St, Melbourne, Australia</a></li>
-					</ul>
-					<!-- Social Box -->
-					<ul class="header-social_box">
-						<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-						<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-						<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<!-- End Header Top -->
-		
-        <!-- Header Lower -->
-        <div class="header-lower">
-            
-			<div class="auto-container">
-				<div class="inner-container d-flex justify-content-between align-items-center">
-					
-					<!-- Logo Box -->
-					<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
-					
-					<div class="nav-outer d-flex align-items-center">
-						
-						<!-- Main Menu -->
-						<nav class="main-menu show navbar-expand-md">
-							<div class="navbar-header">
-								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-									<span class="icon-bar"></span>
-								</button>
-							</div>
-							
-							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
-								<ul class="navigation clearfix">
-									<li class="dropdown"><a href="#">Home</a>
-										<ul>
-											<li><a href="index.html">Homepage One</a></li>
-											<li><a href="index-2.html">Homepage Two</a></li>
-											<li><a href="index-3.html">Homepage Three</a></li>
-											<li><a href="index-4.html">Homepage Four</a></li>
-											<li class="dropdown"><a href="#">Header Styles</a>
-												<ul>
-													<li><a href="index.html">Header Style One</a></li>
-													<li><a href="index-2.html">Header Style Two</a></li>
-													<li><a href="index-3.html">Header Style Three</a></li>
-													<li><a href="index-4.html">Header Style Four</a></li>
-												</ul>
-											</li>
-										</ul>
-									</li>
-									<li><a href="about.html">About Us</a></li>
-									<li class="dropdown"><a href="#">Services</a>
-										<ul>
-											<li><a href="services.html">Services</a></li>
-											<li><a href="service-detail.html">Service Detail</a></li>
-										</ul>
-									</li>
-									<li class="dropdown"><a href="#">Project</a>
-										<ul>
-											<li><a href="project.html">project</a></li>
-											<li><a href="project-detail.html">project Detail</a></li>
-										</ul>
-									</li>
-									<li class="dropdown"><a href="#">Blog</a>
-										<ul>
-											<li><a href="blog.html">Our Blog</a></li>
-											<li><a href="blog-detail.html">Blog Detail</a></li>
-											<li><a href="not-found.html">Not Found</a></li>
-										</ul>
-									</li>
-									<li><a href="career.html">Career</a></li>
-									<li><a href="contact.html">Contact</a></li>
-								</ul>
-							</div>
-							
-						</nav>
-						<!-- Main Menu End-->
-						
-						<!-- Mobile Navigation Toggler -->
-						<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
-						
-					</div>
-					
-				</div>
-				
-			</div>
-        </div>
-        <!-- End Header Lower -->
-        
-		<!-- Sticky Header  -->
-        <div class="sticky-header">
-            <div class="auto-container">
-				<div class="d-flex justify-content-between align-items-center">
-					<!-- Logo -->
-					<div class="logo">
-						<a href="index.html" title=""><img src="images/logo.png" alt="" title=""></a>
-					</div>
-					
-					<!-- Right Col -->
-					<div class="right-box d-flex align-items-center flex-wrap">
-						<!-- Main Menu -->
-						<nav class="main-menu">
-							<!--Keep This Empty / Menu will come through Javascript-->
-						</nav>
-						<!-- Main Menu End-->
-						
-						<div class="outer-box d-flex align-items-center">
-							
-							<!-- Button Box -->
-							<div class="button-box">
-								<a class="btn-style-three theme-btn btn-item" href="#">
-									<div class="btn-wrap">
-										<span class="text-one">Get a quote <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-										<span class="text-two">Get a quote <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-									</div>
-								</a>
-							</div>
-							
+ 		<!-- Main Header / Header Style Three -->
+		 <header class="main-header header-style-three">
+
+			<!-- Header Top Three -->
+			<div class="header-top_three" >
+				<div class="auto-container">
+					<div class="d-flex justify-content-between align-items-center flex-wrap">
+						<div class="left-box">
+							<div class="text">380 Albert St, Melbourne, Australia</div>
+						</div>
+						<div class="right-box align-items-center d-flex">
+
 							<!-- Social Box -->
 							<ul class="header-social_box">
 								<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
@@ -166,44 +47,271 @@
 								<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li>
 								<li><a href="https://instagram.com/" class="fa-solid fa-instagram fa-fw"></a></li>
 							</ul>
-							
-							<!-- Mobile Navigation Toggler -->
-							<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
-							
 						</div>
-						
 					</div>
-					
 				</div>
-            </div>
-        </div>
-		<!-- End Sticky Menu -->
-		
-		<!-- Mobile Menu  -->
-        <div class="mobile-menu">
-            <div class="menu-backdrop"></div>
-            <div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
-            <nav class="menu-box">
-                <div class="nav-logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
-				<!-- Search -->
-				<div class="search-box">
-					<form method="post" action="contact.html">
-						<div class="form-group">
-							<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
-							<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
+			</div>
+			<!-- End Header Top -->
+
+			<!-- Header Upper -->
+			<div class="header-upper"style="    background-color: rgba(0,0,0,0.3);">
+				<div class="auto-container">
+					<div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
+						<!-- Logo Box -->
+						<div class="logo"><a href="index.php"><img src="images/alsynimg.jpg" alt="" title=""></a></div>
+
+						<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
+
+							<!-- Main Menu -->
+							<nav class="main-menu show navbar-expand-md">
+								<div class="navbar-header">
+									<button class="navbar-toggler" type="button" data-toggle="collapse"
+										data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+										aria-expanded="false" aria-label="Toggle navigation">
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+										<span class="icon-bar"></span>
+									</button>
+								</div>
+
+								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
+									<ul class="navigation clearfix">
+										<li class=""><a href="index.php">Home</a>
+											
+										</li>
+										<li><a href="about.php">About Us</a></li>
+										<li class="dropdown"><a href="#">Services</a>
+											<ul>
+												<li><a href="services.php">Services</a></li>
+												<li><a href="service-detail.php">IT INFRASTRUCTURE MANAGEMENT SERVICES</a></li>
+												<li><a href="service-warranty.php">WARRANTY MANAGEMENT SERVICES</a></li>
+												<li><a href="service-print.php">MANAGED PRINT SERVICES</a></li>
+												<li><a href="service-system.php">SYSTEM INTEGRATION</a></li>
+												<li><a href="service-software.php">SOFTWARE SOLUTIONS</a></li>
+												<li><a href="service-managed.php">MANAGED IT SERVICES</a></li>
+											</ul>
+										</li>
+										<li class=""><a href="career.php">Career</a>
+											
+										</li>
+										
+										<li><a href="contact.html">Contact</a></li>
+									</ul>
+								</div>
+
+							</nav>
+							<!-- Main Menu End-->
+
+							<div class="outer-box d-flex align-items-center">
+								<!-- Search Btn -->
+								<div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span>
+								</div>
+
+								<!-- Nav Btn -->
+								<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
+									<span>1</span>
+								</div>
+
+								<!-- Button Box -->
+								<div class="button-box style-two">
+									<a class="btn-style-one theme-btn btn-item" href="contact.html">
+										<div class="btn-wrap">
+											<span class="text-one">contact me</span>
+											<span class="text-two">contact me</span>
+										</div>
+									</a>
+								</div>
+
+								<!-- Mobile Navigation Toggler -->
+								<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
+
+							</div>
 						</div>
-					</form>
+
+					</div>
 				</div>
-                <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
-            </nav>
-        </div>
-		<!-- End Mobile Menu -->
-	
-    </header>
-    <!-- End Main Header -->
+			</div>
+
+			<!-- Sticky Header  -->
+			<div class="sticky-header">
+				<div class="auto-container">
+					<div class="d-flex justify-content-between align-items-center">
+						<!-- Logo -->
+						<div class="logo">
+							<a href="index.html" title=""><img src="images/alsynimg.jpg" alt="" title=""></a>
+						</div>
+
+						<!-- Right Col -->
+						<div class="right-box d-flex align-items-center flex-wrap">
+							<!-- Main Menu -->
+							<nav class="main-menu">
+								<!--Keep This Empty / Menu will come through Javascript-->
+							</nav>
+							<!-- Main Menu End-->
+
+							<div class="outer-box d-flex align-items-center">
+
+								<!-- Social Box -->
+								<ul class="header-social_box-two">
+									<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a>
+									</li>
+									<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
+									<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
+								</ul>
+
+								<!-- Nav Btn -->
+								<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
+									<span>1</span>
+								</div>
+
+								<!-- Button Box -->
+								<div class="button-box style-two">
+									<a class="btn-style-one theme-btn btn-item" href="#">
+										<div class="btn-wrap">
+											<span class="text-one">contact me</span>
+											<span class="text-two">contact me</span>
+										</div>
+									</a>
+								</div>
+
+								<!-- Mobile Navigation Toggler -->
+								<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
+
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+			<!-- End Sticky Menu -->
+
+			<!-- Mobile Menu  -->
+			<div class="mobile-menu">
+				<div class="menu-backdrop"></div>
+				<div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
+				<nav class="menu-box">
+					<div class="nav-logo"><a href="index.html"><img src="images/alsynimg.jpg" alt="" title=""></a></div>
+					<!-- Search -->
+					<div class="search-box">
+						<form method="post" action="contact.html">
+							<div class="form-group">
+								<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
+								<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
+							</div>
+						</form>
+					</div>
+					<div class="menu-outer">
+						<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+					</div>
+				</nav>
+			</div>
+			<!-- End Mobile Menu -->
+		</header>
+		<!-- End Main Header -->
+
+		<!-- Sidebar Cart Item -->
+		<div class="xs-sidebar-group info-group">
+			<div class="xs-overlay xs-bg-black"></div>
+			<div class="xs-sidebar-widget">
+				<div class="sidebar-widget-container">
+					<div class="close-button">
+						<span class="fa fa-solid fa-power-off fa-fw"></span>
+					</div>
+					<div class="sidebar-textwidget">
+
+						<!-- Sidebar Info Content -->
+						<div class="sidebar-info-contents">
+							<div class="content-inner">
+
+								<!-- Title Box -->
+								<div class="title-box">
+									<h5>Shopping <span>Bag</span></h5>
+									<div class="price">$15 from free economy shipping</div>
+								</div>
+
+								<!-- Empty Cart Box -->
+								<div class="empty-cart-box">
+									<!-- No Product -->
+									<div class="no-cart">
+										<span class="icon fa fa-solid fa-cart-plus fa-fw"></span>
+										No products in cart.
+									</div>
+								</div>
+
+								<!-- Lower Box -->
+								<div class="lower-box">
+									<h5>Popular <span>Suggestions</span></h5>
+
+									<!-- Post Block -->
+									<div class="post-block">
+										<div class="inner-box">
+											<div class="image">
+												<img src="images/resource/post-thumb-1.jpg" alt="" />
+											</div>
+											<h6><a href="#">Technical Support</a></h6>
+											<div class="rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="price-box">$125</div>
+											<a class="theme-btn bag-btn" href="#">add to bag</a>
+										</div>
+									</div>
+
+									<!-- Post Block -->
+									<div class="post-block">
+										<div class="inner-box">
+											<div class="image">
+												<img src="images/resource/post-thumb-2.jpg" alt="" />
+											</div>
+											<h6><a href="#">Business Planning</a></h6>
+											<div class="rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="price-box">$205</div>
+											<a class="theme-btn bag-btn" href="#">add to bag</a>
+										</div>
+									</div>
+
+									<!-- Post Block -->
+									<div class="post-block">
+										<div class="inner-box">
+											<div class="image">
+												<img src="images/resource/post-thumb-3.jpg" alt="" />
+											</div>
+											<h6><a href="#">Cyber Security</a></h6>
+											<div class="rating">
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+												<span class="fa fa-star"></span>
+											</div>
+											<div class="price-box">$125</div>
+											<a class="theme-btn bag-btn" href="#">add to bag</a>
+										</div>
+									</div>
+
+								</div>
+
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
 	
 	<!-- Page Title -->
-    <section class="page-title" style="background-image:url(images/rear-view-businessman-talking-phone-city.jpg)">
+    <section class="page-title" style="background-image:url(images/about-banner.jpg)">
         <div class="auto-container">
 			<h2>Contact Us</h2>
 			<ul class="bread-crumb clearfix">
@@ -361,7 +469,7 @@
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="logo">
-										<a href="index.html"><img src="images/footer-logo.png" alt="" /></a>
+										<a href="index.html"><img src="images/alsynimg.png" alt="" /></a>
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new ones in advertising sector.</div>
 									<a href="#" class="theme-btn about-btn">About us</a>
@@ -425,17 +533,17 @@
 									<div class="widget-content">
 										<div class="images-outer clearfix">
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-1.jpg"><img src="images/gallery/footer-gallery-thumb-1.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-1.jpg"><img src="images/service/Wavy_Bus-41_Single-09.jpg" alt=""></a></figure>
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-2.jpg"><img src="images/gallery/footer-gallery-thumb-2.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-2.jpg"><img src="images/service/8771938.jpg" alt=""></a></figure>
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-3.jpg"><img src="images/gallery/footer-gallery-thumb-3.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-3.jpg"><img src="images/service/6533310.jpg" alt=""></a></figure>
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-4.jpg"><img src="images/gallery/footer-gallery-thumb-4.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-4.jpg"><img src="images/service/3937434.jpg" alt=""></a></figure>
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-5.jpg"><img src="images/gallery/footer-gallery-thumb-5.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-5.jpg"><img src="images/service/19430.jpg" alt=""></a></figure>
 											<!--Image Box-->
-											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-6.jpg"><img src="images/gallery/footer-gallery-thumb-6.jpg" alt=""></a></figure>
+											<figure class="image-box"><a class="lightbox-image" href="images/gallery/project-6.jpg"><img src="images/service/5057942.jpg" alt=""></a></figure>
 										</div>
 									</div>
 								</div>
@@ -448,7 +556,7 @@
 			</div>
 			
 			<div class="footer-bottom">
-				<div class="copyright">2023 &copy; All rights reserved by <a href="#">Themexriver</a></div>
+				<div class="copyright">2023 &copy; Developed by <a href="#">Black I technologies and Solutions</a></div>
 			</div>
 			
 		</div>
