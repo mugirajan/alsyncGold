@@ -51,7 +51,6 @@
 }
 
 .career-card:nth-child(1):before {
-<<<<<<< HEAD
   background-image:url(../../assets/images/career/executive-with-hand-drawn-light-bulb.jpg)
 }
 .career-card:nth-child(2):before {
@@ -74,30 +73,6 @@
 }
 .career-card:nth-child(8):before {
   background-image: url(../../assets/images/career/youth-cleaning-forest-from-trash.jpg);
-=======
-  background-image:url(../images/career/executive-with-hand-drawn-light-bulb.jpg)
-}
-.career-card:nth-child(2):before {
-  background-image: url(../images/career/report-analysis-progress-chart-concept.jpg);
-}
-.career-card:nth-child(3):before {
-  background-image: url(../images/career/medium-shot-people-shaking-hands.jpg);
-}
-.career-card:nth-child(4):before {
-  background-image: url(../images/career/smiling-employee-with-sheets-papers-sitting-desk-high-quality-photo.jpg);
-}
-.career-card:nth-child(5):before {
-  background-image: url(../images/career/hand-drawn-diagram-success.jpg);
-}
-.career-card:nth-child(6):before {
-  background-image: url(../images/career/man-giving-bar-graph-presentation-using-high-technology-digital-pen.jpg);
-}
-.career-card:nth-child(7):before {
-  background-image: url(../images/career/happy-business-team-celebrating-with-raised-up-hands-office-success-winning-concept.jpg);
-}
-.career-card:nth-child(8):before {
-  background-image: url(../images/career/youth-cleaning-forest-from-trash.jpg);
->>>>>>> 7201c1b9ca3047af038c5471a5843959554a2810
 }
 
 .content {
@@ -125,9 +100,10 @@
   font-size: 1.125rem;
   font-style: italic;
   line-height: 1.35;
+  
 }
 
-.btn {
+.career-btn {
   cursor: pointer;
   margin-top: 1.5rem;
   padding: 0.75rem 1.5rem;
@@ -139,10 +115,10 @@
   background-color: black;
   border: none;
 }
-.btn:hover {
+.career-btn:hover {
   background-color: #0d0d0d;
 }
-.btn:focus {
+.career-btn:focus {
   outline: 1px dashed yellow;
   outline-offset: 3px;
 }

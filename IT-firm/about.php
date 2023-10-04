@@ -1,6 +1,6 @@
 <?php include 'shared/header.php' ?>
 <!-- Page Title -->
-        <section class="page-title" style="background-image:url(images/about-banner.jpg)">
+        <section class="page-title" style="background-image:url(assets/images/home-about/about-banner.jpg)">
 			<div class="auto-container">
 				<h2>About Us</h2>
 				<ul class="bread-crumb clearfix">
@@ -56,10 +56,10 @@
 						<div class="about-one-image-inner">
 							<div class="about-one_color-layer"></div>
 							<div class="about-cicle_layer">
-								<img src="images/icons/circle-layer.png" alt="" />
+								<img src="assets/images/icons/circle-layer.png" alt="" />
 							</div>
 							<div class="about-one_image">
-								<img src="images/home-about.png" alt="" />
+								<img src="assets/images/home-about/home-about.png" alt="" />
 							</div>
 							<!-- <div class="about-one_bold-text">About us</div> -->
 							<div class="about-one_image-text">We are a certified IT Service company.</div>
@@ -71,7 +71,7 @@
 		<!-- End About One -->
          <!--why choose us-->
 		 <section class="choose-one">
-			<div class="choose-one_pattern-layer" style="background-image:url(images/background/pattern-19.png)"></div>
+			<div class="choose-one_pattern-layer" style="background-image:url(assets/images/background/pattern-19.png)"></div>
 			<div class="auto-container">
 				
 				<!-- Sec Title -->
@@ -101,10 +101,10 @@
 									<!-- Image Column -->
 									<div class="choose-one_image-column col-lg-6 col-md-12 col-sm-12">
 										<div class="choose-one_image-inner">
-											<div class="choose-one_dotted-layer" style="background-image:url(images/background/pattern-18.png)"></div>
+											<div class="choose-one_dotted-layer" style="background-image:url(assets/images/background/pattern-18.png)"></div>
 											<div class="choose-one_color-layer"></div>
 											<div class="choose-one_image">
-												<img src="images/resource/choose.jpg" alt="" />
+												<img src="assets/images/service/19430.jpg" alt="" />
 											</div>
 										</div>
 									</div>
@@ -133,10 +133,10 @@
 									<!-- Image Column -->
 									<div class="choose-one_image-column col-lg-6 col-md-12 col-sm-12">
 										<div class="choose-one_image-inner">
-											<div class="choose-one_dotted-layer" style="background-image:url(images/background/pattern-18.png)"></div>
+											<div class="choose-one_dotted-layer" style="background-image:url(assets/images/background/pattern-18.png)"></div>
 											<div class="choose-one_color-layer"></div>
 											<div class="choose-one_image">
-												<img src="images/resource/choose.jpg" alt="" />
+												<img src="assets/images/service/5057942.jpg" alt="" />
 											</div>
 										</div>
 									</div>
@@ -165,10 +165,10 @@
 									<!-- Image Column -->
 									<div class="choose-one_image-column col-lg-6 col-md-12 col-sm-12">
 										<div class="choose-one_image-inner">
-											<div class="choose-one_dotted-layer" style="background-image:url(images/background/pattern-18.png)"></div>
+											<div class="choose-one_dotted-layer" style="background-image:url(assets/images/background/pattern-18.png)"></div>
 											<div class="choose-one_color-layer"></div>
 											<div class="choose-one_image">
-												<img src="images/resource/choose.jpg" alt="" />
+												<img src="assets/images/service/3937434.jpg" alt="" />
 											</div>
 										</div>
 									</div>
@@ -203,7 +203,7 @@
 		 <!--about our company-->
 
 		 <section class="about-three">
-			<div class="about-three_shadow" style="background-image:url(images/background/pattern-32.png)"></div>
+			<div class="about-three_shadow" style="background-image:url(assets/images/background/pattern-32.png)"></div>
 			<div class="auto-container">
 				<div class="row clearfix">
 					
@@ -211,7 +211,7 @@
 					<div class="about-three_content-column col-lg-6 col-md-12 col-sm-12">
 						<div class="about-three_content-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="about-three_image">
-								<img src="images/resource/about-3.png" alt="" />
+								<img src="assets/images/home-about/30495.jpg" alt="" />
 							</div>
 						</div>
 					</div>
@@ -296,7 +296,7 @@
 					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
 
 						<div class="img-mask">
-							<img src="images/aboutones3.jpg"
+							<img src="assets/images/home-about/aboutones3.jpg"
 								alt="">
 						</div>
 						<div class="card-content">
@@ -311,7 +311,7 @@
 					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
 
 						<div class="img-mask">
-							<img src="images/aboutones4.jpg"
+							<img src="assets/images/home-about/aboutones4.jpg"
 								alt="">
 						</div>
 						<div class="card-content">
@@ -326,7 +326,7 @@
 					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
 
 						<div class="img-mask">
-							<img src="images/aboutones.jpg"
+							<img src="assets/images/home-about/aboutones.jpg"
 								alt="">
 						</div>
 						<div class="card-content">
@@ -341,7 +341,7 @@
 					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
 
 						<div class="img-mask">
-							<img src="images/aboutones2.jpg"
+							<img src="assets/images/home-about/aboutones2.jpg"
 								alt="">
 						</div>
 						<div class="card-content">
@@ -354,7 +354,7 @@
 						</div>
 					</div>
 
-					<div class="card-2 cloud col-lg-3 col-md-6 d-md-block d-none "
+					<div class="card-2 cloud-about col-lg-3 col-md-6 d-md-block d-none "
 						style="margin-left: 70px; margin-top: 30px;">
 						
 						<div class="card-content2 ">
@@ -409,7 +409,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-1.png" alt="" />
+									<img src="assets/images/resource/process-1.png" alt="" />
 								</div>
 								<div class="process-one_year">2010</div>
 								<h5 class="process-one_heading">Started business</h5>
@@ -422,7 +422,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-2.png" alt="" />
+									<img src="assets/images/resource/process-2.png" alt="" />
 								</div>
 								<div class="process-one_year style-two">2012</div>
 								<h5 class="process-one_heading">Survival during wartime</h5>
@@ -435,7 +435,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-3.png" alt="" />
+									<img src="assets/images/resource/process-3.png" alt="" />
 								</div>
 								<div class="process-one_year style-three">2016</div>
 								<h5 class="process-one_heading">Crisis and opportunity</h5>
@@ -448,7 +448,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-4.png" alt="" />
+									<img src="assets/images/resource/process-4.png" alt="" />
 								</div>
 								<div class="process-one_year style-four">2017</div>
 								<h5 class="process-one_heading">Get Award</h5>
@@ -461,7 +461,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-1.png" alt="" />
+									<img src="assets/images/resource/process-1.png" alt="" />
 								</div>
 								<div class="process-one_year">2010</div>
 								<h5 class="process-one_heading">Started business</h5>
@@ -474,7 +474,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-2.png" alt="" />
+									<img src="assets/images/resource/process-2.png" alt="" />
 								</div>
 								<div class="process-one_year style-two">2012</div>
 								<h5 class="process-one_heading">Survival during wartime</h5>
@@ -487,7 +487,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-3.png" alt="" />
+									<img src="assets/images/resource/process-3.png" alt="" />
 								</div>
 								<div class="process-one_year style-three">2016</div>
 								<h5 class="process-one_heading">Crisis and opportunity</h5>
@@ -500,7 +500,7 @@
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
-									<img src="images/resource/process-4.png" alt="" />
+									<img src="assets/images/resource/process-4.png" alt="" />
 								</div>
 								<div class="process-one_year style-four">2017</div>
 								<h5 class="process-one_heading">Get Award</h5>
@@ -531,7 +531,7 @@
 					<div class="team_one col-lg-3 col-md-6 col-sm-12">
 						<div class="team_one-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 							<div class="team_one-image">
-								<img src="images/avatar1.jpg" alt="" />
+								<img src="assets/images/team/avatar1.jpg" alt="" />
 								<div class="team_one-content">
 									<h5 class="team-one_title"><a href="team-detail.html">Ashish Sudra</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
@@ -560,7 +560,7 @@
 					<div class="team_one col-lg-3 col-md-6 col-sm-12">
 						<div class="team_one-inner wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
 							<div class="team_one-image">
-								<img src="images/avatar2.png" alt="" />
+								<img src="assets/images/team/avatar2.png" alt="" />
 								<div class="team_one-content">
 									<h5 class="team-one_title"><a href="team-detail.html">Rachna Sheth</a></h5>
 									<div class="team-one_designation">International Business Head</div>
@@ -589,7 +589,7 @@
 					<div class="team_one col-lg-3 col-md-6 col-sm-12">
 						<div class="team_one-inner wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
 							<div class="team_one-image">
-								<img src="images/avatar3.png" alt="" />
+								<img src="assets/images/team/avatar3.png" alt="" />
 								<div class="team_one-content">
 									<h5 class="team-one_title"><a href="team-detail.html">Tapak Meni</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
@@ -618,7 +618,7 @@
 					<div class="team_one col-lg-3 col-md-6 col-sm-12">
 						<div class="team_one-inner wow fadeInUp" data-wow-delay="450ms" data-wow-duration="1500ms">
 							<div class="team_one-image">
-								<img src="images/avatar4.png" alt="" />
+								<img src="assets/images/team/avatar4.png" alt="" />
 								<div class="team_one-content">
 									<h5 class="team-one_title"><a href="team-detail.html">Ergi Laura</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
@@ -657,7 +657,7 @@
 		<!---End Clients-->
 
 		<!-- form Three -->
-		<section class="contact-one" style="background-image:url(images/background/map-1.png)">
+		<section class="contact-one" style="background-image:url(assets/images/background/map-1.png)">
 			<div class="auto-container">
 				<!-- Sec Title -->
 				<div class="sec-title">
@@ -680,27 +680,28 @@
 							<!-- Contact Block -->
 							<div class="contact-block">
 								<div class="block-inner">
-									<span class="icon"><img src="images/icons/contact-1.png" alt="" /></span>
+									<span class="icon"><img src="assets/images/icons/contact-1.png" alt="" /></span>
 									<strong>Office address</strong>
-									Digital Agency Network 20 Eastbourne Terrace London W2 6LG
+									Alsync Global Solutions Private Limited Old No. 92/47, New No. 82/46, 4th Floor,
+									 East Coast Chamber, G N Chetty Road, T. nagar, Chennai – 600017
 								</div>
 							</div>
 							
 							<!-- Contact Block -->
 							<div class="contact-block">
 								<div class="block-inner">
-									<span class="icon"><img src="images/icons/contact-2.png" alt="" /></span>
+									<span class="icon"><img src="assets/images/icons/contact-2.png" alt="" /></span>
 									<strong>Telephone number</strong>
-									(408) 389-5470 <br> (408) 456-5470
+									04447730641
 								</div>
 							</div>
 							
 							<!-- Contact Block -->
 							<div class="contact-block">
 								<div class="block-inner">
-									<span class="icon"><img src="images/icons/contact-3.png" alt="" /></span>
+									<span class="icon"><img src="assets/images/icons/contact-3.png" alt="" /></span>
 									<strong>Mail address</strong>
-									help@envato.com <br> help@support.com
+									support@alsyncglobal.com
 								</div>
 							</div>
 							
@@ -775,14 +776,14 @@
 				<div class="clients-three_inner-container">
 					<!-- Sponsors Carousel -->
 					<ul class="sponsors-carousel-two owl-carousel owl-theme">
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client1whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client2white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client3white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client4white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client5whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client6whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client7whiteredo.png" alt=""></a></figure></li>
-						<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client1.png" alt=""></a></figure></li> -->
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
+						<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1.png" alt=""></a></figure></li> -->
 					</ul>
 				</div>
 			</div>
@@ -799,7 +800,7 @@
 						<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 					</div>
 					<div class="right-box">
-						<a class="cta-one_btn theme-btn" href="contact.html">get a quote</a>
+						<a class="cta-one_btn theme-btn" href="contact.php">Contact us</a>
 					</div>
 				</div>
 			</div>

@@ -5,6 +5,7 @@
 	<meta charset="utf-8">
 	<title>IT-Firm IT Businees HTML-5 Template | Homepage 04</title>
 	<!-- Stylesheets -->
+	
 	<link href="style/css/bootstrap.css" rel="stylesheet">
 	<link href="style/css/style.css" rel="stylesheet">
 	<link href="style/css/responsive.css" rel="stylesheet">
@@ -22,7 +23,7 @@
 	<link href="style/css/magnific-popup.css" rel="stylesheet">
 	<link href="style/css/odometer-theme-default.css" rel="stylesheet">
 	<link href="style/css/owl.css" rel="stylesheet">
-	<link href="style/css/service.css" rel="stylesheet">
+	
 	<link href="style/css/career.css" rel="stylesheet">
     
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -33,9 +34,13 @@
 		rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap"
 		rel="stylesheet">
+	
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-	<link rel="shortcut icon" href="assets/images/favicon.png" type="image/x-icon">
-	<link rel="icon" href="assets/images/favicon.png" type="image/x-icon">
+	
+
+	<link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
+	<link rel="icon" href="assets/images/logo/favicon.png" type="image/x-icon">
 
 	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -81,7 +86,7 @@
 				<div class="auto-container">
 					<div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
-						<div class="logo"><a href="index.html"><img src="assets/images/alsynimg.jpg" alt="" title=""></a></div>
+						<div class="logo"><a href="index.html"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
 
 						<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
 
@@ -118,7 +123,7 @@
 											
 										</li>
 										
-										<li><a href="contact.php">Contact</a></li>
+										
 									</ul>
 								</div>
 
@@ -130,14 +135,11 @@
 								<div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span>
 								</div>
 
-								<!-- Nav Btn -->
-								<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
-									<span>1</span>
-								</div>
+								
 
 								<!-- Button Box -->
 								<div class="button-box style-two">
-									<a class="btn-style-one theme-btn btn-item" href="contact.html">
+									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
 											<span class="text-one">contact me</span>
 											<span class="text-two">contact me</span>
@@ -161,7 +163,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<!-- Logo -->
 						<div class="logo">
-							<a href="index.html" title=""><img src="assets/images/alsynimg.jpg" alt="" title=""></a>
+							<a href="index.html" title=""><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a>
 						</div>
 
 						<!-- Right Col -->
@@ -182,10 +184,7 @@
 									<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
 								</ul>
 
-								<!-- Nav Btn -->
-								<div class="nav-btn navSidebar-button fa fa-solid fa-cart-plus fa-fw">
-									<span>1</span>
-								</div>
+								
 
 								<!-- Button Box -->
 								<div class="button-box style-two">
@@ -214,7 +213,7 @@
 				<div class="menu-backdrop"></div>
 				<div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.html"><img src="assets/images/alsynimg.jpg" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="index.html"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
 					<!-- Search -->
 					<div class="search-box">
 						<form method="post" action="contact.html">

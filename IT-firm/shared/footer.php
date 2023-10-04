@@ -12,8 +12,8 @@
 							<!-- Footer Column -->
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
-									<div class="logo">
-										<a href="index.html"><img src="assets/images/alsynimg.png" alt="" /></a>
+									<div class="logo footer-logo">
+										<a href="index.html"><img src="assets/images/logo/alsynimg.png" alt="" /></a>
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new
 										ones in advertising sector.</div>
@@ -108,7 +108,8 @@
 			</div>
 
 			<div class="footer-bottom">
-				<div class="copyright">2023 &copy; All rights reserved by <a href="#">Themexriver</a></div>
+			
+				<div class="copyright">2023 &copy; Developed by <a href="#"> Black I technologies and Solutions</a></div>
 			</div>
 
 		</div>

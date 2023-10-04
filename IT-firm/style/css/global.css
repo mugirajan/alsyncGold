@@ -752,7 +752,7 @@
 	background-color:#ffffff;
 	background-position:center center;
 	background-repeat:no-repeat;
-	background-image:url(../images/icons/preloader.svg);
+	background-image:url(../../assets/images/icons/preloader.svg);
 	background-size:80px;
 }
 
@@ -814,7 +814,7 @@ textarea{
 }
 
 .fa-solid{
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 a{
@@ -1032,7 +1032,7 @@ img{
 	left:0px;
 	top:8px;
 	line-height:1em;
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 	color:var(--main-color);
 	font-size:var(--font-24);
 	-webkit-transition:all 300ms ease;
@@ -1132,7 +1132,7 @@ img{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 	margin-left:var(--margin-left-10);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .btn-style-one:hover{
@@ -1242,7 +1242,7 @@ img{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 	margin-left:var(--margin-left-10);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .btn-style-two:hover{
@@ -1352,7 +1352,7 @@ img{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 	margin-left:var(--margin-left-10);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .btn-style-three:hover{
@@ -1461,7 +1461,7 @@ img{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 	margin-left:var(--margin-left-10);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .btn-style-four:hover{
@@ -1719,7 +1719,7 @@ img{
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
 	margin-left:var(--margin-left-10);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .btn-style-seven:hover{
@@ -1773,7 +1773,7 @@ img{
 	top:-4px;
 	width:34px;
 	height:22px;
-	background:url(../images/icons/separator.png) no-repeat;
+	background:url(../../assets/images/icons/separator.png) no-repeat;
 }
 
 .sec-title_heading{
@@ -1817,7 +1817,7 @@ img{
 	top:-4px;
 	width:34px;
 	height:22px;
-	background:url(../images/icons/separator-1.png) no-repeat;
+	background:url(../../assets/images/icons/separator-1.png) no-repeat;
 }
 
 .sec-title.centered .arrow{
@@ -2028,7 +2028,7 @@ img{
 	text-align:center;
 	font-size:var(--font-16);
 	color:var(--color-fiftyfour);
-	font-family: 'Font Awesome 5 Pro';
+	font-family: 'Font Awesome\ 5 Free';
 }
 
 .ui-menu .ui-menu-item{
@@ -2056,3 +2056,59 @@ img{
 	background-color:var(--main-color);
 }
 
+
+
+.managed-box {
+	background-color: white;
+	border:2px solid var(--main-color);
+	 text-align: center;
+	 line-height: 200px;
+	 font-size: 2rem;
+	 margin: 10px;
+	 cursor: pointer;
+	 transition: all 0.3s ease;
+	 padding:10px;
+ }
+ .managed-box p{
+	 color:black !important;
+ }
+ 
+ .managed-box:hover {
+	 
+	 transform: scale(1.1);
+	 box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+ }
+ .managed-box:hover {
+	
+	 animation: fadeIn 0.5s ease; /* Apply fadeIn animation on hover */
+ }
+ 
+ /* Define the fadeIn animation */
+ @keyframes fadeIn {
+	 from {
+		 opacity: 0;
+	 }
+	 to {
+		 opacity: 1;
+	 }
+ }
+ .elementor-icon svg {
+	 fill: #0E77A4;
+ }
+ .elementor-icon svg {
+	 width: 2em;
+	 height: 2em;
+	 position: relative;
+	 display: flex;
+	 justify-content:center;
+	 margin:0 auto;
+ }
+ svg {
+	 overflow: hidden;
+	 vertical-align: middle;
+ }
+ 
+ .auto-container-service{
+	 width:70%;
+	 margin:0 auto;
+ }

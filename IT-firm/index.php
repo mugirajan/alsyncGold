@@ -4,11 +4,11 @@
 		<div class="header-image">
 			<div class="banner1   d-lg-block d-none">
 				<video autoplay loop muted plays-inline class="background-video">
-					<source src="assets/images/alsync.mp4" type="video/mp4" />
+					<source src="assets/images/home/alsync.mp4" type="video/mp4" />
 				</video>
 			</div>
 			<div class="banner2 d-lg-none d-xl-none">
-				<img class="background-video" src="assets/images/home-banner.jpg">
+				<img class="background-video" src="assets/images/home/home-banner.jpg">
 				</img>
 
 			</div>
@@ -34,7 +34,7 @@
 	<!-- End Main Slider -->
 
 	<!-- Service One -->
-	<section class="service-one" style="background-color: rgb(168, 239, 255, 1);">
+	<section class="service-one" style="background-color: rgb(222, 223, 223);">
 		<div class="auto-container">
 			<div class="row clearfix">
 
@@ -195,7 +195,7 @@
 							<img src="assets/images/icons/circle-layer.png" alt="" />
 						</div>
 						<div class="about-one_image">
-							<img src="assets/images/home-about.png" alt="" />
+							<img src="assets/images/home-about/home-about.png" alt="" />
 						</div>
 						<!-- <div class="about-one_bold-text">About us</div> -->
 						<div class="about-one_image-text">We are a certified IT Service company.</div>
@@ -214,13 +214,13 @@
 				<h2 class="sec-title_heading">Passionate Team & <br> <span class="theme_color">Versatile</span>
 					Achievements</h2>
 			</div>
-			<div class="counter-one_inner-container" style="background-image:url(images/homestats.jpg)">
+			<div class="counter-one_inner-container" style="background-image:url(assets/images/home/homestats.jpg)">
 				<div class="row clearfix">
 
 					<!-- Counter Column -->
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
-							<span class="counter-one_icon fa-solid fa-user-plus fa-fw"></span>
+							<span class="counter-one_icon fas fa-user-plus "></span>
 							<div class="counter-one_counter"><span class="odometer" data-count="100"></span>+</div>
 							<div class="counter-one_text">Branches</div>
 						</div>
@@ -229,7 +229,7 @@
 					<!-- Counter Column -->
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
-							<span class="counter-one_icon fa-solid fa-award fa-fw"></span>
+							<span class="counter-one_icon fas fa-award "></span>
 							<div class="counter-one_counter"><span class="odometer" data-count="1500"></span>+</div>
 							<div class="counter-one_text">Service Locations</div>
 						</div>
@@ -238,7 +238,7 @@
 					<!-- Counter Column -->
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
-							<span class="counter-one_icon fa-regular fa-file fa-fw"></span>
+							<span class="counter-one_icon far fa-file"></span>
 							<div class="counter-one_counter"><span class="odometer" data-count="100"></span>+</div>
 							<div class="counter-one_text">Parts Centers</div>
 						</div>
@@ -247,7 +247,7 @@
 					<!-- Counter Column -->
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
-							<span class="counter-one_icon fa-solid fa-user-tie fa-fw"></span>
+							<span class="counter-one_icon fas fa-user-tie"></span>
 							<div class="counter-one_counter"><span class="odometer" data-count="3000"></span>+</div>
 							<div class="counter-one_text">Engineers</div>
 						</div>
@@ -291,7 +291,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -305,7 +305,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -319,7 +319,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right fa-fw theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 					</div>
@@ -385,7 +385,7 @@
 				<div class="team_one col-lg-3 col-md-6 col-sm-12">
 					<div class="team_one-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="team_one-image">
-							<img src="assets/images/avatar1.jpg" alt="" />
+							<img src="assets/images/team/avatar1.jpg" alt="" />
 							<div class="team_one-content">
 								<h5 class="team-one_title"><a href="team-detail.php">Ashish Sudra</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
@@ -414,7 +414,7 @@
 				<div class="team_one col-lg-3 col-md-6 col-sm-12">
 					<div class="team_one-inner wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
 						<div class="team_one-image">
-							<img src="assets/images/avatar2.png" alt="" />
+							<img src="assets/images/team/avatar2.png" alt="" />
 							<div class="team_one-content">
 								<h5 class="team-one_title"><a href="team-detail.php">Rachna Sheth</a></h5>
 								<div class="team-one_designation">International Business Head</div>
@@ -443,7 +443,7 @@
 				<div class="team_one col-lg-3 col-md-6 col-sm-12">
 					<div class="team_one-inner wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
 						<div class="team_one-image">
-							<img src="assets/images/avatar3.png" alt="" />
+							<img src="assets/images/team/avatar3.png" alt="" />
 							<div class="team_one-content">
 								<h5 class="team-one_title"><a href="team-detail.php">Tapak Meni</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
@@ -472,7 +472,7 @@
 				<div class="team_one col-lg-3 col-md-6 col-sm-12">
 					<div class="team_one-inner wow fadeInUp" data-wow-delay="450ms" data-wow-duration="1500ms">
 						<div class="team_one-image">
-							<img src="assets/images/avatar4.png" alt="" />
+							<img src="assets/images/team/avatar4.png" alt="" />
 							<div class="team_one-content">
 								<h5 class="team-one_title"><a href="team-detail.php">Ergi Laura</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
@@ -503,59 +503,28 @@
 	<!-- End Team One -->
 
 	<!-- Awards One -->
-	<section class="awards-one">
-		<div class="auto-container">
-			<div class="awards-one_inner-container" style="background-image:url()">
-				<div class="awards-one_pattern-1" style="background-image:url(assets/images/background/pattern-3.png)">
-				</div>
-				<div class="awards-one_pattern-2" style="background-image:url(assets/images/background/pattern-4.png)">
-				</div>
-				<div class="awards-one_pattern-3" style="background-image:url(assets/images/background/pattern-5.png)">
-				</div>
-				<div class="awards-one_pattern-4" style="background-image:url(assets/images/background/pattern-6.png)">
-				</div>
-				<!-- Sec Title -->
-				<div class="sec-title light centered">
-					<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
-					<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
-							Clients</span></h2>
-				</div>
-
+	<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;z-index: 9;">
+		<div class="container">
+			<div class="sec-title light centered">
+				<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
+				<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
+						Clients</span></h2>
+			</div>
+			<div class="clients-three_inner-container">
 				<!-- Sponsors Carousel -->
-				<ul class="sponsors-carousel owl-carousel owl-theme">
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client1.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/clients2.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client3.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client4.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client5.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client6.png"
-									alt=""></a></figure>
-					</li>
-					<li class="slide-item">
-						<figure class="award-one_image-box"><a href="#"><img src="assets/images/clients/client7.png"
-									alt=""></a></figure>
-					</li>
+				<ul class="sponsors-carousel-two owl-carousel owl-theme">
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
+					<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client1.png" alt=""></a></figure></li> -->
 				</ul>
-
 			</div>
 		</div>
-	</section>
+	</section><br>
 	<!-- End Awards One -->
 
 	<!-- Testimonial One -->
@@ -572,7 +541,7 @@
 				<!-- Testimonial Block One -->
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
-						<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
 						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
 							Solutions. I was inexperienced contractor but they carefully listened to my request and
 							try to deliver the best quality of service.</div>
@@ -585,7 +554,7 @@
 				<!-- Testimonial Block One -->
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
-						<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+						<div class="testimonial-block_one-quote fas fa-quote-left "></div>
 						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
 							Solutions. I was inexperienced contractor but they carefully listened to my request and
 							try to deliver the best quality of service.</div>
@@ -598,7 +567,7 @@
 				<!-- Testimonial Block One -->
 				<div class="testimonial-block_one">
 					<div class="testimonial-block_one-inner">
-						<div class="testimonial-block_one-quote fa-solid fa-quote-left fa-fw"></div>
+						<div class="testimonial-block_one-quote fas fa-quote-left"></div>
 						<div class="testimonial-block_one-text">Ordered my first mobile app development to iCoderz
 							Solutions. I was inexperienced contractor but they carefully listened to my request and
 							try to deliver the best quality of service.</div>
@@ -649,7 +618,7 @@
 					<div class="project_one mix all design col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/award.png" alt="" />
+								<img src="assets/images/home/award.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.php">Award-Winning
 											Photo</a></h5>
@@ -661,7 +630,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus "
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -674,7 +643,7 @@
 					<div class="project_one mix all cloud col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/editing.png" alt="" />
+								<img src="assets/images/home/editing.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.php">Property
 											Simplified</a></h5>
@@ -686,7 +655,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus"
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -699,7 +668,7 @@
 					<div class="project_one mix all design col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/foodapp.png" alt="" />
+								<img src="assets/images/home/foodapp.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.html">Deliveries Made
 											Easy</a></h5>
@@ -711,7 +680,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus "
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -724,7 +693,7 @@
 					<div class="project_one mix all cloud web col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/collection.png" alt="" />
+								<img src="assets/images/home/collection.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.php">Collection
 											Management</a></h5>
@@ -736,7 +705,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus"
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -774,7 +743,7 @@
 					<div class="project_one mix all cloud web col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/ios.png" alt="" />
+								<img src="assets/images/home/ios.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.php">iOS Application</a>
 									</h5>
@@ -786,7 +755,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus"
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -799,7 +768,7 @@
 					<div class="project_one mix all design col-lg-3 col-md-6 col-sm-12">
 						<div class="project_one-inner">
 							<div class="project_one-image">
-								<img src="assets/images/gallery/handyman.png" alt="" />
+								<img src="assets/images/home/handyman.png" alt="" />
 								<div class="project_one-content">
 									<h5 class="project-one_title"><a href="project-detail.php">HandyMan app</a>
 									</h5>
@@ -811,7 +780,7 @@
 										<div class="project_one-text">lead the team of passionate developers,
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
-										<a class="project_one-plus fa-solid fa-plus fa-fw"
+										<a class="project_one-plus fa-solid fa-plus"
 											href="project-detail.php"></a>
 									</div>
 								</div>
@@ -875,7 +844,7 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">get a quote</a>
+					<a class="cta-one_btn theme-btn" href="contact.php">contact us</a>
 				</div>
 			</div>
 		</div>
