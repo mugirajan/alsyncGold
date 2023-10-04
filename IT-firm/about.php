@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'shared/header.php' ?>
 <!-- Page Title -->
         <section class="page-title" style="background-image:url(images/about-banner.jpg)">
 			<div class="auto-container">
@@ -804,5 +804,5 @@
 				</div>
 			</div>
 		</section>
-<?php include 'footer.php' ?>
+<?php include 'shared/footer.php' ?>
 

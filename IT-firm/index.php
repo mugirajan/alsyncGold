@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'shared/header.php' ?>
 	
 	<div id="overlay">
 		<div class="header-image">
@@ -883,7 +883,7 @@
 	<!-- End CTA One -->
 
 
-<?php include 'footer.php' ?>
+<?php include 'shared/footer.php' ?>
 
 
 	
