@@ -829,7 +829,7 @@ a{
 p{
 	position:relative;
 	line-height:28px;
-	color:var(--color-six);
+	/* color:var(--color-six); */
 	font-size:var(--font-16);
 	
 }

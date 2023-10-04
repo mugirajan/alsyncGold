@@ -6,7 +6,7 @@
         <div class="auto-container">
 			<h2>Contact Us</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>Contact Us</li>
 			</ul>
         </div>

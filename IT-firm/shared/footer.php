@@ -17,7 +17,7 @@
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new
 										ones in advertising sector.</div>
-									<a href="#" class="theme-btn about-btn">About us</a>
+									<a href="about.php" class="theme-btn about-btn">About us</a>
 								</div>
 							</div>
 
@@ -67,13 +67,13 @@
 								<div class="footer-widget contact-widget">
 									<h4>Official info:</h4>
 									<ul class="contact-list">
-										<li><span class="icon fa fa-phone"></span> 30 Commercial Road <br> Fratton,
-											Australia</li>
-										<li><span class="icon fa fa-envelope"></span> 1-888-452-1505</li>
+										<li><span class="icon fa fa-map"></span> G N Chetty Road,<br>  T. nagar,
+										Chennai – 600017 </li>
+										<li><span class="icon fa fa-phone"></span>04447730641</li>
 									</ul>
 									<div class="timing">
 										<strong>Open Hours: </strong>
-										Mon - Sat: 8 am - 5 pm, <br> Sunday: CLOSED
+										Mon - Sat: 9 am - 5 pm, <br> Sunday: CLOSED
 									</div>
 								</div>
 							</div>
@@ -109,7 +109,7 @@
 
 			<div class="footer-bottom">
 			
-				<div class="copyright">2023 &copy; Developed by <a href="#"> Black I technologies and Solutions</a></div>
+				<div class="copyright">2023 &copy; Developed by <a href="#"> Black I Technologies and Solutions</a></div>
 			</div>
 
 		</div>

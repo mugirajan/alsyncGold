@@ -6,7 +6,7 @@
         <div class="auto-container">
 			<h2>Career</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>career</li>
 			</ul>
         </div>
@@ -29,7 +29,7 @@
                         <div class="career-content">
                             <h2 class="title">Management Vision</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                           
                           </div>
 					</div>
 				
@@ -39,7 +39,7 @@
                         <div class="career-content">
                             <h2 class="title">Financial Stability</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                           
                           </div>
 					</div>
 				
@@ -49,7 +49,7 @@
                         <div class="career-content">
                             <h2 class="title">Great Clients</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                            
                           </div>
 					</div>
 				
@@ -59,7 +59,7 @@
                         <div class="career-content">
                             <h2 class="title">Work-Life Balance</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                         
                           </div>
 					</div>
 				
@@ -69,7 +69,7 @@
                         <div class="career-content">
                             <h2 class="title">Skill Developement Opportunity</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                            
                           </div>
 					</div>
 
@@ -79,7 +79,7 @@
                         <div class="career-content">
                             <h2 class="title">Growth Opportunity</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                          
                           </div>
 					</div>
 				
@@ -88,7 +88,7 @@
                         <div class="career-content">
                             <h2 class="title">Positive Culture</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                           
                          </div>
 					</div>
                     
@@ -97,7 +97,7 @@
                         <div class="career-content">
                             <h2 class="title">Inclusive Environment</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <button class="career-btn">Book Now</button>
+                            <!-- <button class="career-btn">Book Now</button> -->
                           </div>
 					</div>
 				
@@ -181,10 +181,6 @@
 		 <label id="phone-label" class="row-label" for="phone">Phone No:</label>
 		 <input id="pjone" class="row-input" type="number" placeholder="Enter your phone number" required>
 	  
-		 <label id="file-label" class="row-label" for="file">Resume Upload:</label>
-		 <input id="file" class="row-input" type="file">
-		  
-		 
 	  
 		  <!-- salary radio -->
 		  <p class="row-label">Are you open to relocating for this opportunity?</p>
@@ -200,6 +196,8 @@
 		  </label>
 	  
 		 
+		  <label id="file-label" class="row-label" for="file">Resume Upload:</label>
+		  <input id="file" class="row-input" type="file">
 	  
 		  <!-- comments textarea -->
 		  <label class="row-label" for="comments">Additional informations:</label>

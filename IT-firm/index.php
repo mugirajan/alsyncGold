@@ -18,7 +18,7 @@
 
 			<section class="herocontent">
 				<h1>Welcome To <br>Alsync Global Solutions</h1>
-				<a href="#" class="btn lighthead"></a>
+				<a href="services.php" class="btn lighthead"></a>
 			</section>
 
 		</div>
@@ -179,9 +179,9 @@
 						</div>
 
 						<!-- About One Detail -->
-						<a class="about-one_detail lightbox-video" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+						<a class="about-one_detail"  href="about.php">
 							Check details about our company
-							<span class="play-icon"><span class="fa-solid fa-play fa-fw"></span><i
+							<span class="play-icon"><span class="fas fa-plus"></span><i
 									class="ripple"></i></span>
 						</a>
 
@@ -671,7 +671,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/foodapp.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.html">Deliveries Made
+									<h5 class="project-one_title"><a href="project-detail.php">Deliveries Made
 											Easy</a></h5>
 									<div class="project-one_designation">Food Delivery</div>
 								</div>
@@ -818,14 +818,14 @@
 				</div>
 
 				<!-- Button Box -->
-				<div class="projects-one_button-box text-center">
+				<!-- <div class="projects-one_button-box text-center">
 					<a class="btn-style-one theme-btn btn-item" href="#">
 						<div class="btn-wrap">
 							<span class="text-one">Load more</span>
 							<span class="text-two">Load more</span>
 						</div>
 					</a>
-				</div>
+				</div> -->
 
 			</div>
 		</div>

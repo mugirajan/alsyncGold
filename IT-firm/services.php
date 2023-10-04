@@ -5,7 +5,7 @@
         <div class="auto-container">
 			<h2>Service's</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.html">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li>Service's</li>
 			</ul>
         </div>
@@ -35,7 +35,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">Managed IT Services</a></h5>
 									<div class="service-block_two-text">The goal is to reduce downtime, improve performance, and maintain optimal system security.</div>
-									<a class="service-block_two-more" href="service-detail.html">Read more</a>
+									<a class="service-block_two-more" href="service-detail.php">Read more</a>
 								</div>
 							</div>
 						</div>
@@ -55,7 +55,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">WARRANTY MANAGEMENT SERVICES</a></h5>
 									<div class="service-block_two-text">Warranty Management Services aid businesses in tracking and maintaining warranties, minimizing costs and repair risks. They offer comprehensive support, ensuring a secure customer experience.</div>
-									<a class="service-block_two-more" href="service-warranty.html">Read more</a>
+									<a class="service-block_two-more" href="service-warranty.php">Read more</a>
 								</div>
 							</div>
 						</div>
@@ -75,7 +75,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">MANAGED PRINT SERVICES</a></h5>
 									<div class="service-block_two-text">Managed Print Services outsource print-related tasks, reducing costs and boosting productivity. External providers handle design, optimization, and printing, freeing up resources for core projects.</div>
-									<a class="service-block_two-more" href="service-print.html">Read more</a>
+									<a class="service-block_two-more" href="service-print.php">Read more</a>
 								</div>
 							</div>
 						</div>
@@ -95,7 +95,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">SYSTEM INTEGRATION</a></h5>
 									<div class="service-block_two-text">Effective integration streamlines operations, saves time, and reduces costs by automating tasks. Consulting specialists can help determine the best integration approach for your company's unique needs.</div>
-									<a class="service-block_two-more" href="service-system.html">Read more</a>
+									<a class="service-block_two-more" href="service-system.php">Read more</a>
 								</div>
 							</div>
 						</div>
@@ -115,7 +115,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">SOFTWARE SOLUTIONS</a></h5>
 									<div class="service-block_two-text">Custom software solutions are tailored programs that automate tasks and address specific business needs, like CRM or ERP systems. They simplify operations and solve complex problems.</div>
-									<a class="service-block_two-more" href="service-software.html">Read more</a>
+									<a class="service-block_two-more" href="service-software.php">Read more</a>
 								</div>
 							</div>
 						</div>
@@ -135,7 +135,7 @@
 								<div class="service-two_overlay-content">
 									<h5 class="service-block_two-title"><a href="#">MANAGED IT SERVICES</a></h5>
 									<div class="service-block_two-text">Managed IT services involve outsourcing IT operations to external providers, who manage various aspects like security, monitoring, and hardware provisioning for businesses.</div>
-									<a class="service-block_two-more" href="service-managed.html">Read more</a>
+									<a class="service-block_two-more" href="service-managed.php">Read more</a>
 								</div>
 							</div>
 						</div>

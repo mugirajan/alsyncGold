@@ -64,7 +64,7 @@
 				<div class="auto-container">
 					<div class="d-flex justify-content-between align-items-center flex-wrap">
 						<div class="left-box">
-							<div class="text">82/46, T. nagar, Chennai</div>
+							<div class="text"><i class="fas fa-phone" ></i>  04447730641 <i class="fas fa-map-marker-alt"></i>  82/46, T. nagar, Chennai</div>
 						</div>
 						<div class="right-box align-items-center d-flex">
 
@@ -188,7 +188,7 @@
 
 								<!-- Button Box -->
 								<div class="button-box style-two">
-									<a class="btn-style-one theme-btn btn-item" href="#">
+									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
 											<span class="text-one">contact me</span>
 											<span class="text-two">contact me</span>
