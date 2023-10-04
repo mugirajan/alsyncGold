@@ -131,9 +131,9 @@
 							<!-- Main Menu End-->
 
 							<div class="outer-box d-flex align-items-center">
-								<!-- Search Btn -->
-								<div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span>
-								</div>
+								
+								<!-- <div class="search-box-btn search-box-outer"><span class="icon fa fa-search"></span>
+								</div> -->
 
 								
 
@@ -148,7 +148,7 @@
 								</div>
 
 								<!-- Mobile Navigation Toggler -->
-								<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
+								<div class="mobile-nav-toggler"><span class="icon fas fa-bars"></span></div>
 
 							</div>
 						</div>
@@ -197,7 +197,7 @@
 								</div>
 
 								<!-- Mobile Navigation Toggler -->
-								<div class="mobile-nav-toggler"><span class="icon fa-solid fa-bars fa-fw"></span></div>
+								<div class="mobile-nav-toggler"><span class="icon fas fa-bars "></span></div>
 
 							</div>
 
@@ -213,19 +213,20 @@
 				<div class="menu-backdrop"></div>
 				<div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.html"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="index.php"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
 					<!-- Search -->
-					<div class="search-box">
+					<!-- <div class="search-box">
 						<form method="post" action="contact.html">
 							<div class="form-group">
 								<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
 								<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
 							</div>
 						</form>
-					</div>
+					</div> -->
 					<div class="menu-outer">
 						<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
 					</div>
+					<div class="mobile-nav-toggler"><span class="icon fas fa-bars "></span></div>
 				</nav>
 			</div>
 			<!-- End Mobile Menu -->

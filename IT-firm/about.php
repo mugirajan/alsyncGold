@@ -355,7 +355,7 @@
 					</div>
 
 					<div class="card-2 cloud-about col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 70px; margin-top: 30px;">
+						style="margin-left: 40px; margin-top: 30px;">
 						
 						<div class="card-content2 ">
 							<h3 class="card-title">Cloud Service</h3>

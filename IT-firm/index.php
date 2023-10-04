@@ -291,7 +291,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -305,7 +305,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -319,7 +319,8 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fa-solid fa-arrow-right  theme-btn" href="#"></a>
+								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
+								
 							</div>
 						</div>
 					</div>

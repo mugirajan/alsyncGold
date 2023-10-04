@@ -26,7 +26,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Management Vision</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -36,7 +36,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Financial Stability</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -46,7 +46,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Great Clients</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -56,7 +56,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Work-Life Balance</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -66,7 +66,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Skill Developement Opportunity</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -76,7 +76,7 @@
 				<!-- Service Block Two -->
 				
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="750ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Growth Opportunity</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -85,7 +85,7 @@
 				
                     <!-- Service Block Two -->
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Positive Culture</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>
@@ -94,7 +94,7 @@
                     
                     <!-- Service Block Two -->
 					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="1050ms" data-wow-duration="1500ms">
-                        <div class="content">
+                        <div class="career-content">
                             <h2 class="title">Inclusive Environment</h2>
                             <p class="copy">Seriously, straight up, just blast off into outer space today</p>
                             <button class="career-btn">Book Now</button>

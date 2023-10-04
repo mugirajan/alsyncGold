@@ -4724,7 +4724,7 @@
 
 .about-three_image{
 	position:relative;
-	margin-left:-110px;
+	/* margin-left:-110px; */
 }
 
 .about-three_image img{
@@ -5010,7 +5010,7 @@
 
 .steps-one{
 	position:relative;
-	padding:100px 0px 0px;
+	/* padding:100px 0px 0px; */
 }
 
 .steps-one_shadow{

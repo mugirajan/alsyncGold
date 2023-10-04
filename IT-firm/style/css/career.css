@@ -75,7 +75,7 @@
   background-image: url(../../assets/images/career/youth-cleaning-forest-from-trash.jpg);
 }
 
-.content {
+.career-content {
   position: relative;
   display: flex;
   flex-direction: column;
@@ -85,7 +85,7 @@
   transition: transform var(--d) var(--e);
   z-index: 1;
 }
-.content > * + * {
+.career-content > * + * {
   margin-top: 1rem;
 }
 
@@ -128,10 +128,10 @@
     transform: translateY(0);
   }
 
-  .content {
+  .career-content {
     transform: translateY(calc(100% - 4.5rem));
   }
-  .content > *:not(.title) {
+  .career-content > *:not(.title) {
     opacity: 0;
     transform: translateY(1rem);
     transition: transform var(--d) var(--e), opacity var(--d) var(--e);
@@ -149,20 +149,20 @@
 .career-card:focus-within:after {
     transform: translateY(-50%);
   }
-  .career-card:hover .content,
-.career-card:focus-within .content {
+  .career-card:hover .career-content,
+.career-card:focus-within .career-content {
     transform: translateY(0);
   }
-  .career-card:hover .content > *:not(.title),
-.career-card:focus-within .content > *:not(.title) {
+  .career-card:hover .career-content > *:not(.title),
+.career-card:focus-within .career-content > *:not(.title) {
     opacity: 1;
     transform: translateY(0);
     transition-delay: calc(var(--d) / 8);
   }
 
   .career-card:focus-within:before, .career-card:focus-within:after,
-.career-card:focus-within .content,
-.career-card:focus-within .content > *:not(.title) {
+.career-card:focus-within .career-content,
+.career-card:focus-within .career-content > *:not(.title) {
     transition-duration: 0s;
   }
 }
