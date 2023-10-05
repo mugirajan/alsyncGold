@@ -84,7 +84,7 @@
 			<!-- Header Upper -->
 			<div class="header-upper"style="    background-color:tranparent;">
 				<div class="auto-container">
-					<div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
+					<div style="padding:10px 0px" class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
 						<div class="logo"><a href="index.php"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
 
