@@ -238,7 +238,7 @@
   .row-input {
     padding: 5px 10px;
     margin: 0;
-    height: var(--box-height);
+    /* height: var(--box-height); */
     width: 100%;
     display: block;
   }

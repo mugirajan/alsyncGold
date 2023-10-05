@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>IT-Firm IT Businees HTML-5 Template | Homepage 04</title>
+	<title>Alsync Global</title>
 	<!-- Stylesheets -->
 	
 	<link href="style/css/bootstrap.css" rel="stylesheet">
@@ -82,11 +82,11 @@
 			<!-- End Header Top -->
 
 			<!-- Header Upper -->
-			<div class="header-upper"style="    background-color: rgba(0,0,0,0.3);">
+			<div class="header-upper"style="    background-color:tranparent;">
 				<div class="auto-container">
 					<div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
-						<div class="logo"><a href="index.html"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
+						<div class="logo"><a href="index.php"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
 
 						<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
 
@@ -120,6 +120,9 @@
 											</ul>
 										</li>
 										<li class=""><a href="career.php">Career</a>
+											
+										</li>
+										<li class=""><a class="contact" href="contact.php">Contact</a>
 											
 										</li>
 										
@@ -211,7 +214,7 @@
 			<!-- Mobile Menu  -->
 			<div class="mobile-menu">
 				<div class="menu-backdrop"></div>
-				<div class="close-btn"><span class="icon flaticon-020-x-mark"></span></div>
+				<div class="close-btn"><span class="icon fa-solid fa-x"></span></div>
 				<nav class="menu-box">
 					<div class="nav-logo"><a href="index.php"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
 					<!-- Search -->
@@ -219,116 +222,18 @@
 						<form method="post" action="contact.html">
 							<div class="form-group">
 								<input type="search" name="search-field" value="" placeholder="SEARCH HERE" required>
-								<button type="submit"><span class="icon flaticon-001-loupe"></span></button>
+								<button type="submit"><span class="icon fa-solid fa-magnifying-glass"></span></button>
 							</div>
 						</form>
 					</div> -->
 					<div class="menu-outer">
 						<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
 					</div>
-					<div class="mobile-nav-toggler"><span class="icon fas fa-bars "></span></div>
+					<!-- <div class="mobile-nav-toggler"><span class="icon fas fa-bars "></span></div> -->
 				</nav>
 			</div>
 			<!-- End Mobile Menu -->
         </header>
 		<!-- End Main Header -->
 
-		<!-- Sidebar Cart Item -->
-		<div class="xs-sidebar-group info-group">
-			<div class="xs-overlay xs-bg-black"></div>
-			<div class="xs-sidebar-widget">
-				<div class="sidebar-widget-container">
-					<div class="close-button">
-						<span class="fa fa-solid fa-power-off fa-fw"></span>
-					</div>
-					<div class="sidebar-textwidget">
-
-						<!-- Sidebar Info Content -->
-						<div class="sidebar-info-contents">
-							<div class="content-inner">
-
-								<!-- Title Box -->
-								<div class="title-box">
-									<h5>Shopping <span>Bag</span></h5>
-									<div class="price">$15 from free economy shipping</div>
-								</div>
-
-								<!-- Empty Cart Box -->
-								<div class="empty-cart-box">
-									<!-- No Product -->
-									<div class="no-cart">
-										<span class="icon fa fa-solid fa-cart-plus fa-fw"></span>
-										No products in cart.
-									</div>
-								</div>
-
-								<!-- Lower Box -->
-								<div class="lower-box">
-									<h5>Popular <span>Suggestions</span></h5>
-
-									<!-- Post Block -->
-									<div class="post-block">
-										<div class="inner-box">
-											<div class="image">
-												<img src="assets/images/resource/post-thumb-1.jpg" alt="" />
-											</div>
-											<h6><a href="#">Technical Support</a></h6>
-											<div class="rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="price-box">$125</div>
-											<a class="theme-btn bag-btn" href="#">add to bag</a>
-										</div>
-									</div>
-
-									<!-- Post Block -->
-									<div class="post-block">
-										<div class="inner-box">
-											<div class="image">
-												<img src="assets/images/resource/post-thumb-2.jpg" alt="" />
-											</div>
-											<h6><a href="#">Business Planning</a></h6>
-											<div class="rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="price-box">$205</div>
-											<a class="theme-btn bag-btn" href="#">add to bag</a>
-										</div>
-									</div>
-
-									<!-- Post Block -->
-									<div class="post-block">
-										<div class="inner-box">
-											<div class="image">
-												<img src="assets/images/resource/post-thumb-3.jpg" alt="" />
-											</div>
-											<h6><a href="#">Cyber Security</a></h6>
-											<div class="rating">
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-												<span class="fa fa-star"></span>
-											</div>
-											<div class="price-box">$125</div>
-											<a class="theme-btn bag-btn" href="#">add to bag</a>
-										</div>
-									</div>
-
-								</div>
-
-							</div>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</div>
+		

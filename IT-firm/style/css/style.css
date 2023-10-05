@@ -726,7 +726,7 @@
 
 .service-two{
 	position:relative;
-	padding:110px 0px 110px;
+	padding:70px 0px 110px;
 }
 
 .service-two_pattern-1{
@@ -1785,6 +1785,23 @@
 	text-transform:capitalize;
 	background-color:var(--white-color);
 }
+.project_one-pluss{
+	position:relative;
+	width:52px;
+	height:52px;
+	font-weight:700;
+	border-radius:50px;
+	text-align:center;
+	line-height:45px;
+	display:inline-block;
+	font-size:var(--font-14);
+	color:var(--black-color);
+	text-transform:capitalize;
+	background-color:var(--color-nine);
+	color:var(--white-color);
+	z-index:1;
+}
+
 
 .project_one-more:hover{
 	color:var(--color-nine);
@@ -3236,7 +3253,7 @@
 
 .choose-one{
 	position:relative;
-	padding-bottom:var(--padding-bottom-120);
+	/* padding-bottom:var(--padding-bottom-120); */
 }
 
 .choose-one_pattern-layer{
@@ -6970,7 +6987,8 @@
 	position:relative;
 	text-align:center;
 	background-size:cover;
-	padding:100px 0px 110px;
+	padding:180px 0px 150px;
+	margin-top:-100px;
 }
 
 .page-title:before{
@@ -6981,7 +6999,7 @@
 	right:0px;
 	bottom:0px;
 	opacity:0.75;
-	/* background-color:rgba(0, 0, 0, 0.363); */
+	background-color:rgba(0, 0, 0, 0.363);
 }
 
 .page-title h2{

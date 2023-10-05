@@ -888,7 +888,7 @@
 .header-top_three .text{
 	font-size:var(--font-15);
 	color:var(--white-color);
-	padding-left:var(--padding-left-30);
+	/* padding-left:var(--padding-left-30); */
 }
 
 .header-top_three .text:before{
@@ -1252,11 +1252,19 @@
 ====================================================================
 
 ***/
-
+@media(min-width:320px){
 .main-header .mobile-nav-toggler{
 	position: relative;
 	cursor: pointer;
-	display: none;
+	display: block !important;
+}
+}
+@media(min-width:770px){
+	.main-header .mobile-nav-toggler{
+		position: relative;
+		cursor: pointer;
+		display: none !important;
+	}
 }
 
 .mobile-menu{
@@ -2203,4 +2211,18 @@
 		visibility: hidden!important;
 	}
 
+
   }
+@media(min-width:320px){
+	.contact{
+		display:block !important;
+	}
+}
+@media(min-width:1025px){
+	.contact{
+		display:none !important;
+	}
+}
+.fa-bars{
+	color:white;
+}

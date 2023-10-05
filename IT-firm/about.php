@@ -355,7 +355,7 @@
 					</div>
 
 					<div class="card-2 cloud-about col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 40px; margin-top: 30px;">
+						style="margin-left: 45px; margin-top: 30px;">
 						
 						<div class="card-content2 ">
 							<h3 class="card-title">Cloud Service</h3>
@@ -767,7 +767,7 @@
 
          <!--clients-->
 		 <section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="sec-title light centered">
 					<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
 					<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">

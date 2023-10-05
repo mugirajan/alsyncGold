@@ -18,7 +18,7 @@
 
 			<section class="herocontent">
 				<h1>Welcome To <br>Alsync Global Solutions</h1>
-				<a href="services.php" class="btn lighthead"></a>
+				<a href="services.php" class="button lighthead"></a>
 			</section>
 
 		</div>
@@ -45,12 +45,12 @@
 						<h5 class="service-block_one-title"><a href="#">Managed IT <span>Services</span></a></h5>
 						<div class="service-block_one-text">Ensure an up-to-date, efficient IT network for your
 							company</div>
-						<a class="theme-btn service-block_one-link" href="#">Read More</a>
+						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
 						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">It is a comprehensive set of services that help
 								businesses manage their IT resources, networks, and systems with maximum
 								efficiency.These services include hardware and software support…</div>
-							<a class="theme-btn service-block_one-link two" href="#">Read More</a>
+							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -62,13 +62,13 @@
 						<h5 class="service-block_one-title"><a href="#">IT <span>Infrastructure </span></a></h5>
 						<div class="service-block_one-text">At IT Solutions, we provide our clients with proactive.
 						</div>
-						<a class="theme-btn service-block_one-link" href="#">Read More</a>
+						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
 						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Warranty Management Services are designed to
 								help
 								businesses manage and track their warranties, ensuring that
 								they are kept up to date and that their equipment is properly maintained…..</div>
-							<a class="theme-btn service-block_one-link two" href="#">Read More</a>
+							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -80,13 +80,13 @@
 						<h5 class="service-block_one-title"><a href="#">Managed IT <span>Services</span></a></h5>
 						<div class="service-block_one-text">Ensure and update your IT environment’s compliance.
 						</div>
-						<a class="theme-btn service-block_one-link" href="#">Read More</a>
+						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
 						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Entrusting the IT operations of a company to an
 								outside entity , called Managed Service Providers (MSPs ), is referred to as managed
 								IT services .....
 								the entire portfolio of print related activities.….</div>
-							<a class="theme-btn service-block_one-link two" href="#">Read More</a>
+							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -97,11 +97,11 @@
 						<div class="service-block_one-icon"><img src="assets/images/icons/service-4.png" alt="" /></div>
 						<h5 class="service-block_one-title"><a href="#">Software <span>Solutions</span></a></h5>
 						<div class="service-block_one-text">Improve efficiency, productivite Softwares </div>
-						<a class="theme-btn service-block_one-link" href="#">Read More</a>
+						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
 						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">Software solution is a program that will perform
 								all the time-consuming tasks and automate regular task catering you ease,...</div>
-							<a class="theme-btn service-block_one-link two" href="#">Read More</a>
+							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -291,7 +291,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
+								<a class="project_one-pluss fa-solid fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -305,7 +305,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
+								<a class="project_one-pluss fa-solid fa-arrow-right  theme-btn" href="#"></a>
 							</div>
 						</div>
 						<!-- Slide -->
@@ -319,7 +319,7 @@
 									<div class="sec-title_text">We deliver best-in-class web and mobile solutions
 										that will retain the attention of the target audience.</div>
 								</div>
-								<a class="fluid-one_arrow fas fa-arrow-right  theme-btn" href="#"></a>
+								<a class="project_one-pluss fa-solid fa-arrow-right  theme-btn" href="#"></a>
 								
 							</div>
 						</div>
@@ -505,7 +505,7 @@
 
 	<!-- Awards One -->
 	<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;z-index: 9;">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="sec-title light centered">
 				<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
 				<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">

@@ -346,7 +346,7 @@
 			//autoHeight: true,
 			smartSpeed: 500,
 			autoplay: 6000,
-			navText: [ '<span class="fa-solid fa-angle-left fa-fw"></span>', '<span class="fa-solid fa-angle-right fa-fw"></span>' ],
+			navText: [ '<span class="fas fa-arrow-left"></span>', '<span class="fas fa-arrow-right"></span>' ],
 			responsive:{
 				0:{
 					items:1
@@ -516,10 +516,10 @@
 			navText: [ '<span class="flaticon-left-arrow"></span>', '<span class="flaticon-right-arrow"></span>' ],
 			responsive:{
 				0:{
-					items:2
+					items:1
 				},
-				480:{
-					items:3
+				425:{
+					items:2
 				},
 				600:{
 					items:3
@@ -528,7 +528,7 @@
 					items:4
 				},
 				1024:{
-					items:4
+					items:5
 				}
 			}
 		});    		

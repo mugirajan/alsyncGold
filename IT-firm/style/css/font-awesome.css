@@ -569,10 +569,7 @@ readers do not read off random characters that represent icons */
 
 .fa-arrow-right:before {
   content: "\f061";
-  font-size:20px;
-  display:flex;
-  justify-content:center;
-  align-items:center;
+ 
 }
 
 .fa-arrow-square-down:before {
@@ -701,6 +698,9 @@ readers do not read off random characters that represent icons */
 
 .fa-axe:before {
   content: "\f6b2";
+}
+.fa-x:before{
+  content: "\58"
 }
 
 .fa-axe-battle:before {
