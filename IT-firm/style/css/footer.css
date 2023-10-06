@@ -261,3 +261,8 @@
 .main-footer .footer-bottom .copyright a{
 	color:#008bf7;
 }
+.navigation-footer  li a{
+	font-size:1.2rem;
+	line-height:2.5rem;
+	color:var(--color-twentyseven);
+}
