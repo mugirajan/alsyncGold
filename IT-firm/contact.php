@@ -40,7 +40,7 @@
 								<span class="icon"><img src="assets/images/icons/contact-1.png" alt="" /></span>
 								<strong>Office address</strong>
 								Alsync Global Solutions Private Limited Old No. 92/47, New No. 82/46, 4th Floor, East Coast Chamber, 
-								G N Chetty Road, T. nagar, Chennai – 600017
+								G N Chetty Road, T. nagar, Chennai - 600017
 							</div>
 						</div>
 						
@@ -71,7 +71,7 @@
 						
 						<!-- Contact Form -->
 						<div class="contact-form">
-							<form method="post" action="sendemail.php" id="contact-form">
+							<form method="post" id="contact-form">
 								<div class="row clearfix">
 									
 									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -100,7 +100,7 @@
 									</div>
 									
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<button class="btn-style-seven theme-btn">
+										<button class="btn-style-seven theme-btn" type="submit">
 											<span class="btn-wrap">
 												<span class="text-one">Send message</span>
 												<span class="text-two">Send message</span>
