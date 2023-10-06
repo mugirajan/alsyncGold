@@ -298,6 +298,15 @@
 	color:#000000;
 	margin-top:var(--margin-top-15);
 }
+.service-block_one-text{
+	overflow: hidden;
+	text-overflow: ellipsis; 
+	display: -webkit-box;
+    -webkit-line-clamp: 2; 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
 
 .service-block_one-link{
 	position:relative;
@@ -9442,4 +9451,11 @@ p.description {
 		transform: scale(0.95, 1.05);
 	}
 }
+
+@media(max-width:767px){
+	#address{
+   display:none !important;
+}
+}
+
 

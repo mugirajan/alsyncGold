@@ -24,33 +24,28 @@
 							<!-- Footer Column -->
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget newsletter-widget">
-									<h4>Newsletter</h4>
-									<div class="text">Subscribe our newsletter to get our latest update & news</div>
-
-									<!-- Email Box -->
-									<div class="email-box">
-										<form method="post" action="contact.html">
-											<div class="form-group">
-												<input type="email" name="search-field" value=""
-													placeholder="Your mail address" required>
-												<button type="submit"><span
-														class="icon fa-solid fa-paper-plane fa-fw"></span></button>
-											</div>
-										</form>
-									</div>
-
-									<!-- Social Box -->
-									<ul class="social-box">
-										<li><a href="https://www.twitter.com/"
-												class="fa-brands fa-facebook-f fa-fw"></a></li>
-										<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a>
+									<h4>Quick Links</h4>
+									<ul class="navigation-footer clearfix">
+										<li class=""><a href="index.php">Home</a>
+											
 										</li>
-										<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a>
+										<li><a href="about.php">About Us</a></li>
+										<li class="dropdown"><a href="services.php">Services</a>
+											
 										</li>
-										<li><a href="https://behance.com/" class="fa-solid fa-behance fa-fw"></a>
+										<li class=""><a href="career.php">Career</a>
+											
 										</li>
+										<li class=""><a  href="contact.php">Contact</a>
+											
+										</li>
+										
+										
 									</ul>
-									<!-- End Social Box -->
+
+									
+
+									
 
 								</div>
 							</div>

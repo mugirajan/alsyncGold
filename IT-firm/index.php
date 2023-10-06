@@ -44,7 +44,7 @@
 						<div class="service-block_one-icon"><img src="assets/images/icons/service-1.png" alt="" /></div>
 						<h5 class="service-block_one-title"><a href="#">Managed IT <span>Services</span></a></h5>
 						<div class="service-block_one-text">Ensure an up-to-date, efficient IT network for your
-							company</div>
+							company.</div>
 						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
 						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 							<div class="service-block_one-text-two">It is a comprehensive set of services that help
@@ -144,33 +144,30 @@
 									<!-- Tab / Active Tab -->
 									<div class="tab active-tab" id="prod-mission">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly
-												at all times is like a plumber who fixes your pipes; that’s what
-												they are supposed to do. Many IT firms struggle to keep themselves
-												and their IT from falling apart. We’ve raised the standards in this
-												industry and are a leading cybersecurity.</div>
+											<div class="text">
+												We provide cutting-edge digital engineering solutions through top IT experts, optimizing projects for enhanced performance and cost efficiency. As a trusted technology partner, we prioritize ethical practices
+ 												and environmental responsibility, while exceeding client expectations.
+											</div>
 										</div>
 									</div>
 
 									<!-- Tab -->
 									<div class="tab" id="prod-vision">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly
-												at all times is like a plumber who fixes your pipes; that’s what
-												they are supposed to do. Many IT firms struggle to keep themselves
-												and their IT from falling apart. We’ve raised the standards in this
-												industry and are a leading cybersecurity.</div>
+											<div class="text">
+												We envision ALSYNC as a technology services leader, driving business and community impact. Our innovative solutions ensure customer success, supported by exceptional service. Adapting to tech changes and upholding high standards keeps us ahead.
+											 	Count on ALSYNC as your trusted, reliable partner.
+											</div>
 										</div>
 									</div>
 
 									<!-- Tab -->
 									<div class="tab" id="prod-value">
 										<div class="content">
-											<div class="text">An IT firm or MSP who keeps your IT running smoothly
-												at all times is like a plumber who fixes your pipes; that’s what
-												they are supposed to do. Many IT firms struggle to keep themselves
-												and their IT from falling apart. We’ve raised the standards in this
-												industry and are a leading cybersecurity.</div>
+											<div class="text">
+											Our aim at ALSYNC is to exceed client expectations with high-quality services and cutting-edge technology. Our passionate team turns your ideas into innovative solutions, partnering with you to bring your vision to life. We proudly adhere to a Quality 
+											Management System as an ISO 9001:2015 Certified Company.
+											</div>
 										</div>
 									</div>
 
@@ -221,8 +218,8 @@
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
 							<span class="counter-one_icon fas fa-user-plus "></span>
-							<div class="counter-one_counter"><span class="odometer" data-count="100"></span>+</div>
-							<div class="counter-one_text">Branches</div>
+							<div class="counter-one_counter"><span class="odometer" data-count="1999"></span>+</div>
+							<div class="counter-one_text">Positive Reviews</div>
 						</div>
 					</div>
 
@@ -230,8 +227,8 @@
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
 							<span class="counter-one_icon fas fa-award "></span>
-							<div class="counter-one_counter"><span class="odometer" data-count="1500"></span>+</div>
-							<div class="counter-one_text">Service Locations</div>
+							<div class="counter-one_counter"><span class="odometer" data-count="520"></span>+</div>
+							<div class="counter-one_text">Achievements</div>
 						</div>
 					</div>
 
@@ -239,8 +236,8 @@
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
 							<span class="counter-one_icon far fa-file"></span>
-							<div class="counter-one_counter"><span class="odometer" data-count="100"></span>+</div>
-							<div class="counter-one_text">Parts Centers</div>
+							<div class="counter-one_counter"><span class="odometer" data-count="650"></span>+</div>
+							<div class="counter-one_text">Project completed</div>
 						</div>
 					</div>
 
@@ -248,8 +245,8 @@
 					<div class="counter-one_block col-lg-3 col-md-6 col-sm-6">
 						<div class="counter-one_inner">
 							<span class="counter-one_icon fas fa-user-tie"></span>
-							<div class="counter-one_counter"><span class="odometer" data-count="3000"></span>+</div>
-							<div class="counter-one_text">Engineers</div>
+							<div class="counter-one_counter"><span class="odometer" data-count="100"></span>+</div>
+							<div class="counter-one_text">Clients</div>
 						</div>
 					</div>
 
@@ -333,8 +330,9 @@
 					<!-- Sec Title -->
 					<div class="sec-title">
 						<div class="sec-title_title">Who We Are?</div>
-						<h2 class="sec-title_heading">Our <span class="theme_color">penetration</span> testing <br>
-							team uses an industry</h2>
+					
+						<h2 class="sec-title_heading">High-quality - <span class="theme_color">Reliable Service</span> to All <br>
+							</h2>
 						<div class="sec-title_text">Our aim is to help our clients reach their fullest potential by
 							providing them with high-quality and reliable services that exceed their expectations.
 							We strive to stay up-todate with the latest technology and trends in order to provide
@@ -347,7 +345,7 @@
 							<div class="fluid-block_icon">
 								<img src="assets/images/icons/fluid-1.png" alt="" />
 							</div>
-							<h5 class="fluid-block_title"> <span class="theme_color"> 17500 </span> <br>Active Users
+							<h5 class="fluid-block_title"> <span class="theme_color"> 17500 </span> <br>Active partners
 							</h5>
 							<!-- <div class="fluid-block_text">Our customers get solutions and business opportunities instead of just projects. Our mission is to accelerate.</div> -->
 						</div>
@@ -357,7 +355,7 @@
 							<div class="fluid-block_icon">
 								<img src="assets/images/icons/fluid-2.png" alt="" />
 							</div>
-							<h5 class="fluid-block_title"><span class="theme_color"> 2980 </span><br> Daily Visitors
+							<h5 class="fluid-block_title"><span class="theme_color"> 2980 </span><br> Daily Enquiries
 							</h5>
 							<!-- <div class="fluid-block_text">Our customers get solutions and business opportunities instead of just projects. Our mission is to accelerate.</div> -->
 						</div>
@@ -377,7 +375,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="sec-title_title">Team Member</div>
-				<h2 class="sec-title_heading">Passionate Personalities, <br> <span class="theme_color">Versatile</span>
+				<h2 class="sec-title_heading"> Admiring Personalities<br> <span class="theme_color"> Amazing</span>
 					Brains</h2>
 			</div>
 			<div class="row clearfix">
@@ -591,7 +589,7 @@
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
 						<div class="sec-title_title">Work Index!</div>
-						<h2 class="sec-title_heading">Few of Our Apps Adored <br> by <span> millions of
+						<h2 class="sec-title_heading">Few of Our Works Adored <br> by <span> millions of
 								users!</span></h2>
 					</div>
 					<div class="right-box">

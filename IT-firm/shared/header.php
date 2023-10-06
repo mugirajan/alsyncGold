@@ -64,16 +64,16 @@
 				<div class="auto-container">
 					<div class="d-flex justify-content-between align-items-center flex-wrap">
 						<div class="left-box">
-							<div class="text"><i class="fas fa-phone" ></i>  04447730641 <i class="fas fa-map-marker-alt"></i>  82/46, T. nagar, Chennai</div>
+							<div class="text"><i class="fas fa-phone-alt" ></i>  04447730641 <i class="fas fa-map-marked-alt"></i> <span id="address">T. nagar, </span> Chennai</div>
 						</div>
 						<div class="right-box align-items-center d-flex">
 
 							<!-- Social Box -->
 							<ul class="header-social_box">
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
+								<!-- <li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
 								<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li>
-								<li><a href="https://instagram.com/" class="fa-solid fa-instagram fa-fw"></a></li>
+								<li><a href="https://www.linkedin.com/" class="fa-brands fa-linkedin fa-fw"></a></li> -->
+								<li><a href="https://www.instagram.com/alsync.in/?igshid=YTQwZjQ0NmI0OA%3D%3D" class="fa-solid fa-instagram fa-fw"></a></li>
 							</ul>
 						</div>
 					</div>
@@ -84,9 +84,9 @@
 			<!-- Header Upper -->
 			<div class="header-upper"style="    background-color:tranparent;">
 				<div class="auto-container">
-					<div style="padding:10px 0px" class="inner-container d-flex justify-content-between align-items-center flex-wrap">
+					<div  class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
-						<div class="logo"><a href="index.php"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
+						<div style="padding:10px 0px" class="logo"><a  href="index.php"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
 
 						<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
 
@@ -144,8 +144,8 @@
 								<div class="button-box style-two">
 									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
-											<span class="text-one">contact me</span>
-											<span class="text-two">contact me</span>
+											<span class="text-one">Contact Us</span>
+											<span class="text-two">Contact Us</span>
 										</div>
 									</a>
 								</div>
@@ -181,10 +181,11 @@
 
 								<!-- Social Box -->
 								<ul class="header-social_box-two">
-									<li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a>
+								<li><a href="https://www.instagram.com/alsync.in/?igshid=YTQwZjQ0NmI0OA%3D%3D" class="fa-solid fa-instagram fa-fw"></a></li>
+									<!-- <li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a>
 									</li>
 									<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-									<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li>
+									<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a></li> -->
 								</ul>
 
 								
@@ -193,8 +194,8 @@
 								<div class="button-box style-two">
 									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
-											<span class="text-one">contact me</span>
-											<span class="text-two">contact me</span>
+											<span class="text-one">Contact Us</span>
+											<span class="text-two">Contact Us</span>
 										</div>
 									</a>
 								</div>

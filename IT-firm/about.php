@@ -77,7 +77,8 @@
 				<!-- Sec Title -->
 				<div class="sec-title_two centered">
 					<div class="sec-title_two-title">~ Why choose Us? ~</div>
-					<h2 class="sec-title_two-heading">We serve a wide <span>variety</span> <br> of industries</h2>
+					 
+					<h2 class="sec-title_two-heading">High-quality -<span> Reliable Service</span> <br> to All</h2>
 				</div>
 				
 				<!-- Choose Info Tabs -->
@@ -111,11 +112,11 @@
 									<!-- Content Column -->
 									<div class="choose-one_content-column col-lg-6 col-md-12 col-sm-12">
 										<div class="choose-one_content-inner">
-											<div class="choose-one_title">Touching Lives Through Technology</div>
-											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
-											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
+											<div class="choose-one_title">IT Expertise and Ethical Commitment</div>
+											<h2 class="choose-one_heading">Success through Innovative Digital Solutions</h2>
+											<div class="choose-one_text">Empowering success with cutting-edge digital engineering solutions, backed by world-class IT expertise, ethical values, and environmental responsibility.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fas fa-arrow-right "></i></span>
 														<span class="text-two">Contact Us <i class="fas fa-arrow-right"></i></span>
@@ -147,7 +148,7 @@
 											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
 											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
@@ -179,7 +180,7 @@
 											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
 											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
@@ -283,115 +284,7 @@
 			</div>
 		</section>
 		 <!--End about our company-->
-		<!--Product One-->
-		<section class="about-ones" style="background-color: rgb(168, 239, 255, 1);">
-			<div class="sec-title centered">
-				<div class="sec-title_title">Team Member</div>
-				<h2 class="sec-title_heading">Passionate Personalities, <br> <span
-						class="theme_color">Versatile</span> Brains</h2>
-			</div>
-			<div class="flex-row">
-				<!-- <div class="auto-container"> -->
-				<div class=" row clearfix">
-					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
-
-						<div class="img-mask">
-							<img src="assets/images/home-about/aboutones3.jpg"
-								alt="">
-						</div>
-						<div class="card-content">
-							<div class="card-header">
-								<h2 class="title">Cloud Service</h2>
-
-							</div>
-							<p class="description">We don’t need a hard disk in my computer if I can get to the server
-								faster… carrying around these non-connected computers is byzantine by comparison.</p>
-						</div>
-					</div>
-					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
-
-						<div class="img-mask">
-							<img src="assets/images/home-about/aboutones4.jpg"
-								alt="">
-						</div>
-						<div class="card-content">
-							<div class="card-header">
-								<h2 class="title">Mobile Application Developement</h2>
-
-							</div>
-							<p class="description">We are an India based top Mobile app development company, which can
-								assist you take advantage of the rapidly developing fragment.</p>
-						</div>
-					</div>
-					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
-
-						<div class="img-mask">
-							<img src="assets/images/home-about/aboutones.jpg"
-								alt="">
-						</div>
-						<div class="card-content">
-							<div class="card-header">
-								<h2 class="title">Product Engineering Services</h2>
-
-							</div>
-							<p class="description">Product engineering service or PES is an engineering consulting
-								activity that is offered by product engineering companies.</p>
-						</div>
-					</div>
-					<div class="card" style="margin:auto; margin-top: 10px; padding:0px;">
-
-						<div class="img-mask">
-							<img src="assets/images/home-about/aboutones2.jpg"
-								alt="">
-						</div>
-						<div class="card-content">
-							<div class="card-header">
-								<h2 class="title">Web Application Development</h2>
-
-							</div>
-							<p class="description">Software development is the method programmers use to create laptop
-								programs. The method has conjointly.</p>
-						</div>
-					</div>
-
-					<div class="card-2 cloud-about col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 45px; margin-top: 30px;">
-						
-						<div class="card-content2 ">
-							<h3 class="card-title">Cloud Service</h3>
-							<!-- <span class="card-subtitle">Lorem</span> -->
-							<p class="card-description">We don’t need a hard disk in my computer if I can get to the server faster… carrying around these non-connected computers is byzantine by comparison.</p>
-						</div>
-					</div>
-					<div class="card-2 mobapp col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 70px;margin-top: 30px;">
-						<div class="card-content2">
-							<h3 class="card-title">Mobile Application Developement</h3>
-							<!-- <span class="card-subtitle">Lorem</span> -->
-							<p class="card-description">We are an India based top Mobile app development company, which can assist you take advantage of the rapidly developing fragment.</p>
-						</div>
-					</div>
-					<div class="card-2 proeng col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 70px;margin-top: 30px;">
-						<div class="card-content2">
-							<h3 class="card-title">Product Engineering Services</h3>
-							<!-- <span class="card-subtitle">Lorem</span> -->
-							<p class="card-description">Product engineering service or PES is an engineering consulting activity that is offered by product engineering companies.</p>
-						</div>
-					</div>
-					<div class="card-2 webapp col-lg-3 col-md-6 d-md-block d-none "
-						style="margin-left: 70px;margin-top: 30px;">
-						<div class="card-content2">
-							<h3 class="card-title">Web Application Development</h3>
-							<!-- <span class="card-subtitle">Lorem</span> -->
-							<p class="card-description">Software development is the method programmers use to create laptop programs. The method has conjointly.</p>
-						</div>
-					</div>
-				</div>
-				<!-- </div> -->
-			</div>
-		</section>
-		<!--End Product one-->
+		
 
         
 		<!-- Process One -->
