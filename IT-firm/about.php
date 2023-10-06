@@ -111,11 +111,11 @@
 									<!-- Content Column -->
 									<div class="choose-one_content-column col-lg-6 col-md-12 col-sm-12">
 										<div class="choose-one_content-inner">
-											<div class="choose-one_title">Touching Lives Through Technology</div>
-											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
-											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
+											<div class="choose-one_title">IT Expertise and Ethical Commitment</div>
+											<h2 class="choose-one_heading">Success through Innovative Digital Solutions</h2>
+											<div class="choose-one_text">Empowering success with cutting-edge digital engineering solutions, backed by world-class IT expertise, ethical values, and environmental responsibility.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fas fa-arrow-right "></i></span>
 														<span class="text-two">Contact Us <i class="fas fa-arrow-right"></i></span>
@@ -147,7 +147,7 @@
 											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
 											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
@@ -179,7 +179,7 @@
 											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
 											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="#">
+												<a class="btn-style-three theme-btn btn-item" href="contact.php">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
