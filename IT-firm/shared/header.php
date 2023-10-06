@@ -144,8 +144,8 @@
 								<div class="button-box style-two">
 									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
-											<span class="text-one">contact me</span>
-											<span class="text-two">contact me</span>
+											<span class="text-one">Contact Us</span>
+											<span class="text-two">Contact Us</span>
 										</div>
 									</a>
 								</div>
@@ -194,8 +194,8 @@
 								<div class="button-box style-two">
 									<a class="btn-style-one theme-btn btn-item" href="contact.php">
 										<div class="btn-wrap">
-											<span class="text-one">contact me</span>
-											<span class="text-two">contact me</span>
+											<span class="text-one">Contact Us</span>
+											<span class="text-two">Contact Us</span>
 										</div>
 									</a>
 								</div>

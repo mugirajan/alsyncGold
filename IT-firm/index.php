@@ -330,8 +330,9 @@
 					<!-- Sec Title -->
 					<div class="sec-title">
 						<div class="sec-title_title">Who We Are?</div>
-						<h2 class="sec-title_heading">Our <span class="theme_color">penetration</span> testing <br>
-							team uses an industry</h2>
+					
+						<h2 class="sec-title_heading">High-quality - <span class="theme_color">Reliable Service</span> to All <br>
+							</h2>
 						<div class="sec-title_text">Our aim is to help our clients reach their fullest potential by
 							providing them with high-quality and reliable services that exceed their expectations.
 							We strive to stay up-todate with the latest technology and trends in order to provide
@@ -344,7 +345,7 @@
 							<div class="fluid-block_icon">
 								<img src="assets/images/icons/fluid-1.png" alt="" />
 							</div>
-							<h5 class="fluid-block_title"> <span class="theme_color"> 17500 </span> <br>Active Users
+							<h5 class="fluid-block_title"> <span class="theme_color"> 17500 </span> <br>Active partners
 							</h5>
 							<!-- <div class="fluid-block_text">Our customers get solutions and business opportunities instead of just projects. Our mission is to accelerate.</div> -->
 						</div>
@@ -354,7 +355,7 @@
 							<div class="fluid-block_icon">
 								<img src="assets/images/icons/fluid-2.png" alt="" />
 							</div>
-							<h5 class="fluid-block_title"><span class="theme_color"> 2980 </span><br> Daily Visitors
+							<h5 class="fluid-block_title"><span class="theme_color"> 2980 </span><br> Daily Enquiries
 							</h5>
 							<!-- <div class="fluid-block_text">Our customers get solutions and business opportunities instead of just projects. Our mission is to accelerate.</div> -->
 						</div>
@@ -374,7 +375,7 @@
 			<!-- Sec Title -->
 			<div class="sec-title centered">
 				<div class="sec-title_title">Team Member</div>
-				<h2 class="sec-title_heading">Passionate Personalities, <br> <span class="theme_color">Versatile</span>
+				<h2 class="sec-title_heading"> Admiring Personalities<br> <span class="theme_color"> Amazing</span>
 					Brains</h2>
 			</div>
 			<div class="row clearfix">
@@ -588,7 +589,7 @@
 				<div class="d-flex justify-content-between align-items-center flex-wrap">
 					<div class="left-box">
 						<div class="sec-title_title">Work Index!</div>
-						<h2 class="sec-title_heading">Few of Our Apps Adored <br> by <span> millions of
+						<h2 class="sec-title_heading">Few of Our Works Adored <br> by <span> millions of
 								users!</span></h2>
 					</div>
 					<div class="right-box">

@@ -24,8 +24,8 @@
 							<!-- Footer Column -->
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget newsletter-widget">
-									<h4>Newsletter</h4>
-									<div class="text">Subscribe our newsletter to get our latest update & news</div>
+									<h4>Quick Links</h4>
+									<!-- <div class="text">Subscribe our newsletter to get our latest update & news</div> -->
 
 									<!-- Email Box -->
 									<div class="email-box">
@@ -41,14 +41,15 @@
 
 									<!-- Social Box -->
 									<ul class="social-box">
-										<li><a href="https://www.twitter.com/"
+									<li><a href="https://www.instagram.com/alsync.in/?igshid=YTQwZjQ0NmI0OA%3D%3D" class="fa-solid fa-instagram fa-fw"></a></li>
+										<!-- <li><a href="https://www.twitter.com/"
 												class="fa-brands fa-facebook-f fa-fw"></a></li>
 										<li><a href="https://www.facebook.com/" class="fa-brands fa-twitter fa-fw"></a>
 										</li>
 										<li><a href="https://dribbble.com/" class="fa-solid fa-dribbble fa-fw"></a>
 										</li>
 										<li><a href="https://behance.com/" class="fa-solid fa-behance fa-fw"></a>
-										</li>
+										</li> -->
 									</ul>
 									<!-- End Social Box -->
 
