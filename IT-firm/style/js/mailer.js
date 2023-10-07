@@ -4,7 +4,7 @@ $("#contact-form").unbind("submit").bind("submit", function() {
     form.append("type", "contact");
 
     $.ajax({
-        url: "shared/mailer/mailController.php",
+        url: "shared/php/mailController.php",
         type: "POST",
         data: form,
         dataType: 'json',
@@ -58,7 +58,7 @@ $("#survey-form").unbind("submit").bind("submit", function() {
     form.append("additionalInfo", $("#user-comments").val());
 
     $.ajax({
-        url: "shared/mailer/mailController.php",
+        url: "shared/php/mailController.php",
         type: "POST",
         data: form,
         dataType: 'json',

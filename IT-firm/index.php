@@ -830,10 +830,6 @@
 	</section>
 	<!-- End Projects One -->
 
-	<!-- News One -->
-
-	<!-- End News One -->
-
 	<!-- CTA One -->
 	<section class="cta-one">
 		<div class="auto-container">
@@ -850,8 +846,7 @@
 	</section>
 	<!-- End CTA One -->
 
+	<script src="./style/js/indxHelper.js"></script>
 
 <?php include 'shared/footer.php' ?>
-
-
 	
