@@ -96,17 +96,18 @@
 									
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
 										<label>Your message</label>
-										<textarea class="" name="message" placeholder="Your text here..."></textarea>
+										<textarea class="" style="width: 100%;height:70px" name="message" placeholder="Your text here..."></textarea>
 									</div>
 									
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<button class="btn-style-seven theme-btn" type="submit">
+										<input class="btn-style-seven theme-btn" type="submit">
 											<span class="btn-wrap">
 												<span class="text-one">Send message</span>
 												<span class="text-two">Send message</span>
 											</span>
-										</button>
 									</div>
+
+									<div class="mail-messages"></div>
 									
 								</div>
 							</form>
@@ -146,4 +147,6 @@
 	</section> -->
 	<!-- End CTA One -->
 	
+	<script src="./style/js/mailer.js"></script>
+
 	<?php include 'shared/footer.php' ?>

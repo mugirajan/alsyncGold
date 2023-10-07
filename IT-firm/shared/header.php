@@ -25,6 +25,7 @@
 	<link href="style/css/owl.css" rel="stylesheet">
 	
 	<link href="style/css/career.css" rel="stylesheet">
+	<script src="style/js/jquery.js"></script>
     
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap"

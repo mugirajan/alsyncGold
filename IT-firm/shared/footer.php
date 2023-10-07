@@ -131,7 +131,6 @@
 	<!-- Scroll To Top -->
 	<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-double-up"></span></div>
 
-	<script src="style/js/jquery.js"></script>
 	<script src="style/js/appear.js"></script>
 	<script src="style/js/owl.js"></script>
 	<script src="style/js/wow.js"></script>
