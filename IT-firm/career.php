@@ -19,7 +19,7 @@
         <div class="auto-container">
 			<h2>Career</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.php">Home</a></li>
+				<li><a href="./Home">Home</a></li>
 				<li>career</li>
 			</ul>
         </div>
@@ -227,7 +227,7 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">Contact us</a>
+					<a class="cta-one_btn theme-btn" href="./Contact">Contact us</a>
 				</div>
 			</div>
 		</div>

@@ -105,25 +105,17 @@
 
 								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class=""><a href="index.php">Home</a>
+										<li class=""><a href="./Home">Home</a>
 											
 										</li>
-										<li><a href="about.php">About Us</a></li>
-										<li class="dropdown"><a href="#">Services</a>
-											<ul>
-												<li><a href="services.php">Services</a></li>
-												<li><a href="service-detail.php">IT INFRASTRUCTURE MANAGEMENT SERVICES</a></li>
-												<li><a href="service-warranty.php">WARRANTY MANAGEMENT SERVICES</a></li>
-												<li><a href="service-print.php">MANAGED PRINT SERVICES</a></li>
-												<li><a href="service-system.php">SYSTEM INTEGRATION</a></li>
-												<li><a href="service-software.php">SOFTWARE SOLUTIONS</a></li>
-												<li><a href="service-managed.php">MANAGED IT SERVICES</a></li>
-											</ul>
+										<li><a href="./About">About Us</a></li>
+										<li class="dropdown">
+											<a href="./Service">Services</a>
 										</li>
-										<li class=""><a href="career.php">Career</a>
+										<li class=""><a href="./Career">Career</a>
 											
 										</li>
-										<li class=""><a class="contact" href="contact.php">Contact</a>
+										<li class=""><a class="contact" href="./Contact">Contact</a>
 											
 										</li>
 										
@@ -143,7 +135,7 @@
 
 								<!-- Button Box -->
 								<div class="button-box style-two">
-									<a class="btn-style-one theme-btn btn-item" href="contact.php">
+									<a class="btn-style-one theme-btn btn-item" href="./Contact">
 										<div class="btn-wrap">
 											<span class="text-one">Contact Us</span>
 											<span class="text-two">Contact Us</span>
@@ -193,7 +185,7 @@
 
 								<!-- Button Box -->
 								<div class="button-box style-two">
-									<a class="btn-style-one theme-btn btn-item" href="contact.php">
+									<a class="btn-style-one theme-btn btn-item" href="./Contact">
 										<div class="btn-wrap">
 											<span class="text-one">Contact Us</span>
 											<span class="text-two">Contact Us</span>
@@ -218,7 +210,7 @@
 				<div class="menu-backdrop"></div>
 				<div class="close-btn"><span class="icon fa-solid fa-x"></span></div>
 				<nav class="menu-box">
-					<div class="nav-logo"><a href="index.php"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
+					<div class="nav-logo"><a href="/Home"><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a></div>
 					<!-- Search -->
 					<!-- <div class="search-box">
 						<form method="post" action="contact.html">

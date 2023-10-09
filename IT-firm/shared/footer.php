@@ -17,7 +17,7 @@
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new
 										ones in advertising sector.</div>
-									<a href="about.php" class="theme-btn about-btn">About us</a>
+									<a href="./About" class="theme-btn about-btn">About us</a>
 								</div>
 							</div>
 
@@ -26,17 +26,17 @@
 								<div class="footer-widget newsletter-widget">
 									<h4>Quick Links</h4>
 									<ul class="navigation-footer clearfix">
-										<li class=""><a href="index.php">Home</a>
+										<li class=""><a href="./Home">Home</a>
 											
 										</li>
-										<li><a href="about.php">About Us</a></li>
-										<li class="dropdown"><a href="services.php">Services</a>
+										<li><a href="./About">About Us</a></li>
+										<li class="dropdown"><a href="./Service">Services</a>
 											
 										</li>
-										<li class=""><a href="career.php">Career</a>
+										<li class=""><a href="./Career">Career</a>
 											
 										</li>
-										<li class=""><a  href="contact.php">Contact</a>
+										<li class=""><a  href="./Contact">Contact</a>
 											
 										</li>
 										

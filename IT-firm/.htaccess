@@ -1,0 +1,18 @@
+RewriteEngine on
+
+RewriteRule ^Home?$ index.php
+RewriteRule ^Index?$ index.php
+RewriteRule ^About?$ about.php
+RewriteRule ^Contact?$ contact.php
+RewriteRule ^Career?$ carrer.php
+RewriteRule ^Services?$ services.php
+RewriteRule ^Service?$ service.php
+
+
+RewriteRule ^home?$ index.php
+RewriteRule ^index?$ index.php
+RewriteRule ^about?$ about.php
+RewriteRule ^contact?$ contact.php
+RewriteRule ^career?$ carrer.php
+RewriteRule ^services?$ services.php
+RewriteRule ^service?$ service.php
