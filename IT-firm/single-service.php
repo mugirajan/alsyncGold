@@ -20,7 +20,7 @@ $pageFor = $_GET['service'];
     <!-- End Page Title -->
 	
 	<!-- Sidebar Page Container -->
-    <div class="sidebar-page-container">
+    <div class="single-service sidebar-page-container">
     	<div class="auto-container">
         	<div class="row clearfix">
 				
@@ -42,7 +42,7 @@ $pageFor = $_GET['service'];
 								{
 									echo '
 										<li>
-											<a href="./Services?service='. $row['serv_nm'] .'"> '. $row['serv_nm'] .' </a>
+											<a href="./Detailed-Service?service='. $row['serv_nm'] .'"> '. $row['serv_nm'] .' </a>
 										</li>
 									';
 								}
@@ -63,26 +63,29 @@ $pageFor = $_GET['service'];
 						
 					</aside>
 				</div>
+
+				<?php
+
+					$connect = createConn();
+					$valid = array('success' => false, 'message' => "");
+					$sql = "SELECT sDscrptn, dscrptn, ft_img FROM serv_mstr WHERE serv_nm = '". $pageFor ."' and is_deleted = false";
+					$result = $connect->query($sql);
+					$row = $result->fetch_assoc();
+
+				?>
 				
 				<!-- Content Side -->
                 <div class="content-side right-sidebar col-lg-8 col-md-12 col-sm-12">
 					<div class="service-detail">
 						<div class="inner-box">
 							<div class="image">
-								<img src="images/service/2202758.jpg" alt="" />
+								<img src="<?php echo '../../alsync-admin/'.$row['ft_img'] ?>" alt="" />
 							</div>
 							<h3> <?php echo $pageFor ?> </h3>
-
+							
 							<?php
 
-								$connect = createConn();
-								$valid = array('success' => false, 'message' => "");
-								$sql = "SELECT sDscrptn, dscrptn FROM serv_mstr WHERE serv_nm = '". $pageFor ."' and is_deleted = false";
-								$result = $connect->query($sql);
-								
-								while($row = $result->fetch_assoc()) 
-								{
-									echo '
+								echo '
 									<p>
 										'. $row['sDscrptn'] .'
 									</p>
@@ -93,9 +96,9 @@ $pageFor = $_GET['service'];
 									<p>
 										'. $row['dscrptn'] .'
 									</p>
-									';
+								';
 
-								}
+							
 							?>
 							
 						</div>

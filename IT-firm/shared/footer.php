@@ -30,7 +30,7 @@
 											
 										</li>
 										<li><a href="./About">About Us</a></li>
-										<li class="dropdown"><a href="./Service">Services</a>
+										<li class="dropdown"><a href="./Services">Services</a>
 											
 										</li>
 										<li class=""><a href="./Career">Career</a>

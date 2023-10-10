@@ -39,6 +39,7 @@ class sndMail
         $mail->Host = "smtp.hostinger.com";
         $mail->Port = 587;
         $mail->SMTPAuth = true;
+        // to be changes for production env.
         $mail->Username = "mails@blackitechs.com";
         $mail->Password = "BitsMail@2022";
         $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
@@ -77,11 +78,13 @@ class sndMail
         $mail->Host = "smtp.hostinger.com";
         $mail->Port = 587;
         $mail->SMTPAuth = true;
+        // to be changes for production env.
         $mail->Username = "mails@blackitechs.com";
         $mail->Password = "BitsMail@2022";
         $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
 
         // admin address ~ ~ support@alsync.com ~
+        // to be changes for production env.
         $mail->AddAddress("lamakjaronfire@gmail.com");
 
         $mail->Subject = "New enquiry - ". $data['username'];
@@ -115,6 +118,7 @@ class sndMail
         $mail->Host = "smtp.hostinger.com";
         $mail->Port = 587;
         $mail->SMTPAuth = true;
+        // to be changes for production env.
         $mail->Username = "mails@blackitechs.com";
         $mail->Password = "BitsMail@2022";
         $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
@@ -154,6 +158,7 @@ class sndMail
         $mail->Host = "smtp.hostinger.com";
         $mail->Port = 587;
         $mail->SMTPAuth = true;
+        // to be changes for production env.
         $mail->Username = "mails@blackitechs.com";
         $mail->Password = "BitsMail@2022";
         $mail->setFrom("mails@blackitechs.com", "Mail from BITS");

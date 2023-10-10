@@ -87,7 +87,7 @@
 				<div class="auto-container">
 					<div  class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
-						<div style="padding:10px 0px" class="logo"><a  href="index.php"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
+						<div style="padding:10px 0px" class="logo"><a href="./Home"><img src="assets/images/logo/alsync-white.png" alt="" title=""></a></div>
 
 						<div class="nav-outer d-flex justify-content-between align-items-center flex-wrap">
 
@@ -108,16 +108,10 @@
 										<li class=""><a href="./Home">Home</a>
 											
 										</li>
-										<li><a href="./About">About Us</a></li>
-										<li class="dropdown">
-											<a href="./Service">Services</a>
-										</li>
-										<li class=""><a href="./Career">Career</a>
-											
-										</li>
-										<li class=""><a class="contact" href="./Contact">Contact</a>
-											
-										</li>
+										<li> <a href="./About">About Us</a> </li>
+										<li> <a href="./Services">Services</a> </li>
+										<li> <a href="./Career">Career</a> </li>
+										<li> <a class="contact" href="./Contact">Contact</a> </li>
 										
 										
 									</ul>
@@ -159,7 +153,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<!-- Logo -->
 						<div class="logo">
-							<a href="index.html" title=""><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a>
+							<a href="./Home" title=""><img src="assets/images/logo/alsynimg.jpg" alt="" title=""></a>
 						</div>
 
 						<!-- Right Col -->

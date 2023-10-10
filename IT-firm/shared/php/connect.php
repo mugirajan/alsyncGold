@@ -1,9 +1,7 @@
 <?php
 
+// to be changes for production env.
 $servername = "localhost";
-// $database = "u849610572_uot_ppr_submsn";
-// $username = "u849610572_uot_db_usr";
-// $password = "UoT_DB_pwd000";
 $database = "alsync_db";
 $username = "root";
 $password = "";

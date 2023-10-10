@@ -6,7 +6,7 @@ RewriteRule ^About?$ about.php
 RewriteRule ^Contact?$ contact.php
 RewriteRule ^Career?$ carrer.php
 RewriteRule ^Services?$ services.php
-RewriteRule ^Service?$ service.php
+RewriteRule ^Detailed-Service?$ single-service.php
 
 
 RewriteRule ^home?$ index.php
@@ -15,4 +15,4 @@ RewriteRule ^about?$ about.php
 RewriteRule ^contact?$ contact.php
 RewriteRule ^career?$ carrer.php
 RewriteRule ^services?$ services.php
-RewriteRule ^service?$ service.php
+RewriteRule ^detailed-service?$ single-service.php

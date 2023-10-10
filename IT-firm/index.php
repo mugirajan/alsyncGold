@@ -18,7 +18,7 @@ include 'shared/php/connect.php';
 			</div>
 			<section class="herocontent">
 				<h1>Welcome To <br>Alsync Global Solutions</h1>
-				<a href="./Service" class="button lighthead"></a>
+				<a href="./Services" class="button lighthead"></a>
 			</section>
 
 		</div>
@@ -53,19 +53,19 @@ include 'shared/php/connect.php';
 								<div class="service-block_one-inner">
 									<div class="service-block_one-icon"><img src="assets/images/icons/service-1.png" alt="" /></div>
 									<h5 class="service-block_one-title">
-										<a href="./Service?service='. $row['serv_nm'] .'">
+										<a href="./Services?service='. $row['serv_nm'] .'">
 											'.$row['serv_nm'].'
 										</a>
 									</h5>
 									<div class="service-block_one-text">
 										'. $row['sDscrptn'] .'
 									</div>
-									<a class="theme-btn service-block_one-link" href="./Service?service='. $row['serv_nm'] .'">Read More</a>
+									<a class="theme-btn service-block_one-link" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
 									<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 										<div class="service-block_one-text-two">
 											'. $row['sDscrptn'] .'
 										</div>
-										<a class="theme-btn service-block_one-link two" href="./Service?service='. $row['serv_nm'] .'">Read More</a>
+										<a class="theme-btn service-block_one-link two" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
 									</div>
 								</div>
 							</div>

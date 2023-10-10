@@ -48,11 +48,11 @@ include 'shared/php/connect.php';
 										</div>
 										<div class="service-block_two-overlay-two">
 											<div class="service-two_overlay-content">
-												<h5 class="service-block_two-title"><a href="./Service?service='. $row['serv_nm'] .'"> '. $row['serv_nm'] .' </a></h5>
+												<h5 class="service-block_two-title"><a href="./Detailed-Service?service='. $row['serv_nm'] .'"> '. $row['serv_nm'] .' </a></h5>
 												<div class="service-block_two-text">
 												'. $row['sDscrptn'] .'
 												</div>
-												<a class="service-block_two-more" href="./Service?service='. $row['serv_nm'] .'">Read more</a>
+												<a class="service-block_two-more" href="./Detailed-Service?service='. $row['serv_nm'] .'">Read more</a>
 											</div>
 										</div>
 									</div>
