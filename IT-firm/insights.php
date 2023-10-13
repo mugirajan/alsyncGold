@@ -1,66 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<?php include 'shared/header.php' ?>
 
-      
-    <!-- CSS -->
-  
-	<link rel="stylesheet" href="style/css/insights.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-	
-	
-	<!--<link rel="stylesheet" href="assets/css/rtl.css">-->
-
-
-    <link href="style/css/bootstrap.css" rel="stylesheet">
-	<link href="style/css/style.css" rel="stylesheet">
-	<link href="style/css/responsive.css" rel="stylesheet">
-	<link href="style/css/main_banner.css" rel="stylesheet">
-    <link href="style/css/animate.css" rel="stylesheet">
-	<!-- <link href="style/css/career.css" rel="stylesheet"> -->
-	<link href="style/css/custom-animate.css" rel="stylesheet">
-	<link href="style/css/flaticon.css" rel="stylesheet">
-    <link href="style/css/font-awesome.css" rel="stylesheet">
-	<link href="style/css/footer.css" rel="stylesheet">
-	<link href="style/css/global.css" rel="stylesheet">
-	<link href="style/css/header.css" rel="stylesheet">
-    <link href="style/css/hover.css" rel="stylesheet">
-	<link href="style/css/jquery-ui.css" rel="stylesheet">
-	<link href="style/css/magnific-popup.css" rel="stylesheet">
-	<link href="style/css/odometer-theme-default.css" rel="stylesheet">
-	<link href="style/css/owl.css" rel="stylesheet">
-	<link rel="stylesheet" href="style/css/insights.css">
-	
-	<link href="style/css/career.css" rel="stylesheet">
-    
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&display=swap"
-		rel="stylesheet">
-
-	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
-		rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap"
-		rel="stylesheet">
-	
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-	
-
-	<link rel="shortcut icon" href="assets/images/logo/favicon.png" type="image/x-icon">
-	<link rel="icon" href="assets/images/logo/favicon.png" type="image/x-icon">
-
-	<!-- Responsive -->
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-</head>
-<body>
+<!-- Page Title -->
+<section class="page-title" style="background-image:url(assets/images/insight/shiny-bulb-businessman-s-hand.jpg)">
+			<div class="auto-container">
+				<h2>Insight</h2>
+				<ul class="bread-crumb clearfix">
+					<li><a href="./Home">Home</a></li>
+					<li>Insight</li>
+				</ul>
+			</div>
+</section>
+<!-- End Page Title -->
 
 <!--ALSYNC DIFFERENTIATORS section start-->
-<section>
+<section class="insight-banner">
     <div class="sec-title centered">
 		<div class="sec-title_title head-insight">ALSYNC DIFFERENTIATORS</div>
     </div>
@@ -86,7 +39,7 @@
                 <div class="inner-box wow fadeInLeft scroll-to-services" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="image-layer"></div>
                     <div class="post-number">01</div>
-                    <h5><a href=""><br> <br> CUSTOMER CENTRICITY</a></h5>
+                    <h6><a href=""><br> <br> CUSTOMER CENTRICITY</a></h6>
                     <div class="text">
                        <ul id="service-list">
                         <li>Understanding Customer And His Customers Needs Better</li>
@@ -104,7 +57,7 @@
                 <div class="inner-box wow fadeInLeft scroll-to-services" data-wow-delay="150ms" data-wow-duration="1500ms">
                     <div class="image-layer"></div>
                     <div class="post-number">02</div>
-                    <h5><a href="#"> <br> <br>PROCESS EXCELLENCE</a></h5>
+                    <h6><a href="#"> <br> <br>PROCESS EXCELLENCE</a></h6>
                     <div class="text">
                      <ul id="service-list">
                         <li>Well Defined And Efficient Work Processes </li>
@@ -122,7 +75,7 @@
                 <div class="inner-box wow fadeInLeft scroll-to-services" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div class="image-layer"></div>
                     <div class="post-number">03</div>
-                    <h5><a href="#"> <br> <br>PEOPLE EXCELLENCE</a></h5>
+                    <h6><a href="#"> <br> <br>PEOPLE EXCELLENCE</a></h6>
                     <div class="text">
                       <ul id="service-list">
                         <li>Right Skill At The Right Place</li>
@@ -139,7 +92,7 @@
                 <div class="inner-box wow fadeInLeft scroll-to-services" data-wow-delay="450ms" data-wow-duration="1500ms">
                     <div class="image-layer"></div>
                     <div class="post-number">04</div>
-                    <h5><a href="#"> <br> <br> PERSONAL EXCELLENCE </a></h5>
+                    <h6><a href="#"> <br> <br> PERSONAL EXCELLENCE </a></h6>
                     <div class="text">
                        <ul id="service-list">
                         <li>Customer Centered</li>
@@ -156,7 +109,7 @@
                 <div class="inner-box wow fadeInLeft scroll-to-services" data-wow-delay="0ms" data-wow-duration="1500ms">
                     <div class="image-layer"></div>
                     <div class="post-number">05</div>
-                    <h5><a href="#"> <br> <br> CUSTOMER & ALSYNC</a></h5>
+                    <h6><a href="#"> <br> <br> CUSTOMER & ALSYNC</a></h6>
                     <div class="text">
                         <ul id="service-list">
                             <li> Strategy</li>
@@ -259,5 +212,4 @@
     </div>
 </section>
 <!---consulting section end--->
-</body>
-</html>
+<?php include 'shared/footer.php' ?>

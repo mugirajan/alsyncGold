@@ -2,9 +2,24 @@
 
 * { padding:0;margin:0; box-sizing: border-box; }
 /*ALSYNC DIFFERENTIATORS section start*/
+@media(min-width:768px){
 .insight-img {
     height:500px;
     width:500px;
+}
+}
+@media(max-width:760px){
+    .insight-img {
+        margin-bottom:5%;
+    }
+}
+.insight-img  img{
+    width:100%;
+}
+.insight-banner{
+    margin-top:3%;
+    
+
 }
 /*ALSYNC DIFFERENTIATORS section end*/
 
@@ -271,16 +286,16 @@
   transform: scale(-1) rotate(180deg);
 }
 
-.service-block-four .inner-box h5{
+.service-block-four .inner-box h6{
   font-weight:800;
   margin-top:20px;
 }
 
-.service-block-four.alternate .inner-box h5 {
+.service-block-four.alternate .inner-box h6 {
   font-weight:800;
 }
 
-.service-block-four .inner-box h5 a{
+.service-block-four .inner-box h6 a{
   position:relative;
   color:rgb(2,0,51);
   transition:all 500ms ease;
@@ -290,12 +305,12 @@
   -o-transition:all 500ms ease;
 }
 
-.service-block-four .inner-box:hover h5 a,
+.service-block-four .inner-box:hover h6 a,
 .service-block-four .inner-box:hover .text{
   color: white;
 }
 
-.service-block-four.alternate .inner-box:hover h5 a,
+.service-block-four.alternate .inner-box:hover h6 a,
 .service-block-four.alternate .inner-box:hover .text{
   color: inherit;
 }
