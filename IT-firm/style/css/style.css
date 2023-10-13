@@ -7385,6 +7385,10 @@
 	position:relative;
 }
 
+.single-service.sidebar-page-container {
+	padding: 70px 0px 50px;
+}
+
 /* Sidebar Widget */
 
 .sidebar-widget{

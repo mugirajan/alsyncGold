@@ -1,12 +1,25 @@
 <?php include 'shared/header.php' ?>
  	
+<style>
+	/* Chrome, Safari, Edge, Opera */
+	input::-webkit-outer-spin-button,
+	input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+	}
+
+	/* Firefox */
+	input[type=number] {
+	-moz-appearance: textfield;
+	}
+</style>
 	
 	<!-- Page Title -->
     <section class="page-title" style="background-image:url(assets/images/career/asia-businessmen-businesswomen-meeting-brainstorming-ideas-conducting-business-presentation-project-colleagues-working-together-plan-success-strategy-enjoy-teamwork-small-modern-night-office.jpg)">
         <div class="auto-container">
 			<h2>Career</h2>
 			<ul class="bread-crumb clearfix">
-				<li><a href="index.php">Home</a></li>
+				<li><a href="./Home">Home</a></li>
 				<li>career</li>
 			</ul>
         </div>
@@ -94,6 +107,7 @@
 						<div class="service-block_five_icon"><img src="assets/images/icons/service-20.png" alt="" /></div>
 						<h5 class="service-block_five_heading"><a href="service-detail.html">Management Vision</a></h5>		
 					</div>
+<<<<<<< HEAD
 				</div>
 				
 				<!-- Services Block Five -->
@@ -106,6 +120,8 @@
 					</div>
 				</div>
 				
+=======
+>>>>>>> be422cd2c075dcf2991482338bf7826540eb4af1
 			</div>
 		</div>
 	</section>
@@ -161,58 +177,56 @@
 	<!--form section-->
 <section class="form-container">
 	<div id="survey-container">
-
 	
 		<div class="sec-title centered">
 			<div class="sec-title_title">Application Form</div>
 			<h2 class="sec-title_heading"> Career Opportunities Application Form</h2>
 		</div>
 	  
-		
-	  
-		<form id="survey-form">
+		<form id="survey-form" enctype="multipart/form-data">
 	  
 		  <!-- name -->
-		  <label id="name-label" class="row-label" for="name">Name:</label>
-		  <input id="name" class="row-input" type="text" placeholder="Enter your name" required>
+		  <label id="name-label" class="row-label" for="username">Name:</label>
+		  <input id="username" class="row-input" name="username" type="text" placeholder="Enter your name" required>
 
 		  <!-- phone -->
-		  <label id="phone-label" class="row-label" for="phone">Email:</label>
-		  <input id="email" class="row-input" type="email" placeholder="Enter your email" required>
+		  <label id="phone-label" class="row-label" for="email">Email:</label>
+		  <input id="email" class="row-input" name="email" type="email" placeholder="Enter your email" required>
 	  
-		 <!-- phone -->
-		 <label id="phone-label" class="row-label" for="phone">Phone No:</label>
-		 <input id="pjone" class="row-input" type="number" placeholder="Enter your phone number" required>
+		  <!-- phone -->
+		  <label id="phone-label" class="row-label" for="phone">Phone No:</label>
+		  <input id="phone" class="row-input" name="phno" type="number" placeholder="Enter your phone number" required>
 	  
-	  
-		  <!-- salary radio -->
+		  <!-- relocation radio -->
 		  <p class="row-label">Are you open to relocating for this opportunity?</p>
 	  
-		  <label class="row-input small" for="below-3k">
-			<input type="radio" id="below-3k" name="radio" value="below-3k">
+		  <label class="row-input small" for="relocate-yes">
+			<input type="radio" id="relocate-yes" name="relocate" value="yes">
 			<span class="inline-label">Yes</span>
 		  </label>
 	  
-		  <label class="row-input small" for="3k-4k">
-			<input type="radio" id="3k-4k" name="radio" value="3k-4k">
+		  <label class="row-input small" for="relocate-no">
+			<input type="radio" id="relocate-no" name="relocate" value="no">
 			<span class="inline-label">No</span>
 		  </label>
 	  
-		 
+		  <!-- resume file -->
 		  <label id="file-label" class="row-label" for="file">Resume Upload:</label>
-		  <input id="file" class="row-input" type="file">
+		  <input id="file" class="row-input" type="file" name="user-resume">
 	  
 		  <!-- comments textarea -->
 		  <label class="row-label" for="comments">Additional informations:</label>
-		  <textarea id="comments" placeholder="Enter other informations here..."></textarea>
+		  <textarea id="user-comments" style="width: 100%;height:70px;border-radius: 6px;padding: 5px 10px;" placeholder="Enter other informations here..."></textarea>
 	  
 		  <!-- submit button -->
 		  <button id="submit" type="submit">Submit</button>
 	  
+		  <div class="mail-messages"></div>
+
 		</form>
 	  
 	  </div>
-</section>
+	</section>
 	<!--form section end-->
 	
 	<!-- CTA One -->
@@ -224,12 +238,14 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">Contact us</a>
+					<a class="cta-one_btn theme-btn" href="./Contact">Contact us</a>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End CTA One -->
 	
+	<script src="./style/js/native-toast.js"></script>
+	<script src="./style/js/mailer.js"></script>
 	
 <?php include 'shared/footer.php' ?>

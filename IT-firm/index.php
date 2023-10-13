@@ -1,4 +1,9 @@
-<?php include 'shared/header.php' ?>
+<?php 
+
+include 'shared/header.php';
+include 'shared/php/connect.php';
+
+?>
 	
 	<div id="overlay">
 		<div class="header-image">
@@ -10,15 +15,10 @@
 			<div class="banner2 d-lg-none d-xl-none">
 				<img class="background-video" src="assets/images/home/home-banner.jpg">
 				</img>
-
 			</div>
-
-
-
-
 			<section class="herocontent">
 				<h1>Welcome To <br>Alsync Global Solutions</h1>
-				<a href="services.php" class="button lighthead"></a>
+				<a href="./Services" class="button lighthead"></a>
 			</section>
 
 		</div>
@@ -38,73 +38,42 @@
 		<div class="auto-container">
 			<div class="row clearfix">
 
-				<!-- Service Block One -->
-				<div class="service-block_one col-lg-3 col-md-6 col-sm-12">
-					<div class="service-block_one-inner">
-						<div class="service-block_one-icon"><img src="assets/images/icons/service-1.png" alt="" /></div>
-						<h5 class="service-block_one-title"><a href="#">Managed IT <span>Services</span></a></h5>
-						<div class="service-block_one-text">Ensure an up-to-date, efficient IT network for your
-							company.</div>
-						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
-							<div class="service-block_one-text-two">It is a comprehensive set of services that help
-								businesses manage their IT resources, networks, and systems with maximum
-								efficiency.These services include hardware and software support…</div>
-							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
-						</div>
-					</div>
-				</div>
+				<?php
 
-				<!-- Service Block One -->
-				<div class="service-block_one col-lg-3 col-md-6 col-sm-12">
-					<div class="service-block_one-inner">
-						<div class="service-block_one-icon"><img src="assets/images/icons/service-2.png" alt="" /></div>
-						<h5 class="service-block_one-title"><a href="#">IT <span>Infrastructure </span></a></h5>
-						<div class="service-block_one-text">At IT Solutions, we provide our clients with proactive.
-						</div>
-						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
-							<div class="service-block_one-text-two">Warranty Management Services are designed to
-								help
-								businesses manage and track their warranties, ensuring that
-								they are kept up to date and that their equipment is properly maintained…..</div>
-							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
-						</div>
-					</div>
-				</div>
+					$connect = createConn();
+					$valid = array('success' => false, 'message' => "");
+					$sql = "SELECT serv_nm, sDscrptn FROM serv_mstr WHERE is_ft_serv = true and is_deleted = false";
+					$result = $connect->query($sql);
+					
+					while($row = $result->fetch_assoc()) 
+        			{
+						echo '
+							<!-- Service Block One -->
+							<div class="service-block_one col-lg-3 col-md-6 col-sm-12">
+								<div class="service-block_one-inner">
+									<div class="service-block_one-icon"><img src="assets/images/icons/service-1.png" alt="" /></div>
+									<h5 class="service-block_one-title">
+										<a href="./Services?service='. $row['serv_nm'] .'">
+											'.$row['serv_nm'].'
+										</a>
+									</h5>
+									<div class="service-block_one-text">
+										'. $row['sDscrptn'] .'
+									</div>
+									<a class="theme-btn service-block_one-link" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
+									<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
+										<div class="service-block_one-text-two">
+											'. $row['sDscrptn'] .'
+										</div>
+										<a class="theme-btn service-block_one-link two" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
+									</div>
+								</div>
+							</div>
+						';
+					}
+			
+				?>
 
-				<!-- Service Block One -->
-				<div class="service-block_one col-lg-3 col-md-6 col-sm-12">
-					<div class="service-block_one-inner">
-						<div class="service-block_one-icon"><img src="assets/images/icons/service-3.png" alt="" /></div>
-						<h5 class="service-block_one-title"><a href="#">Managed IT <span>Services</span></a></h5>
-						<div class="service-block_one-text">Ensure and update your IT environment’s compliance.
-						</div>
-						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
-							<div class="service-block_one-text-two">Entrusting the IT operations of a company to an
-								outside entity , called Managed Service Providers (MSPs ), is referred to as managed
-								IT services .....
-								the entire portfolio of print related activities.….</div>
-							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
-						</div>
-					</div>
-				</div>
-
-				<!-- Service Block One -->
-				<div class="service-block_one col-lg-3 col-md-6 col-sm-12">
-					<div class="service-block_one-inner">
-						<div class="service-block_one-icon"><img src="assets/images/icons/service-4.png" alt="" /></div>
-						<h5 class="service-block_one-title"><a href="#">Software <span>Solutions</span></a></h5>
-						<div class="service-block_one-text">Improve efficiency, productivite Softwares </div>
-						<a class="theme-btn service-block_one-link" href="services.php">Read More</a>
-						<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
-							<div class="service-block_one-text-two">Software solution is a program that will perform
-								all the time-consuming tasks and automate regular task catering you ease,...</div>
-							<a class="theme-btn service-block_one-link two" href="services.php">Read More</a>
-						</div>
-					</div>
-				</div>
 
 			</div>
 		</div>
@@ -176,7 +145,7 @@
 						</div>
 
 						<!-- About One Detail -->
-						<a class="about-one_detail"  href="about.php">
+						<a class="about-one_detail"  href="./About">
 							Check details about our company
 							<span class="play-icon"><span class="fas fa-plus"></span><i
 									class="ripple"></i></span>
@@ -386,7 +355,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/team/avatar1.jpg" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.php">Ashish Sudra</a></h5>
+								<h5 class="team-one_title"><a href="#">Ashish Sudra</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -395,7 +364,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.php">Read more</a>
+									<a class="team_one-more" href="#">Read more</a>
 								</div>
 							</div>
 
@@ -415,7 +384,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/team/avatar2.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.php">Rachna Sheth</a></h5>
+								<h5 class="team-one_title"><a href="#">Rachna Sheth</a></h5>
 								<div class="team-one_designation">International Business Head</div>
 							</div>
 
@@ -424,7 +393,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.php">Read more</a>
+									<a class="team_one-more" href="#">Read more</a>
 								</div>
 							</div>
 
@@ -444,7 +413,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/team/avatar3.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.php">Tapak Meni</a></h5>
+								<h5 class="team-one_title"><a href="#">Tapak Meni</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -453,7 +422,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.php">Read more</a>
+									<a class="team_one-more" href="#">Read more</a>
 								</div>
 							</div>
 
@@ -473,7 +442,7 @@
 						<div class="team_one-image">
 							<img src="assets/images/team/avatar4.png" alt="" />
 							<div class="team_one-content">
-								<h5 class="team-one_title"><a href="team-detail.php">Ergi Laura</a></h5>
+								<h5 class="team-one_title"><a href="#">Ergi Laura</a></h5>
 								<div class="team-one_designation">Founder & CEO</div>
 							</div>
 
@@ -482,7 +451,7 @@
 									<div class="team_one-text">Our goal is to propel your to business forward u
 										world-class IT cybersecurity and technology We provide the expert solutions.
 									</div>
-									<a class="team_one-more" href="team-detail.php">Read more</a>
+									<a class="team_one-more" href="#">Read more</a>
 								</div>
 							</div>
 
@@ -619,7 +588,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/award.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">Award-Winning
+									<h5 class="project-one_title"><a href="#">Award-Winning
 											Photo</a></h5>
 									<div class="project-one_designation">Photo Editing</div>
 								</div>
@@ -630,7 +599,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus "
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -644,7 +613,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/editing.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">Property
+									<h5 class="project-one_title"><a href="#">Property
 											Simplified</a></h5>
 									<div class="project-one_designation">Photo Editing</div>
 								</div>
@@ -655,7 +624,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus"
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -669,7 +638,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/foodapp.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">Deliveries Made
+									<h5 class="project-one_title"><a href="#">Deliveries Made
 											Easy</a></h5>
 									<div class="project-one_designation">Food Delivery</div>
 								</div>
@@ -680,7 +649,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus "
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -694,7 +663,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/collection.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">Collection
+									<h5 class="project-one_title"><a href="#">Collection
 											Management</a></h5>
 									<div class="project-one_designation">Web Application</div>
 								</div>
@@ -705,7 +674,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus"
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -744,7 +713,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/ios.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">iOS Application</a>
+									<h5 class="project-one_title"><a href="#">iOS Application</a>
 									</h5>
 									<div class="project-one_designation">Admin Dashboard</div>
 								</div>
@@ -755,7 +724,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus"
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -769,7 +738,7 @@
 							<div class="project_one-image">
 								<img src="assets/images/home/handyman.png" alt="" />
 								<div class="project_one-content">
-									<h5 class="project-one_title"><a href="project-detail.php">HandyMan app</a>
+									<h5 class="project-one_title"><a href="#">HandyMan app</a>
 									</h5>
 									<div class="project-one_designation">Web App</div>
 								</div>
@@ -780,7 +749,7 @@
 											designers and the strategists with a lot of thought and analysis come
 											true!</div>
 										<a class="project_one-plus fa-solid fa-plus"
-											href="project-detail.php"></a>
+											href="#"></a>
 									</div>
 								</div>
 
@@ -830,10 +799,6 @@
 	</section>
 	<!-- End Projects One -->
 
-	<!-- News One -->
-
-	<!-- End News One -->
-
 	<!-- CTA One -->
 	<section class="cta-one">
 		<div class="auto-container">
@@ -843,15 +808,14 @@
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">contact us</a>
+					<a class="cta-one_btn theme-btn" href="./Contact">contact us</a>
 				</div>
 			</div>
 		</div>
 	</section>
 	<!-- End CTA One -->
 
+	<script src="./style/js/indxHelper.js"></script>
 
 <?php include 'shared/footer.php' ?>
-
-
 	

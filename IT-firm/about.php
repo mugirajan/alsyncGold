@@ -4,7 +4,7 @@
 			<div class="auto-container">
 				<h2>About Us</h2>
 				<ul class="bread-crumb clearfix">
-					<li><a href="index.php">Home</a></li>
+					<li><a href="./Home">Home</a></li>
 					<li>About Us</li>
 				</ul>
 			</div>
@@ -112,7 +112,7 @@
 											<h2 class="choose-one_heading">Success through Innovative Digital Solutions</h2>
 											<div class="choose-one_text">Empowering success with cutting-edge digital engineering solutions, backed by world-class IT expertise, ethical values, and environmental responsibility.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="contact.php">
+												<a class="btn-style-three theme-btn btn-item" href="./Contact">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fas fa-arrow-right "></i></span>
 														<span class="text-two">Contact Us <i class="fas fa-arrow-right"></i></span>
@@ -176,7 +176,7 @@
 											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
 											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
 											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="contact.php">
+												<a class="btn-style-three theme-btn btn-item" href="./Contact">
 													<div class="btn-wrap">
 														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
 														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
@@ -420,7 +420,7 @@
 							<div class="team_one-image">
 								<img src="assets/images/team/avatar1.jpg" alt="" />
 								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="team-detail.php">Ashish Sudra</a></h5>
+									<h5 class="team-one_title"><a href="#">Ashish Sudra</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
 								</div>
 	
@@ -429,7 +429,7 @@
 										<div class="team_one-text">Our goal is to propel your to business forward u
 											world-class IT cybersecurity and technology We provide the expert solutions.
 										</div>
-										<a class="team_one-more" href="team-detail.php">Read more</a>
+										<a class="team_one-more" href="#">Read more</a>
 									</div>
 								</div>
 	
@@ -449,7 +449,7 @@
 							<div class="team_one-image">
 								<img src="assets/images/team/avatar2.png" alt="" />
 								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="team-detail.php">Rachna Sheth</a></h5>
+									<h5 class="team-one_title"><a href="#">Rachna Sheth</a></h5>
 									<div class="team-one_designation">International Business Head</div>
 								</div>
 	
@@ -458,7 +458,7 @@
 										<div class="team_one-text">Our goal is to propel your to business forward u
 											world-class IT cybersecurity and technology We provide the expert solutions.
 										</div>
-										<a class="team_one-more" href="team-detail.php">Read more</a>
+										<a class="team_one-more" href="#">Read more</a>
 									</div>
 								</div>
 	
@@ -478,7 +478,7 @@
 							<div class="team_one-image">
 								<img src="assets/images/team/avatar3.png" alt="" />
 								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="team-detail.php">Tapak Meni</a></h5>
+									<h5 class="team-one_title"><a href="#">Tapak Meni</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
 								</div>
 	
@@ -487,7 +487,7 @@
 										<div class="team_one-text">Our goal is to propel your to business forward u
 											world-class IT cybersecurity and technology We provide the expert solutions.
 										</div>
-										<a class="team_one-more" href="team-detail.php">Read more</a>
+										<a class="team_one-more" href="#">Read more</a>
 									</div>
 								</div>
 	
@@ -507,7 +507,7 @@
 							<div class="team_one-image">
 								<img src="assets/images/team/avatar4.png" alt="" />
 								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="team-detail.php">Ergi Laura</a></h5>
+									<h5 class="team-one_title"><a href="#">Ergi Laura</a></h5>
 									<div class="team-one_designation">Founder & CEO</div>
 								</div>
 	
@@ -516,7 +516,7 @@
 										<div class="team_one-text">Our goal is to propel your to business forward u
 											world-class IT cybersecurity and technology We provide the expert solutions.
 										</div>
-										<a class="team_one-more" href="team-detail.php">Read more</a>
+										<a class="team_one-more" href="#">Read more</a>
 									</div>
 								</div>
 	
@@ -687,7 +687,7 @@
 						<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 					</div>
 					<div class="right-box">
-						<a class="cta-one_btn theme-btn" href="contact.php">Contact us</a>
+						<a class="cta-one_btn theme-btn" href="./Contact">Contact us</a>
 					</div>
 				</div>
 			</div>
