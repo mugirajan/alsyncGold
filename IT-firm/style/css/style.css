@@ -5899,7 +5899,7 @@
 
 .services-three{
 	position:relative;
-	margin-top:-90px;
+	/* margin-top:-90px; */
 	z-index:20;
 }
 
@@ -5948,6 +5948,7 @@
     -ms-transition: all 750ms ease;
     -o-transition: all 750ms ease;
     transition: all 750ms ease;
+	
 }
 
 .service-block_five-inner:hover .service-block_five_icon{

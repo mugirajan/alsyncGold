@@ -23,6 +23,7 @@
 	<link href="style/css/magnific-popup.css" rel="stylesheet">
 	<link href="style/css/odometer-theme-default.css" rel="stylesheet">
 	<link href="style/css/owl.css" rel="stylesheet">
+	<link rel="stylesheet" href="style/css/insights.css">
 	
 	<link href="style/css/career.css" rel="stylesheet">
     

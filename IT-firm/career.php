@@ -21,92 +21,95 @@
 				<div class="sec-title_title">Career</div>
 				<h2 class="sec-title_heading"> reasons for you to join<br> Alsync Global Solutions</h2>
 			</div>
-			<div class="row  clearfix page-content">
+			<!-- Services Three -->
+	<section class="services-three">
+		<div class="auto-container">
+			<div class="row clearfix">
 				
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Management Vision</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                           
-                          </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-18.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Positive Culture</a></h5>
 					</div>
+				</div>
 				
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Financial Stability</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                           
-                          </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-19.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Financial Stability</a></h5>	
 					</div>
+				</div>
 				
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Great Clients</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            
-                          </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-20.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Great Clients</a></h5>		
 					</div>
+				</div>
 				
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Work-Life Balance</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                         
-                          </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-21.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Work-Life Balance</a></h5>				
 					</div>
-				
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Skill Developement Opportunity</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            
-                          </div>
-					</div>
+				</div>
 
-				<!-- Service Block Two -->
-				
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="750ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Growth Opportunity</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                          
-                          </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-18.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Skill Develop Opportunity</a></h5>
 					</div>
+				</div>
 				
-                    <!-- Service Block Two -->
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="900ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Positive Culture</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                           
-                         </div>
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-19.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Growth Opportunity</a></h5>	
 					</div>
-                    
-                    <!-- Service Block Two -->
-					<div class="career-card service-block_two-inner col-lg-3 col-md-6 col-sm-12 wow fadeInLeft" data-wow-delay="1050ms" data-wow-duration="1500ms">
-                        <div class="career-content">
-                            <h2 class="title">Inclusive Environment</h2>
-                            <p class="copy">Seriously, straight up, just blast off into outer space today</p>
-                            <!-- <button class="career-btn">Book Now</button> -->
-                          </div>
+				</div>
+				
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon"><img src="assets/images/icons/service-20.png" alt="" /></div>
+						<h5 class="service-block_five_heading"><a href="service-detail.html">Management Vision</a></h5>		
 					</div>
+				</div>
 				
-              
-				
-			
+				<!-- Services Block Five -->
+				<div class="service-block_five col-lg-3 col-md-6 col-sm-12">
+					<div class="service-block_five-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+						<div class="service-block_five-color-layer"></div>
+						<div class="service-block_five_pattern" style="background-image:url(assets/images/background/pattern-38.png)"></div>
+						<div class="service-block_five_icon career-content"><img src="assets/images/icons/service-21.png" alt="" /></div>
+						<h5 class="service-block_five_heading  career-content"><a href="service-detail.html">Inclusive Environment</a></h5>				
+					</div>
+				</div>
 				
 			</div>
-            	
+		</div>
+	</section>
+	<!-- End Company One -->
 		</div>
 	</section>
 	
@@ -134,7 +137,7 @@
                                          We will give you the opportunity to work with some of the biggest names in the technology ecosystem, we want to learn and grow together, 
                                          with you.</div>
 									<div class="step-block_one-arrow fa-solid fa-arrow-right fa-fw"></div>
-									<a href="#" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
+									<a href="services.php" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
 								</div>
 							</div>
 							<!-- Step Block One -->

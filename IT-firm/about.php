@@ -10,13 +10,9 @@
 			</div>
 		</section>
 		<!-- End Page Title -->
-
-
 		<!-- Fluid Section One -->
 		
 		<!-- End Fluid Section One -->
-
-
 		<!-- About One -->
 		<section class="about-one" style="background-color: white;">
 			<div class="auto-container">
@@ -284,9 +280,7 @@
 			</div>
 		</section>
 		 <!--End about our company-->
-		
-
-        
+		 
 		<!-- Process One -->
 		<section class="process-one" >
 			<div class="auto-container">
