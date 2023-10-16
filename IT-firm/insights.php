@@ -14,9 +14,6 @@
 
 <!--ALSYNC DIFFERENTIATORS section start-->
 <section class="insight-banner">
-    <div class="sec-title centered">
-		<div class="sec-title_title head-insight">ALSYNC DIFFERENTIATORS</div>
-    </div>
     <div class="col-lg-9 mx-auto insight-img">
         <img src="assets/images/insight/ALSYNCYELLOW1.png">
     </div>
@@ -46,7 +43,7 @@
                         <li>Moving From Doing What Is Contracted To Being A Partner In Solution Success</li>
                         <li>Internal Partnerships To Create Value For The Customer</li>
                         <li>Relationship Building, Excellence In Governance</li>
-                        <li> Partner Of Choice</li>
+                        <!-- <li>Partner Of Choice</li> -->
                     </ul>
                     </div>
                 </div>
@@ -128,9 +125,6 @@
 
 <!--IT TRANSFORMATION--->
 <section>
-    <div class="sec-title centered">
-		<div class="sec-title_title head-insight">BUSINESS TRANSFORMATION</div>
-    </div>
     <div class="col-lg-9 mx-auto insight-img">
         <img src="assets/images/insight/ALSYNCYELLOW2.png">
     </div>
@@ -144,14 +138,14 @@
         </div>
     <div class="service-row row d-flex justify-content-center">
         <div class="col-md-6 col-lg-4 col-sm-12">
-            <div class="card-service card-4">
+            <div class="card-service card-3">
                 <h5>Augmentation of Service Portfolio</h5>
                 <p>Augmentation of Managed Services portfolio through addition of Mainframe
                 services.</p>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 col-sm-12">
-            <div class="card-service card-3">
+            <div class="card-services card-7">
                   <h5>INFOCROSSING</h5>
                   <p>Managed Data Center Services Managed Services - Mainframe & Storage
                     Non-linear delivery model.</p>
@@ -160,14 +154,14 @@
     </div>
     <div class="service-row row">
         <div class="col-md-6 col-lg-4 col-sm-12">
-            <div class="card-service card-1">
+            <div class="card-service card-9">
                 <h5>IT Outsourcing Deals </h5>
                 <p> Leveraging on Infocrossing's world class Data Center Services capabilities to address Global IT Outsourcing
                     deals involving management of customer's strategic IT assets.</p>
             </div>
         </div>
         <div class="col-md-6 col-lg-4 col-sm-12">
-            <div class="card-service card-6">
+            <div class="card-service card-1">
                 <h5>TIS</h5>
                 <p>Infrastructure Consulting & Si
                     Managed Services - Open Systems
@@ -175,7 +169,7 @@
              </div>
         </div>
         <div class="col-md-6 col-lg-4 col-sm-12">
-            <div class="card-service card-3">
+            <div class="card-service card-6">
                 <h5>From ISM  to IT Infrastructure Outsourcing</h5>
                 <p>Robust onshore front-end to address IT Outsourcing as opposed to only Remote Management.</p>
             </div>

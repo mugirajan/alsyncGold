@@ -61,7 +61,7 @@ include 'shared/php/connect.php';
 										'. $row['sDscrptn'] .'
 									</div>
 									<a class="theme-btn service-block_one-link" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
-									<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
+									<div class="service-block_one-overlay" style="background-image:url(assets/images/home/Service-1.jpg)">
 										<div class="service-block_one-text-two">
 											'. $row['sDscrptn'] .'
 										</div>
@@ -248,7 +248,7 @@ include 'shared/php/connect.php';
 					<div class="single-item-carousel owl-carousel owl-theme">
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/web-app.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/web-app.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">
@@ -262,7 +262,7 @@ include 'shared/php/connect.php';
 						</div>
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/it-infrastructure.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/it-infrastructure.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">
@@ -276,7 +276,7 @@ include 'shared/php/connect.php';
 						</div>
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/warranty-manage.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/warranty-manage.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">

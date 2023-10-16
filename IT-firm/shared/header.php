@@ -111,6 +111,7 @@
 										</li>
 										<li> <a href="./About">About Us</a> </li>
 										<li> <a href="./Services">Services</a> </li>
+										<li> <a href="./insights.php">Insight</a> </li>
 										<li> <a href="./Career">Career</a> </li>
 										<li> <a class="contact" href="./Contact">Contact</a> </li>
 										

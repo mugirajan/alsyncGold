@@ -92,14 +92,23 @@
   padding: 14px 80px 18px 36px;
   cursor: pointer;
 }
-
+.card-services{
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+padding: 14px 40px 20px 80px;
+cursor: pointer;
+}
 
 .card-service:hover{
      transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
-
-
+.card-services:hover{
+  transform: scale(1.05);
+box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
 
 .card-service h3{
   font-weight: 600;
@@ -112,40 +121,67 @@
   max-height: 120px;
 }
 
+
+.card-services h3{
+  font-weight: 600;
+}
+
+.card-services img{
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  max-height: 120px;
+}
+
+
 .card-1{
-  background-image: url(https://ionicframework.com/img/getting-started/ionic-native-card.png);
+  background-image: url(../../assets/images/insight/system-networks.png);
       background-repeat: no-repeat;
     background-position: right;
-    background-size: 80px;
+    background-size: 100px;
+    
 }
 
 .card-6{
-   background-image: url(https://ionicframework.com/img/getting-started/components-card.png);
+   background-image: url(../../assets/images/insight/components-card.png);
       background-repeat: no-repeat;
     background-position: right;
     background-size: 80px;
+   
 }
 
 .card-3{
-   background-image: url(https://ionicframework.com/img/getting-started/theming-card.png);
+   background-image: url(../../assets/images/insight/theming-card.png);
       background-repeat: no-repeat;
     background-position: right;
     background-size: 80px;
+
+    
 }
+.card-7{
+  background-image: url(../../assets/images/insight/theme-flip.png);
+     background-repeat: no-repeat;
+   background-position: left;
+   background-size: 80px;
+
+}
+
+
 .card-4{
-    background-image: url(https://ionicframework.com/img/getting-started/ionic-native-card.png);
+    background-image: url(../../assets/images/insight/ionic-native-card.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 80px;
   }
   
-  .card-5{
-     background-image: url(https://ionicframework.com/img/getting-started/components-card.png);
-    background-repeat: no-repeat;
-      background-position: left;
-      background-size: 80px;
-    
-  }
+  
+.card-9{
+  background-image: url(../../assets/images/insight/server-rack.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80px;
+}
+
 
 
 
@@ -222,7 +258,7 @@
   right:0px;
   bottom:0px;
   opacity:0.85;
-  background-color:rgb(9,110,245);
+  background: linear-gradient(to right, rgba(0, 140, 255, 0.5), rgba(11,90,219,1));
 }
 
 .service-block-four .inner-box:hover .image-layer{
@@ -353,7 +389,7 @@
   background-color: white;
 }
 #service-list li{
-  list-style-type:none;
+  list-style-type:bullets;
  
 }
 
