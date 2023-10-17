@@ -2,9 +2,12 @@
 
 // to be changes for production env.
 $servername = "localhost";
-$database = "alsync_db";
-$username = "root";
-$password = "";
+// $database = "alsync_db";
+// $username = "root";
+// $password = "";
+$database = "u140987190_alsync";
+$username = "u140987190_alsync_db_user";
+$password = "3+g7txRyg][K";
 
 
 // Create connection

@@ -40,9 +40,9 @@ class sndMail
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         // to be changes for production env.
-        $mail->Username = "mails@blackitechs.com";
-        $mail->Password = "BitsMail@2022";
-        $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
+        $mail->Username = "support@alsyncglobal.com";
+        $mail->Password = "Alsync@123";
+        $mail->setFrom("support@alsyncglobal.com", "Mail from Alsync Global");
 
         // admin address ~ ~ user mail id ~
         $mail->AddAddress($mailId);
@@ -79,13 +79,12 @@ class sndMail
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         // to be changes for production env.
-        $mail->Username = "mails@blackitechs.com";
-        $mail->Password = "BitsMail@2022";
-        $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
+        $mail->Username = "support@alsyncglobal.com";
+        $mail->Password = "Alsync@123";
+        $mail->setFrom("support@alsyncglobal.com", "Mail from Alsync Global");
 
-        // admin address ~ ~ support@alsync.com ~
         // to be changes for production env.
-        $mail->AddAddress("lamakjaronfire@gmail.com");
+        $mail->AddAddress("support@alsyncglobal.com");
 
         $mail->Subject = "New enquiry - ". $data['username'];
 
@@ -119,9 +118,9 @@ class sndMail
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         // to be changes for production env.
-        $mail->Username = "mails@blackitechs.com";
-        $mail->Password = "BitsMail@2022";
-        $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
+        $mail->Username = "hr@alsyncglobal.com";
+        $mail->Password = "Alsync@123";
+        $mail->setFrom("hr@alsyncglobal.com", "Mail from Alsync Global");
         
         // admin address ~ ~ user mailId ~
         $mail->AddAddress($mailId);
@@ -131,7 +130,7 @@ class sndMail
         $mail->msgHTML("
             <br />
             <br />
-            Thansk for reaching out to Alsync..!!!<br />
+            <h4>Thansk for reaching out to Alsync..!!!</h4><br />
             Will get back to you shortly
             <br />
             <br />
@@ -159,12 +158,12 @@ class sndMail
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         // to be changes for production env.
-        $mail->Username = "mails@blackitechs.com";
-        $mail->Password = "BitsMail@2022";
-        $mail->setFrom("mails@blackitechs.com", "Mail from BITS");
+        $mail->Username = "hr@alsyncglobal.com";
+        $mail->Password = "Alsync@123";
+        $mail->setFrom("hr@alsyncglobal.com", "Mail from Alsync Global");
         
         // admin address ~ ~ hr@alsync.com ~
-        $mail->AddAddress("lamakjaronfire@gmail.com");
+        $mail->AddAddress("hr@alsyncglobal.com");
 
         $mail->Subject = "New career request - ". $data['username'];
 

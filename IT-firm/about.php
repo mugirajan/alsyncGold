@@ -153,7 +153,15 @@
 								<div class="sec-title_three-big_title">about us</div>
 								<div class="sec-title_three-title">About our IT Company</div>
 								<h2 class="sec-title_three-heading">Choose The Best IT <br> Service Company</h2>
-								<div class="sec-title_three-text">By optimizing your body’s innate capacity to heal, many chronic diseases can be mitigated.</div>
+								<div class="sec-title_three-text">
+									At ALSYNC, Our team is passionate about helping you transform your ideas into innovative solutions. We are 
+									excited to partner with you and turn your vision into reality.
+
+									<br/>
+
+									And on that note we here at ALSYNC adhere to Quality Management System as we are an ISO 9001:2015 Certified Company
+
+								</div>
 							</div>
 							
 							<!-- Skills -->
@@ -163,39 +171,39 @@
 								<div class="default-skill-item">
 									<div class="default-skill-bar">
 										<div class="default-bar-inner">
-											<div class="default-bar progress-line" data-width="90">
+											<div class="default-bar progress-line" data-width="100">
 												<div class="default-skill-percentage"></div>
 											</div>
 										</div>
 									</div>
-									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="90">0</span>%</div>
-									<div class="default-skill-title">UI/UX Design</div>
+									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="100">0</span>%</div>
+									<div class="default-skill-title"> Quality </div>
 								</div>
 	
 								<!-- Skill Item -->
 								<div class="default-skill-item">
 									<div class="default-skill-bar">
 										<div class="default-bar-inner">
-											<div class="default-bar progress-line" data-width="95">
+											<div class="default-bar progress-line" data-width="100">
 												<div class="default-skill-percentage"></div>
 											</div>
 										</div>
 									</div>
-									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="95">0</span>%</div>
-									<div class="default-skill-title">SEO Marketing</div>
+									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="100">0</span>%</div>
+									<div class="default-skill-title">Security</div>
 								</div>
 								
 								<!-- Skill Item -->
 								<div class="default-skill-item">
 									<div class="default-skill-bar">
 										<div class="default-bar-inner">
-											<div class="default-bar progress-line" data-width="70">
+											<div class="default-bar progress-line" data-width="100">
 												<div class="default-skill-percentage"></div>
 											</div>
 										</div>
 									</div>
-									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="70">0</span>%</div>
-									<div class="default-skill-title">Web Development</div>
+									<div class="default-count-box count-box"><span class="count-text" data-speed="2000" data-stop="100">0</span>%</div>
+									<div class="default-skill-title">Support</div>
 								</div>
 								
 							</div>
@@ -335,146 +343,30 @@
 		</section> -->
 		<!-- End Process One -->
 
-		<!-- Team One -->
-		<section class="team-one">
-			<!-- <span class="team-color-box"></span> -->
-			<div class="auto-container">
-				<!-- Sec Title -->
-				<div class="sec-title centered">
-					<div class="sec-title_title">Team Member</div>
-					<h2 class="sec-title_heading">Passionate Personalities, <br> <span class="theme_color">Versatile</span>
-						Brains</h2>
-				</div>
-				<div class="row clearfix">
-	
-					<!-- Team One -->
-					<div class="team_one col-lg-3 col-md-6 col-sm-12">
-						<div class="team_one-inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="team_one-image">
-								<img src="assets/images/team/avatar1.jpg" alt="" />
-								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="#">Ashish Sudra</a></h5>
-									<div class="team-one_designation">Founder & CEO</div>
-								</div>
-	
-								<div class="team_one-overlay">
-									<div class="team-one_overlay-content">
-										<div class="team_one-text">Our goal is to propel your to business forward u
-											world-class IT cybersecurity and technology We provide the expert solutions.
-										</div>
-										<a class="team_one-more" href="#">Read more</a>
-									</div>
-								</div>
-	
-							</div>
-							<!-- Social Box -->
-							<ul class="team-one_social">
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://dribbble.com/" class="fa-brands fa fa-dribbble fa-fw"></a></li>
-							</ul>
-						</div>
-					</div>
-	
-					<!-- Team One -->
-					<div class="team_one col-lg-3 col-md-6 col-sm-12">
-						<div class="team_one-inner wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
-							<div class="team_one-image">
-								<img src="assets/images/team/avatar2.png" alt="" />
-								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="#">Rachna Sheth</a></h5>
-									<div class="team-one_designation">International Business Head</div>
-								</div>
-	
-								<div class="team_one-overlay">
-									<div class="team-one_overlay-content">
-										<div class="team_one-text">Our goal is to propel your to business forward u
-											world-class IT cybersecurity and technology We provide the expert solutions.
-										</div>
-										<a class="team_one-more" href="#">Read more</a>
-									</div>
-								</div>
-	
-							</div>
-							<!-- Social Box -->
-							<ul class="team-one_social">
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://dribbble.com/" class="fa-brands fa fa-dribbble fa-fw"></a></li>
-							</ul>
-						</div>
-					</div>
-	
-					<!-- Team One -->
-					<div class="team_one col-lg-3 col-md-6 col-sm-12">
-						<div class="team_one-inner wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-							<div class="team_one-image">
-								<img src="assets/images/team/avatar3.png" alt="" />
-								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="#">Tapak Meni</a></h5>
-									<div class="team-one_designation">Founder & CEO</div>
-								</div>
-	
-								<div class="team_one-overlay">
-									<div class="team-one_overlay-content">
-										<div class="team_one-text">Our goal is to propel your to business forward u
-											world-class IT cybersecurity and technology We provide the expert solutions.
-										</div>
-										<a class="team_one-more" href="#">Read more</a>
-									</div>
-								</div>
-	
-							</div>
-							<!-- Social Box -->
-							<ul class="team-one_social">
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://dribbble.com/" class="fa-brands fa fa-dribbble fa-fw"></a></li>
-							</ul>
-						</div>
-					</div>
-	
-					<!-- Team One -->
-					<div class="team_one col-lg-3 col-md-6 col-sm-12">
-						<div class="team_one-inner wow fadeInUp" data-wow-delay="450ms" data-wow-duration="1500ms">
-							<div class="team_one-image">
-								<img src="assets/images/team/avatar4.png" alt="" />
-								<div class="team_one-content">
-									<h5 class="team-one_title"><a href="#">Ergi Laura</a></h5>
-									<div class="team-one_designation">Founder & CEO</div>
-								</div>
-	
-								<div class="team_one-overlay">
-									<div class="team-one_overlay-content">
-										<div class="team_one-text">Our goal is to propel your to business forward u
-											world-class IT cybersecurity and technology We provide the expert solutions.
-										</div>
-										<a class="team_one-more" href="#">Read more</a>
-									</div>
-								</div>
-	
-							</div>
-							<!-- Social Box -->
-							<ul class="team-one_social">
-								<li><a href="https://www.facebook.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
-								<li><a href="https://www.twitter.com/" class="fa-brands fa-twitter fa-fw"></a></li>
-								<li><a href="https://dribbble.com/" class="fa-brands fa fa-dribbble fa-fw"></a></li>
-							</ul>
-						</div>
-					</div>
-	
-				</div>
+		<!-- Awards One -->
+	<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;z-index: 9;">
+		<div class="container-fluid">
+			<div class="sec-title light centered">
+				<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
+				<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
+						Clients</span></h2>
 			</div>
-		</section>
-		<!-- End Team One -->
-
-		<!-- Counter One -->
-		
-		<!-- End Counter One -->
-
-		<!--Clients-->
-
-		<!---End Clients-->
+			<div class="clients-three_inner-container">
+				<!-- Sponsors Carousel -->
+				<ul class="sponsors-carousel-two owl-carousel owl-theme">
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
+					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
+					<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client1.png" alt=""></a></figure></li> -->
+				</ul>
+			</div>
+		</div>
+	</section><br>
+	<!-- End Awards One -->
 
 		<!-- form Three -->
 		<section class="contact-one" style="background-image:url(assets/images/background/map-1.png)">
@@ -502,8 +394,10 @@
 								<div class="block-inner">
 									<span class="icon"><img src="assets/images/icons/contact-1.png" alt="" /></span>
 									<strong>Office address</strong>
-									Alsync Global Solutions Private Limited Old No. 92/47, New No. 82/46, 4th Floor,
-									 East Coast Chamber, G N Chetty Road, T. nagar, Chennai – 600017
+									<a href="https://maps.app.goo.gl/LPLugBu2LcqHRzfB7">
+										Alsync Global Solutions Private Limited, Old No. 92/47, New No. 82/46, 4th Floor, East Coast Chamber, 
+										G N Chetty Road, T. nagar, Chennai - 600017
+									</a>
 								</div>
 							</div>
 							
@@ -512,7 +406,7 @@
 								<div class="block-inner">
 									<span class="icon"><img src="assets/images/icons/contact-2.png" alt="" /></span>
 									<strong>Telephone number</strong>
-									04447730641
+									<a href="tel:+04447730641"> 04447730641 </a> 
 								</div>
 							</div>
 							
@@ -521,7 +415,7 @@
 								<div class="block-inner">
 									<span class="icon"><img src="assets/images/icons/contact-3.png" alt="" /></span>
 									<strong>Mail address</strong>
-									support@alsyncglobal.com
+									<a href="mailto:support@alsyncglobal.com"> support@alsyncglobal.com </a> 
 								</div>
 							</div>
 							
@@ -530,31 +424,31 @@
 					
 					<!-- Form Column -->
 					<div class="form-column col-lg-8 col-md-12 col-sm-12">
-						<div class="inner-column">
+						<div class="inner-column">	
 							
 							<!-- Contact Form -->
 							<div class="contact-form">
-								<!-- <form method="post" action="sendemail.php" id="contact-form"> -->
+								<form method="post" id="contact-form">
 									<div class="row clearfix">
 										
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
 											<label>Name (required)</label>
-											<input type="text" name="username" placeholder="Your name*" required="">
+											<input type="text" name="username" placeholder="Your name*" required>
 										</div>
 										
 										<div class="col-lg-6 col-md-6 col-sm-12 form-group">
 											<label>Email adress (required)</label>
-											<input type="text" name="email" placeholder="Email" required="">
+											<input type="text" name="email" placeholder="Email" required>
 										</div>
 										
 										<div class="col-lg-6 col-md-12 col-sm-12 form-group">
 											<label>Phone (optional)</label>
-											<input type="text" name="phone" placeholder="Phone" required="">
+											<input type="text" name="phone" placeholder="Phone">
 										</div>
 										
 										<div class="col-lg-6 col-md-12 col-sm-12 form-group">
 											<label>Subject (required)</label>
-											<input type="text" name="subject" placeholder="Subject" required="">
+											<input type="text" name="subject" placeholder="Subject" required>
 										</div>
 										
 										<div class="col-lg-12 col-md-12 col-sm-12 form-group">
@@ -563,12 +457,7 @@
 										</div>
 										
 										<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-											<button class="btn-style-seven theme-btn">
-												<span class="btn-wrap">
-													<span class="text-one">Send message</span>
-													<span class="text-two">Send message</span>
-												</span>
-											</button>
+											<input class="btn-style-seven theme-btn" type="submit">
 										</div>
 										
 									</div>
@@ -625,5 +514,7 @@
 				</div>
 			</div>
 		</section>
+
+		<script src="./style/js/mailer.js"></script>
 <?php include 'shared/footer.php' ?>
 
