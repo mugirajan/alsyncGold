@@ -13,7 +13,7 @@
 							<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 								<div class="footer-widget logo-widget">
 									<div class="logo footer-logo">
-										<a href="index.html"><img src="assets/images/logo/alsynimg.png" alt="" /></a>
+										<a href="index.html"><img src="assets/images/logo/alsync-white.png" alt="" /></a>
 									</div>
 									<div class="text">We work with a passion of taking challenges and creating new
 										ones in advertising sector.</div>

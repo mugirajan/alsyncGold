@@ -10,13 +10,9 @@
 			</div>
 		</section>
 		<!-- End Page Title -->
-
-
 		<!-- Fluid Section One -->
 		
 		<!-- End Fluid Section One -->
-
-
 		<!-- About One -->
 		<section class="about-one" style="background-color: white;">
 			<div class="auto-container">
@@ -86,12 +82,7 @@
 					<!-- Choose Tabs -->
 					<div class="choose-tabs tabs-box">
 					
-						<!-- Tab Btns -->
-						<ul class="tab-btns tab-buttons clearfix">
-							<li data-tab="#prod-mission" class="tab-btn active-btn">Company Mission</li>
-							<li data-tab="#prod-winner" class="tab-btn">Awards Winner</li>
-							<li data-tab="#prod-software" class="tab-btn">Using Softwares</li>
-						</ul>
+						
 						
 						<!-- Tabs Container -->
 						<div class="tabs-content">
@@ -128,69 +119,7 @@
 								</div>
 							</div>
 							
-							<!-- Tab -->
-							<div class="tab" id="prod-winner">
-								<div class="row clearfix">
-									<!-- Image Column -->
-									<div class="choose-one_image-column col-lg-6 col-md-12 col-sm-12">
-										<div class="choose-one_image-inner">
-											<div class="choose-one_dotted-layer" style="background-image:url(assets/images/background/pattern-18.png)"></div>
-											<div class="choose-one_color-layer"></div>
-											<div class="choose-one_image">
-												<img src="assets/images/service/5057942.jpg" alt="" />
-											</div>
-										</div>
-									</div>
-									<!-- Content Column -->
-									<div class="choose-one_content-column col-lg-6 col-md-12 col-sm-12">
-										<div class="choose-one_content-inner">
-											<div class="choose-one_title">Touching Lives Through Technology</div>
-											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
-											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
-											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="contact.php">
-													<div class="btn-wrap">
-														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-													</div>
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
 							
-							<!-- Tab -->
-							<div class="tab" id="prod-software">
-								<div class="row clearfix">
-									<!-- Image Column -->
-									<div class="choose-one_image-column col-lg-6 col-md-12 col-sm-12">
-										<div class="choose-one_image-inner">
-											<div class="choose-one_dotted-layer" style="background-image:url(assets/images/background/pattern-18.png)"></div>
-											<div class="choose-one_color-layer"></div>
-											<div class="choose-one_image">
-												<img src="assets/images/service/3937434.jpg" alt="" />
-											</div>
-										</div>
-									</div>
-									<!-- Content Column -->
-									<div class="choose-one_content-column col-lg-6 col-md-12 col-sm-12">
-										<div class="choose-one_content-inner">
-											<div class="choose-one_title">Touching Lives Through Technology</div>
-											<h2 class="choose-one_heading">Fingent's Four Pillars of Influence</h2>
-											<div class="choose-one_text">We believe in four pillars of influence that drive our growth. This is ingrained in everything we do We use technology to create a better and smarter environment.</div>
-											<div class="choose-one_button">
-												<a class="btn-style-three theme-btn btn-item" href="./Contact">
-													<div class="btn-wrap">
-														<span class="text-one">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-														<span class="text-two">Contact Us <i class="fa-solid fa-arrow-right fa-fw"></i></span>
-													</div>
-												</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
 							
 						</div>
 						
@@ -284,11 +213,9 @@
 			</div>
 		</section>
 		 <!--End about our company-->
-		
-
-        
+		 
 		<!-- Process One -->
-		<section class="process-one" >
+		<!-- <section class="process-one" >
 			<div class="auto-container">
 				<div class="sec-title centered">
 					<div class="sec-title_title">Our Achievements</div>
@@ -298,7 +225,7 @@
 				<div class="process-one_inner-conatiner">
 					<div class="four-item-carousel owl-carousel owl-theme">
 
-						<!-- Process Column -->
+						
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -311,7 +238,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+						
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -324,7 +251,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+						
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -337,7 +264,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+						
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -350,7 +277,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+					
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -363,7 +290,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+					
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -376,7 +303,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+						
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -389,7 +316,7 @@
 							</div>
 						</div>
 
-						<!-- Process Column -->
+					
 						<div class="process-one_block">
 							<div class="process-one_block-inner">
 								<div class="process-one_image">
@@ -405,7 +332,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End Process One -->
 
 		<!-- Team One -->

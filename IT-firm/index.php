@@ -248,7 +248,7 @@ include 'shared/php/connect.php';
 					<div class="single-item-carousel owl-carousel owl-theme">
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/web-app.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/web-app.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">
@@ -262,7 +262,7 @@ include 'shared/php/connect.php';
 						</div>
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/it-infrastructure.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/it-infrastructure.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">
@@ -276,7 +276,7 @@ include 'shared/php/connect.php';
 						</div>
 						<!-- Slide -->
 						<div class="slide">
-							<figure class="fluid-one_image"><img src="assets/images/warranty-manage.jpg" alt=""></figure>
+							<figure class="fluid-one_image"><img src="assets/images/home/warranty-manage.jpg" alt=""></figure>
 							<div class="fluid-one_content">
 								<!-- Sec Title -->
 								<div class="sec-title light">

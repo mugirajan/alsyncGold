@@ -23,6 +23,7 @@
 	<link href="style/css/magnific-popup.css" rel="stylesheet">
 	<link href="style/css/odometer-theme-default.css" rel="stylesheet">
 	<link href="style/css/owl.css" rel="stylesheet">
+	<link rel="stylesheet" href="style/css/insights.css">
 	
 	<link href="style/css/career.css" rel="stylesheet">
 	<script src="style/js/jquery.js"></script>
@@ -110,6 +111,7 @@
 										</li>
 										<li> <a href="./About">About Us</a> </li>
 										<li> <a href="./Services">Services</a> </li>
+										<li> <a href="./insights.php">Insight</a> </li>
 										<li> <a href="./Career">Career</a> </li>
 										<li> <a class="contact" href="./Contact">Contact</a> </li>
 										

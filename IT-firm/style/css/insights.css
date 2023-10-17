@@ -1,0 +1,396 @@
+
+
+* { padding:0;margin:0; box-sizing: border-box; }
+/*ALSYNC DIFFERENTIATORS section start*/
+@media(min-width:768px){
+.insight-img {
+    height:500px;
+    width:500px;
+}
+}
+@media(max-width:760px){
+    .insight-img {
+        margin-bottom:5%;
+    }
+}
+.insight-img  img{
+    width:100%;
+}
+.insight-banner{
+    margin-top:3%;
+    
+
+}
+/*ALSYNC DIFFERENTIATORS section end*/
+
+/* CONSULTING AS AN ENABLER section start */
+.in {
+  transition-property: margin, background-color, border-color;
+  transition-duration: .4s, .2s, .2s;
+  transition-timing-function: ease-in-out, ease, ease;
+}
+.head-insight{
+    font-size:1.5rem;
+}
+.insight-sec{
+    margin-bottom:3%;
+    margin-top:-1%;
+}
+#list {
+  float:left;
+  width:100%;
+  padding:0;
+  position:relative;
+}
+
+.first-list:before {
+  content:'Consulting Services';
+  position:absolute;
+  left:-5.8em;
+  font-size:2em;
+  text-align:right;
+  top:3.7em;
+  color:#ededed;
+  font-weight:bold;
+  font-family: 'Maven Pro', sans-serif;
+  transform:rotate(-90deg);
+}
+.in {
+  float:left;
+  clear:left;
+  width:100%;
+  margin:0.2em 0;
+  padding:0.5em 0.8em;
+  list-style:none;
+  background-color:#f2f2f2;
+  border-left:5px solid #003842;
+  cursor:pointer;
+  color:#333;
+  position:relative;
+  z-index:2;
+}
+
+.in:hover {
+  background-color:#f9f9f9;
+  border-color:#00BDE8;
+}
+
+/*CONSULTING AS AN ENABLER section done*/
+
+/**/
+
+
+.service-row{
+    margin-bottom:3%;
+}
+
+.card-service{
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+      transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  padding: 14px 80px 18px 36px;
+  cursor: pointer;
+}
+.card-services{
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+    transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+padding: 14px 40px 20px 80px;
+cursor: pointer;
+}
+
+.card-service:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card-services:hover{
+  transform: scale(1.05);
+box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.card-service h3{
+  font-weight: 600;
+}
+
+.card-service img{
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  max-height: 120px;
+}
+
+
+.card-services h3{
+  font-weight: 600;
+}
+
+.card-services img{
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  max-height: 120px;
+}
+
+
+.card-1{
+  background-image: url(../../assets/images/insight/system-networks.png);
+      background-repeat: no-repeat;
+    background-position: right;
+    background-size: 100px;
+    
+}
+
+.card-6{
+   background-image: url(../../assets/images/insight/components-card.png);
+      background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80px;
+   
+}
+
+.card-3{
+   background-image: url(../../assets/images/insight/theming-card.png);
+      background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80px;
+
+    
+}
+.card-7{
+  background-image: url(../../assets/images/insight/theme-flip.png);
+     background-repeat: no-repeat;
+   background-position: left;
+   background-size: 80px;
+
+}
+
+
+.card-4{
+    background-image: url(../../assets/images/insight/ionic-native-card.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80px;
+  }
+  
+  
+.card-9{
+  background-image: url(../../assets/images/insight/server-rack.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 80px;
+}
+
+
+
+
+/*Card-section end*/
+
+/*DRIVING INNOVATION section start*/
+
+.service-block-four.style-two .inner-box {
+  box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.10);
+}
+
+.service-section-five-container {
+  padding-top: 20px;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); /*this */
+  gap:14px;
+}
+.service-section-four{
+  position:relative;
+  padding:100px 0px 250px;
+  background-color:rgb(244,244,244);
+}
+
+.service-section-four .sec-title-three .text{
+  margin-top:45px;
+}
+
+.service-section-five-container {
+  padding-top: 20px;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); /*this */
+  gap:14px;
+  margin-bottom:5%;
+}
+
+.service-block-four{
+  position:relative;
+  margin-bottom:30px;
+}
+
+.service-block-four .inner-box{
+  position:relative;
+  padding:30px 22px;
+  border-radius:6px;
+  overflow:hidden;
+  background-color:white;
+  height:70vh;
+}
+
+.service-block-four .inner-box .image-layer{
+  position:absolute;
+  left:0px;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  background-position:center bottom;
+  background-repeat:no-repeat;
+  transition: -webkit-transform 0.4s ease;
+  transition: transform 0.4s ease;
+  transition: transform 0.4s ease,-webkit-transform 0.4s ease;
+  -webkit-transform: scale(0, 1);
+  -ms-transform: scale(0, 1);
+  transform: scale(0, 1);
+  -webkit-transform-origin: left center;
+  -ms-transform-origin: left center;
+  transform-origin: left center;
+}
+
+.service-block-four .inner-box .image-layer:before{
+  position:absolute;
+  content:'';
+  left:0px;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  opacity:0.85;
+  background: linear-gradient(to right, rgba(0, 140, 255, 0.5), rgba(11,90,219,1));
+}
+
+.service-block-four .inner-box:hover .image-layer{
+  -webkit-transform: scale(1, 1);
+  -ms-transform: scale(1, 1);
+  transform: scale(1, 1);
+  -webkit-transform-origin: right center;
+  -ms-transform-origin: right center;
+  transform-origin: right center;
+}
+
+.service-block-four .inner-box .post-number{
+  position:absolute;
+  right:30px;
+  top:35px;
+  line-height:1em;
+  font-weight:800;
+  font-size:3.5rem;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family:var(--font-family-BeVietnam);
+  
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: linear-gradient(to bottom, rgba(131,130,155,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+.service-block-four .inner-box:hover .post-number{
+  color:white;
+}
+
+.service-block-four .inner-box:hover .icon-box{
+  color:white;
+  background:rgb(9,110,245);
+  background: linear-gradient(to right, rgb(45,85,255) 0%, #ece7e8 100%);
+}
+
+.service-block-four .inner-box .icon-box{
+  position:relative;
+  width:60px;
+  height:60px;
+  line-height:56px;
+  text-align:center;
+  border-radius:50px;
+  display:inline-block;
+  font-family: "Flaticon";
+  font-size:34px;
+  color:rgb(9,110,245);
+  background-color: rgba(243,0,48, 0.1);
+  transition:all 500ms ease;
+  -moz-transition:all 500ms ease;
+  -webkit-transition:all 500ms ease;
+  -ms-transition:all 500ms ease;
+  -o-transition:all 500ms ease;
+}
+
+.service-block-four .inner-box:hover .icon-box{
+  -webkit-transform: scale(-1) rotate(180deg);
+  -moz-transform: scale(-1) rotate(180deg);
+  -ms-transform: scale(-1) rotate(180deg);
+  -o-transform: scale(-1) rotate(180deg);
+  transform: scale(-1) rotate(180deg);
+}
+
+.service-block-four .inner-box h6{
+  font-weight:800;
+  margin-top:20px;
+}
+
+.service-block-four.alternate .inner-box h6 {
+  font-weight:800;
+}
+
+.service-block-four .inner-box h6 a{
+  position:relative;
+  color:rgb(2,0,51);
+  transition:all 500ms ease;
+  -moz-transition:all 500ms ease;
+  -webkit-transition:all 500ms ease;
+  -ms-transition:all 500ms ease;
+  -o-transition:all 500ms ease;
+}
+
+.service-block-four .inner-box:hover h6 a,
+.service-block-four .inner-box:hover .text{
+  color: white;
+}
+
+.service-block-four.alternate .inner-box:hover h6 a,
+.service-block-four.alternate .inner-box:hover .text{
+  color: inherit;
+}
+
+
+.service-block-four .inner-box .text{
+  position:relative;
+  color:rgb(102,102,102);
+  font-size:16px;
+  margin-top:15px;
+  margin-bottom:20px;
+  transition:all 500ms ease;
+  -moz-transition:all 500ms ease;
+  -webkit-transition:all 500ms ease;
+  -ms-transition:all 500ms ease;
+  -o-transition:all 500ms ease;
+}
+
+.service-block-four .inner-box .arrow{
+  position:relative;
+  width:35px;
+  height:35px;
+  line-height:35px;
+  text-align:center;
+  border-radius:50px;
+  display:inline-block;
+  font-family: "Flaticon";
+  font-size:18px;
+  color:rgb(9,110,245);
+  transition:all 500ms ease;
+  -moz-transition:all 500ms ease;
+  -webkit-transition:all 500ms ease;
+  -ms-transition:all 500ms ease;
+  -o-transition:all 500ms ease;
+  background-color: rgba(243,0,48, 0.1);
+}
+
+.service-block-four .inner-box:hover .arrow{
+  color: rgb(9,110,245);
+  background-color: white;
+}
+#service-list li{
+  list-style-type:bullets;
+ 
+}
+
+/*DRIVING INNOVATION section end*/
