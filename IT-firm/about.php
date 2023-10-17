@@ -348,30 +348,30 @@
 		</section> -->
 		<!-- End Process One -->
 
-		<!-- Awards One -->
-	<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;z-index: 9;">
-		<div class="container-fluid">
-			<div class="sec-title light centered">
-				<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
-				<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
-						Clients</span></h2>
+		<!--clients-->
+		<section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;">
+			<div class="container-fluid">
+				<div class="sec-title light centered">
+					<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
+					<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
+							Clients</span></h2>
+				</div>
+				<div class="clients-three_inner-container">
+					<!-- Sponsors Carousel -->
+					<ul class="sponsors-carousel-two owl-carousel owl-theme">
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
+						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
+						<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1.png" alt=""></a></figure></li> -->
+					</ul>
+				</div>
 			</div>
-			<div class="clients-three_inner-container">
-				<!-- Sponsors Carousel -->
-				<ul class="sponsors-carousel-two owl-carousel owl-theme">
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
-					<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
-					<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="images/clients/client1.png" alt=""></a></figure></li> -->
-				</ul>
-			</div>
-		</div>
-	</section><br>
-	<!-- End Awards One -->
+		</section>
+		<!--End Clients-->
 
 		<!-- form Three -->
 		<section class="contact-one" style="background-image:url(assets/images/background/map-1.png)">
@@ -478,31 +478,6 @@
 		</section>
 		<!-- End form Three -->
 
-
-         <!--clients-->
-		 <section class="clients-three" style="background-color:#0f0f35; padding: 70px 0px;">
-			<div class="container-fluid">
-				<div class="sec-title light centered">
-					<div class="sec-title_title">Our <span class="theme_color"> Presitigious </span> Clients</div>
-					<h2 class="sec-title_heading">We are very proud of our <br> Best <span class="theme_color">
-							Clients</span></h2>
-				</div>
-				<div class="clients-three_inner-container">
-					<!-- Sponsors Carousel -->
-					<ul class="sponsors-carousel-two owl-carousel owl-theme">
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client2white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client3white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client4white.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client5whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client6whiteredo.png" alt=""></a></figure></li>
-						<li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client7whiteredo.png" alt=""></a></figure></li>
-						<!-- <li class="slide-item"><figure class="client-one_image-box-two"><a href="#"><img src="assets/images/clients/client1.png" alt=""></a></figure></li> -->
-					</ul>
-				</div>
-			</div>
-		</section>
-		 <!--End Clients-->
 
 
 		<!-- CTA One -->
