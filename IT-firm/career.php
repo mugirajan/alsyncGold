@@ -142,7 +142,7 @@
                                          We will give you the opportunity to work with some of the biggest names in the technology ecosystem, we want to learn and grow together, 
                                          with you.</div>
 									<div class="step-block_one-arrow fa-solid fa-arrow-right fa-fw"></div>
-									<a href="#" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
+									<a href="./Services" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
 								</div>
 							</div>
 							<!-- Step Block One -->

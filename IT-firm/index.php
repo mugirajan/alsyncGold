@@ -36,7 +36,7 @@ include 'shared/php/connect.php';
 	<!-- Service One -->
 	<section class="service-one" style="background-color: rgb(222, 223, 223);">
 		<div class="auto-container">
-			<div class="row clearfix">
+			<div class="row clearfix justify-content-center">
 
 				<?php
 
@@ -60,12 +60,12 @@ include 'shared/php/connect.php';
 									<div class="service-block_one-text">
 										'. $row['sDscrptn'] .'
 									</div>
-									<a class="theme-btn service-block_one-link" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
+									<a class="theme-btn service-block_one-link" href="./Detailed-Service?service='. $row['serv_nm'] .'">Read More</a>
 									<div class="service-block_one-overlay" style="background-image:url(assets/images/Service-1.jpg)">
 										<div class="service-block_one-text-two">
 											'. $row['sDscrptn'] .'
 										</div>
-										<a class="theme-btn service-block_one-link two" href="./Services?service='. $row['serv_nm'] .'">Read More</a>
+										<a class="theme-btn service-block_one-link two" href="./Detailed-Service?service='. $row['serv_nm'] .'">Read More</a>
 									</div>
 								</div>
 							</div>

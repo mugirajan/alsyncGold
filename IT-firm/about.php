@@ -43,11 +43,11 @@
 							
 	
 							<!-- About One Detail -->
-							<a class="about-one_detail lightbox-video" href="https://www.youtube.com/watch?v=kxPCFljwJws">
+							<!-- <a class="about-one_detail lightbox-video" href="https://www.youtube.com/watch?v=kxPCFljwJws">
 								Check details about our company
 								<span class="play-icon"><span class="fas fa-plus"></span><i
 										class="ripple"></i></span>
-							</a>
+							</a> -->
 	
 						</div>
 					</div>

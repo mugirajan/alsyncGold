@@ -31,7 +31,7 @@ include 'shared/php/connect.php';
 
 					$connect = createConn();
 					$valid = array('success' => false, 'message' => "");
-					$sql = "SELECT serv_nm, sDscrptn FROM serv_mstr WHERE is_deleted = false";
+					$sql = "SELECT serv_nm, sDscrptn, ft_img FROM serv_mstr WHERE active_status = true and is_deleted = false";
 					$result = $connect->query($sql);
 					
 					while($row = $result->fetch_assoc()) 
@@ -41,9 +41,9 @@ include 'shared/php/connect.php';
 							<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
 								<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 									<div class="service-block_two-image">
-										<img src="assets/images/service/6533310.jpg" alt="" />
+										<img src="../../alsync-admin/'.$row['ft_img'] .'" alt="" />
 										<div class="service-block_two-overlay">
-											<div class="service-block_two-icon"><img src="assets/images/icons/service-4.png" alt="" /></div>
+											<div class="service-block_two-icon"></div>
 											<h5 class="service-block_two-title"> '. $row['serv_nm'] .' </h5>
 										</div>
 										<div class="service-block_two-overlay-two">
@@ -80,7 +80,7 @@ include 'shared/php/connect.php';
 					<div class="cta-one_text">As a app web crawler expert, We will help to organize.</div>
 				</div>
 				<div class="right-box">
-					<a class="cta-one_btn theme-btn" href="contact.php">contact us</a>
+					<a class="cta-one_btn theme-btn" href="./Contact">contact us</a>
 				</div>
 			</div>
 		</div>

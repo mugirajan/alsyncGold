@@ -65,7 +65,7 @@
 				<div class="auto-container">
 					<div class="d-flex justify-content-between align-items-center flex-wrap">
 						<div class="left-box">
-							<div class="text"><i class="fas fa-phone-alt" ></i>  04447730641 <i class="fas fa-map-marked-alt"></i> <span id="address">T. nagar, </span> Chennai</div>
+							<div class="text"><i class="fas fa-phone-alt" ></i>  044 4773 0641 <i class="fas fa-map-marked-alt"></i> <span id="address">T. nagar, </span> Chennai</div>
 						</div>
 						<div class="right-box align-items-center d-flex">
 
