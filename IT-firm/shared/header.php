@@ -66,10 +66,15 @@
 				<div class="auto-container">
 					<div class="d-flex justify-content-between align-items-center flex-wrap">
 						<div class="left-box">
-							<div class="text"><i class="fas fa-phone-alt" ></i>  044 4773 0641 <i class="fas fa-map-marked-alt"></i> <span id="address">T. nagar, </span> Chennai</div>
+							<div class="text">
+								<a href="tel:+04447730641" style="color: white">
+									<i class="fas fa-phone-alt" ></i> 044 4773 0641 
+								</a>
+								<a href="https://maps.app.goo.gl/LPLugBu2LcqHRzfB7" style="color: white">
+									<i class="fas fa-map-marked-alt"></i> <span id="address">T. nagar, </span> Chennai</div>
+								</a>
 						</div>
 						<div class="right-box align-items-center d-flex">
-
 							<!-- Social Box -->
 							<ul class="header-social_box">
 								<!-- <li><a href="https://www.twitter.com/" class="fa-brands fa-facebook-f fa-fw"></a></li>
@@ -84,7 +89,7 @@
 			<!-- End Header Top -->
 
 			<!-- Header Upper -->
-			<div class="header-upper"style="    background-color:tranparent;">
+			<div class="header-upper"style="background-color:tranparent;">
 				<div class="auto-container">
 					<div  class="inner-container d-flex justify-content-between align-items-center flex-wrap">
 						<!-- Logo Box -->
@@ -106,13 +111,11 @@
 
 								<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 									<ul class="navigation clearfix">
-										<li class=""><a href="./Home">Home</a>
-											
-										</li>
-										<li> <a href="./About">About Us</a> </li>
+										<li class=""><a href="./Home">Home</a> </li>
 										<li> <a href="./Services">Services</a> </li>
-										<li> <a href="./insights.php">Insight</a> </li>
+										<li> <a href="./Insights">Insights</a> </li>
 										<li> <a href="./Career">Career</a> </li>
+										<li> <a href="./About">About Us</a> </li>
 										<li> <a class="contact" href="./Contact">Contact</a> </li>
 										
 										

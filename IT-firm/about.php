@@ -23,16 +23,21 @@
 							<div class="sec-title">
 								<div class="sec-title_title">About us</div>
 								<h2 class="sec-title_heading">Choose <span>The Best</span> IT <br> Service Company</h2>
-								<div class="sec-title_text">Are you looking for an engineering team that can create
+								<div class="sec-title_text">
+									
+									Are you looking for an engineering team that can create
 									innovative solutions that keep you competitive in the
 									ever-evolving technological landscape? Look no further
-									than ALSYNC!
+									than ALSYNC! 
+									<br />
+									
 									We are an engineering firm that focuses on leveraging
 									cutting-edge technology and outstanding engineering
 									solutions to create an environment that accelerates our
-									clients’ success. Our highly skilled and experienced team
+									clients' success. Our highly skilled and experienced team
 									is dedicated to developing solutions tailored to your
-									needs.</div>
+									needs.
+								</div>
 							</div>
 	
 							<!-- About Info Tabs -->
@@ -55,7 +60,7 @@
 								<img src="assets/images/icons/circle-layer.png" alt="" />
 							</div>
 							<div class="about-one_image">
-								<img src="assets/images/home-about/home-about.png" alt="" />
+								<img src="assets/images/home-about/home-about.png" alt="" width="80%" />
 							</div>
 							<!-- <div class="about-one_bold-text">About us</div> -->
 							<div class="about-one_image-text">We are a certified IT Service company.</div>
