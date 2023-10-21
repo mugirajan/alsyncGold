@@ -39,8 +39,10 @@
 							<div class="block-inner">
 								<span class="icon"><img src="assets/images/icons/contact-1.png" alt="" /></span>
 								<strong>Office address</strong>
-								Alsync Global Solutions Private Limited Old No. 92/47, New No. 82/46, 4th Floor, East Coast Chamber, 
-								G N Chetty Road, T. nagar, Chennai - 600017
+								<a href="https://maps.app.goo.gl/LPLugBu2LcqHRzfB7">
+									Alsync Global Solutions Private Limited, Old No. 92/47, New No. 82/46, 4th Floor, East Coast Chamber, 
+									G N Chetty Road, T. nagar, Chennai - 600017
+								</a>
 							</div>
 						</div>
 						
@@ -49,7 +51,7 @@
 							<div class="block-inner">
 								<span class="icon"><img src="assets/images/icons/contact-2.png" alt="" /></span>
 								<strong>Telephone number</strong>
-								04447730641
+								<a href="tel:+04447730641"> 04447730641 </a> 
 							</div>
 						</div>
 						
@@ -58,7 +60,7 @@
 							<div class="block-inner">
 								<span class="icon"><img src="assets/images/icons/contact-3.png" alt="" /></span>
 								<strong>Mail address</strong>
-								support@alsyncglobal.com
+							 	<a href="mailto:support@alsyncglobal.com"> support@alsyncglobal.com </a> 
 							</div>
 						</div>
 						
@@ -101,10 +103,6 @@
 									
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
 										<input class="btn-style-seven theme-btn" type="submit">
-											<span class="btn-wrap">
-												<span class="text-one">Send message</span>
-												<span class="text-two">Send message</span>
-											</span>
 									</div>
 
 									<div class="mail-messages"></div>

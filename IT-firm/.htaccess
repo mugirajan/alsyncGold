@@ -4,15 +4,16 @@ RewriteRule ^Home?$ index.php
 RewriteRule ^Index?$ index.php
 RewriteRule ^About?$ about.php
 RewriteRule ^Contact?$ contact.php
-RewriteRule ^Career?$ carrer.php
+RewriteRule ^Career?$ career.php
 RewriteRule ^Services?$ services.php
 RewriteRule ^Detailed-Service?$ single-service.php
-
+RewriteRule ^Insights?$ insights.php
 
 RewriteRule ^home?$ index.php
 RewriteRule ^index?$ index.php
 RewriteRule ^about?$ about.php
 RewriteRule ^contact?$ contact.php
-RewriteRule ^career?$ carrer.php
+RewriteRule ^career?$ career.php
 RewriteRule ^services?$ services.php
 RewriteRule ^detailed-service?$ single-service.php
+RewriteRule ^insights?$ insights.php

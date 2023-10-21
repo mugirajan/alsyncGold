@@ -37,16 +37,9 @@
 											
 										</li>
 										<li class=""><a  href="./Contact">Contact</a>
-											
 										</li>
 										
-										
 									</ul>
-
-									
-
-									
-
 								</div>
 							</div>
 
@@ -62,9 +55,19 @@
 								<div class="footer-widget contact-widget">
 									<h4>Official info:</h4>
 									<ul class="contact-list">
-										<li><span class="icon fa fa-map"></span> G N Chetty Road,<br>  T. nagar,
-										Chennai – 600017 </li>
-										<li><span class="icon fa fa-phone"></span>04447730641</li>
+										<li>
+											<a href="https://maps.app.goo.gl/LPLugBu2LcqHRzfB7" style="color: white"> 
+												<span class="icon fa fa-map"></span> 
+													G N Chetty Road,<br>
+													T. nagar,
+													Chennai - 600017 
+											</a> 
+										</li>
+										<li>
+											<a href="tel:04447730641" style="color: white">
+												<span class="icon fa fa-phone"></span>044 4773 0641
+											</a> 
+										</li>
 									</ul>
 									<div class="timing">
 										<strong>Open Hours: </strong>

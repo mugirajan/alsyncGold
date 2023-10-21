@@ -3,10 +3,10 @@
 <!-- Page Title -->
 <section class="page-title" style="background-image:url(assets/images/insight/shiny-bulb-businessman-s-hand.jpg)">
 			<div class="auto-container">
-				<h2>Insight</h2>
+				<h2>Insights</h2>
 				<ul class="bread-crumb clearfix">
 					<li><a href="./Home">Home</a></li>
-					<li>Insight</li>
+					<li>Insights</li>
 				</ul>
 			</div>
 </section>

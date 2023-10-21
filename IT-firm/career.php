@@ -107,7 +107,6 @@
 						<div class="service-block_five_icon"><img src="assets/images/icons/service-20.png" alt="" /></div>
 						<h5 class="service-block_five_heading"><a href="service-detail.html">Management Vision</a></h5>		
 					</div>
-<<<<<<< HEAD
 				</div>
 				
 				<!-- Services Block Five -->
@@ -120,8 +119,6 @@
 					</div>
 				</div>
 				
-=======
->>>>>>> be422cd2c075dcf2991482338bf7826540eb4af1
 			</div>
 		</div>
 	</section>
@@ -153,7 +150,7 @@
                                          We will give you the opportunity to work with some of the biggest names in the technology ecosystem, we want to learn and grow together, 
                                          with you.</div>
 									<div class="step-block_one-arrow fa-solid fa-arrow-right fa-fw"></div>
-									<a href="services.php" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
+									<a href="./Services" class="theme-btn btn-style-six">our services <span class="fa-solid fa-plus fa-fw"></span></a>
 								</div>
 							</div>
 							<!-- Step Block One -->

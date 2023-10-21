@@ -8,7 +8,7 @@ $pageFor = $_GET['service'];
 ?>
 	
 	<!-- Page Title -->
-	<section class="page-title" style="background-image:url(images/service/2175351.jpg)">
+	<section class="page-title" style="background-image:url(./assets/images/service/innerbanner.png); background-size: cover; background-overlay: #000">
         <div class="auto-container">
 			<h2> <?php echo $pageFor ?> </h2>
 			<ul class="bread-crumb clearfix">
@@ -35,7 +35,7 @@ $pageFor = $_GET['service'];
 
 								$connect = createConn();
 								$valid = array('success' => false, 'message' => "");
-								$sql = "SELECT serv_nm, sDscrptn FROM serv_mstr WHERE is_deleted = false";
+								$sql = "SELECT serv_nm, sDscrptn FROM serv_mstr WHERE active_status = true and is_deleted = false";
 								$result = $connect->query($sql);
 
 								while($row = $result->fetch_assoc()) 
@@ -56,8 +56,8 @@ $pageFor = $_GET['service'];
 							<div class="widget-content" style="background-image:url(assets/images/service/3d-render-concept-phone-receiver-3d-art-design-illustration.jpg)">
 								<div class="title">Contact us now</div>
 								<div class="help">If need help!</div>
-								<a class="phone" href="tel:+557-3452-234">557-3452-234</a>
-								<div class="form">or go to <a href="./Contact"> <strong> contact </strong> </a></div>
+								<a class="phone" href="tel:+04447730641"> 044 4773 0641 </a>
+								<div class="form">or go to <a href="./Contact"> <strong> CONTACT </strong> </a></div>
 							</div>
 						</div>
 						
