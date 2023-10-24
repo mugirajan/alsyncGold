@@ -28,67 +28,67 @@
 <!-- accordion section -->
 
 <section class="accordion-container-fluid">
-<h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
+    <h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
     <p>In today's digital-driven realm, your business's prosperity depends on a robust IT infrastructure. We simplify the complexity, guiding your transition from traditional CapEx infrastructure to a modern, scalable, and agile system, 
         empowering your business to thrive in the digital age.</p>
-<div class="accordion-container">
-    <div class="accordion_set">
-        <button class="select_div">Data Center Operations
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>Efficient data center management is at the core of every successful business, ensuring that your critical IT infrastructure runs smoothly, securely, and optimally. At ALSYNC, we offer comprehensive Data Center Management Services designed to empower 
-                        your organization with a resilient and high-performing data center ecosystem.</p>
+    <div class="accordion-container">
+        <div class="accordion_set">
+            <button class="select_div">Data Center Operations
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>Efficient data center management is at the core of every successful business, ensuring that your critical IT infrastructure runs smoothly, securely, and optimally. At ALSYNC, we offer comprehensive Data Center Management Services designed to empower 
+                            your organization with a resilient and high-performing data center ecosystem.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Infrastructure Monitoring and Maintenance
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>We provide 24/7 monitoring and maintenance to keep your data center running at peak performance.</p>
-                    <p>Our team performs regular checks and preventive maintenance to prevent downtime.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Infrastructure Monitoring and Maintenance
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>We provide 24/7 monitoring and maintenance to keep your data center running at peak performance.</p>
+                        <p>Our team performs regular checks and preventive maintenance to prevent downtime.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Sustainability
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>We focus on reducing energy consumption, which not only lowers costs but also supports sustainability initiatives.</p>
-                    <p>Our strategies help you achieve a more environmentally-friendly data center.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Sustainability
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>We focus on reducing energy consumption, which not only lowers costs but also supports sustainability initiatives.</p>
+                        <p>Our strategies help you achieve a more environmentally-friendly data center.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Capacity Planning and Optimization
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>We help you manage and optimize data center capacity, ensuring efficient resource utilization and scalability.</p>
-                    <p>Our experts identify potential bottlenecks and plan for future growth.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Capacity Planning and Optimization
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>We help you manage and optimize data center capacity, ensuring efficient resource utilization and scalability.</p>
+                        <p>Our experts identify potential bottlenecks and plan for future growth.</p>
+                    </div>
                 </div>
-            </div>
+        </div>
     </div>
-</div>
 </section>
 
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Setting <span>Expectations </span></h2>
+    <h2 class="sec-title_heading service-heading-card"> Setting <span>Expectations </span></h2>
     <div class="container-fluid">
-        <div class="list-services-card">
+        <div class="row  list-services-card">
             <div class="service-box service-box-shadow">
                 <i class="fas fa-crop fa-2x icon"></i>
                     <p class="text">

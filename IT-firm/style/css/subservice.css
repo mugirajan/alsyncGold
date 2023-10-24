@@ -9,7 +9,22 @@
     overflow: hidden;
 }
 
+@media(max-width:700px){
 .overlay-it {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%; 
+    height: 100%;
+}
+.hero-content-it {
+  position: absolute;
+  top: 50%;
+  text-align: center;
+}
+}
+@media(min-width:750px){
+  .overlay-it {
     position: absolute;
     top: 0;
     left: 0;
@@ -19,6 +34,17 @@
     clip-path: polygon(0 0, 100% 0, 75% 100%, 0 100%); 
     animation: slideOverlay 2s ease-in-out forwards; 
 }
+.hero-content-it {
+  position: absolute;
+  top: 50%;
+  left: 25%; 
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+}
+
+
 
 @keyframes slideOverlay {
     0% {
@@ -29,17 +55,12 @@
     }
 }
 
-.hero-content-it {
-    position: absolute;
-    top: 50%;
-    left: 25%; 
-    transform: translate(-50%, -50%);
-    text-align: center;
-}
+
 
 .hero-content-it h1 {
     font-size: 36px;
     margin-bottom: 20px; 
+    line-height:2rem;
 }
 
 .hero-content-it p {
@@ -68,7 +89,7 @@ button:hover {
     background-size: cover; 
     background-position: center center;
     color: #fff; 
-    height:60vh;
+    height:auto;
     margin-bottom:3%;
 }
 .para-it{
@@ -184,7 +205,7 @@ ol.gradient-list > li::before, ol.gradient-list > li {
       margin-bottom:3%;
     }
     .accordion-container-fluid p{
-       padding:5px 50px;
+       padding:5px 20px;
     }
     .accordion-container-fluid{
         margin-top:5%;
@@ -192,7 +213,7 @@ ol.gradient-list > li::before, ol.gradient-list > li {
     }
     .accordion-container-fluid h2{
        
-        padding:5px 50px;
+        padding:5px 20px;
     }
     .accordion_set{
       width: 100%;
@@ -230,6 +251,7 @@ ol.gradient-list > li::before, ol.gradient-list > li {
         margin:0;
         color:black;
         font-size:1.3rem;
+        padding:0px;
     }
     .active_tab {display:block!important;
     }
@@ -256,9 +278,11 @@ ol.gradient-list > li::before, ol.gradient-list > li {
 
 /*card-section*/
 .services-container{
-    padding: 3rem 5rem 0 3rem;
     position: relative;
     background-color: #F6F6F6;
+  }
+  .service-heading-card{
+    padding:30px 0px 0px 20px;;
   }
   .services-container::before {
     content: '';
@@ -277,30 +301,14 @@ ol.gradient-list > li::before, ol.gradient-list > li {
     flex-direction: column;
     align-items: center;
   }
-  .list-services-card .service-box {
-    background-color: #FFF;
-    padding: 4rem 1.5rem 1.5rem 1.5rem;
-    max-width: 350px;
-    position: relative;
-    transition: box-shadow .2s linear;
-  }
+ 
   .list-services-card .service-box:hover {
     box-shadow: 0 16px 15px -15px rgba(11,90,219,1);
   }
   .list-services-card .service-box:not(:last-of-type) {
     margin-bottom: 4rem;
   }
-  .list-services-card .service-box .icon {
-    position: absolute;
-    height: 80px;
-    width: 80px;
-    background-color: #000;
-    text-align: center;
-    line-height: 80px;
-    color: #FFF;
-    top: -40px;
-    right: -40px;
-  }
+ 
   .list-services-card .service-box .text {
     font-size: 1rem;
     margin-bottom: 1rem;
@@ -330,16 +338,57 @@ ol.gradient-list > li::before, ol.gradient-list > li {
   @media screen and (min-width: 1020px) {
     .list-services-card {
       flex-wrap: nowrap;
-      justify-content: space-between;
+      /* justify-content: space-between; */
       
     }
     .list-services-card .service-box {
-      width: 29%;
+      width: 30%;
       margin: 0 !important;
     }
   }
   .service-box-shadow{
     box-shadow: 5px 10px 18px #888888;
+  }
+
+  @media(max-width:425px){
+    .list-services-card .service-box {
+      background-color: #FFF;
+      padding: 4rem 1.5rem 1.5rem 1.5rem;
+      max-width: 290px;
+      position: relative;
+      transition: box-shadow .2s linear;
+    }
+    .list-services-card .service-box .icon {
+      position: absolute;
+      height: 80px;
+      width: 80px;
+      background-color: #000;
+      text-align: center;
+      line-height: 80px;
+      color: #FFF;
+      top: -40px;
+      right: -12px;
+    }
+  }
+  @media(min-width:430px){
+    .list-services-card .service-box {
+      background-color: #FFF;
+      padding: 4rem 1.5rem 1.5rem 1.5rem;
+      max-width: 350px;
+      position: relative;
+      transition: box-shadow .2s linear;
+    }
+    .list-services-card .service-box .icon {
+      position: absolute;
+      height: 80px;
+      width: 80px;
+      background-color: #000;
+      text-align: center;
+      line-height: 80px;
+      color: #FFF;
+      top: -40px;
+      right: -40px;
+    }
   }
 
   /*IT Infrastructure Management section start*/
@@ -349,7 +398,6 @@ ol.gradient-list > li::before, ol.gradient-list > li {
 
 .testimonial-services {
   display: flex;
-  width: 100%;
   align-items: center;
   justify-content: center;
   background-color: #f6f1f1;
@@ -412,12 +460,9 @@ ol.gradient-list > li::before, ol.gradient-list > li {
 }
 
 .run {
- 
 	padding: 0.5rem;
 	font-size: 1rem;
 	font: inherit;
-
- 
 }
 
 .box {
@@ -430,6 +475,9 @@ ol.gradient-list > li::before, ol.gradient-list > li {
 .list-container2 .box {
 	will-change: opacity transform;
 	animation: fade_in_2 0.3s cubic-bezier(.14,.18,.16,1.02) forwards;
+}
+.list-container2 {
+  margin-top:3%;
 }
 
 .list-container2 .box:nth-of-type(2) {
