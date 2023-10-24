@@ -86,7 +86,7 @@
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Our Areas of <span> Expertise</span></h2>
+<h2 class=" sec-title_heading"> Setting <span>Expectations </span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">
@@ -116,7 +116,7 @@
 
 <!---list-section--->
 <Section class="row list-it">
-    <h2 class=" sec-title_heading">Why Choose SYSNET for <span>Data Center Management? </span></h2>
+    <h2 class=" sec-title_heading">Why Choose  <span>ALSYNC</span></h2>
         <ol class="col-lg-9 m-auto gradient-list">
             <li>Our team comprises highly skilled professionals with a wealth of experience in IT infrastructure management.</li>
             <li>We take a proactive stance, identifying and addressing potential issues before they become major challenges.</li>
@@ -127,13 +127,6 @@
     
 </section>
 
-
-
-
-            
-      
-
-    
 
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>

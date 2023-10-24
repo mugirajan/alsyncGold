@@ -20,3 +20,18 @@ jQuery(document).ready(function() {
           }
         });
       });
+
+      const runBtns = document.querySelectorAll('.run')
+
+      runBtns.forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          const boxes = e.target.parentElement.querySelectorAll('.box')
+          boxes.forEach(box => {
+            const animation = box.style.animation
+            box.style.animation = 'none'
+            setTimeout(() => {
+              box.style.animation = animation
+            }, 200)
+          })
+        })
+      })

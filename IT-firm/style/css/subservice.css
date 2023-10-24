@@ -1,4 +1,4 @@
-
+/*IT Infrastructure Management section start*/
 /*hero-section*/
 .hero-it {
     position: relative;
@@ -255,9 +255,6 @@ ol.gradient-list > li::before, ol.gradient-list > li {
     }
 
 /*card-section*/
-
-
-
 .services-container{
     padding: 3rem 5rem 0 3rem;
     position: relative;
@@ -344,4 +341,116 @@ ol.gradient-list > li::before, ol.gradient-list > li {
   .service-box-shadow{
     box-shadow: 5px 10px 18px #888888;
   }
+
+  /*IT Infrastructure Management section start*/
+
+ /*Managed Print Services */ 
+
+
+.testimonial-services {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6f1f1;
+  padding-top:4rem;
+  padding-bottom:4rem !important;
+}
+
+.testimonial-cards-services {
+  max-width: 340px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 28px;
+  background-color: white;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+  border-radius: 10px;
+}
+.testimonial-cards-services img {
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+  border-radius: 100%;
+  object-fit: cover;
+}
+
+.review {
+  font-size: 15px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 20px;
+}
+
+.testimonial-cards-services:hover {
+  background: black;
+  color: white;
+  border: 5px solid white;
+  transform: scale(1.1);
+  transition: all 0.5s ease;
+}
   
+/*list-section*/
+.list-container  {
+	width: 100%;
+	max-width: 30rem;
+	margin: 0 auto;
+	display: grid;
+	grid-auto-columns: 100%;
+	gap: 1rem;
+}
+.list-container  ul {
+	display: inherit;
+	gap: inherit;
+	width: 100%;
+	padding: 0;
+}
+
+.list-container  ul li::marker {
+	content: '';
+}
+
+.run {
+ 
+	padding: 0.5rem;
+	font-size: 1rem;
+	font: inherit;
+
+ 
+}
+
+.box {
+	text-align: left;
+	padding: 1rem;
+	background: skyblue;
+	animation-name: fade_in;
+	opacity: 0;
+}
+.list-container2 .box {
+	will-change: opacity transform;
+	animation: fade_in_2 0.3s cubic-bezier(.14,.18,.16,1.02) forwards;
+}
+
+.list-container2 .box:nth-of-type(2) {
+	animation-delay: 0.08s;
+}
+
+.list-container2 .box:nth-of-type(3) {
+	animation-delay: 0.16s;
+}
+
+.list-container2 .box:nth-of-type(4) {
+	animation-delay: 0.24s;
+}
+
+@keyframes fade_in_2 {
+	from {
+		opacity: 0.2;
+		transform: translateY(1rem) scale(0.95);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0) scale(1);
+	}
+}
