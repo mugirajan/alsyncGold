@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-facility">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>Facility Management Service (FMS)</h1>
@@ -80,7 +80,7 @@
 <!---card-section-->
 
 <section class="services-container">
-    <h2 class=" sec-title_heading"> Setting <span>Expectations </span></h2>
+    <h2 class=" sec-title_heading service-heading-card"> Setting <span>Expectations </span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">

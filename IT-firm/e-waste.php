@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it-e-waste hero-it">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>E-Waste Management</h1>

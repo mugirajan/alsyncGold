@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-system">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>System Integration</h1>
