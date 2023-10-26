@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-visibility">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>Transparency and Visibility</h1>
@@ -112,21 +112,21 @@
 <section class="row testimonial-services">
     <h2 class="text-center sec-title_heading"> Your Role in the <span>Process </span></h2>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/objects.jpg">
             <div class="review">
                 <h4>Provide Clear Objectives</h4>
                     <p>Communicate your goals and objectives to us so that we can align our solutions with your vision.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/engage.jpg">
             <div class="review">
                 <h4>Engage Actively</h4>
                     <p>Stay engaged with our team, provide feedback, and work with us to ensure that our solutions meet your expectations.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/insight.jpg">
             <div class="review">
                 <h4>Utilize Insights</h4>
                     <p>Make the most of the data and insights we provide. Utilize them to make informed decisions and drive positive change within your organization.</p>

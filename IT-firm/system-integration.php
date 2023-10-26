@@ -28,55 +28,55 @@
 <!-- accordion section -->
 
 <section class="accordion-container-fluid">
-<h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
-    <p>In the digital age, the seamless operation and collaboration of various systems and technologies are essential for the success of businesses. At [Your Company Name], we specialize in System Integration services, ensuring that your
+    <h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
+        <p>In the digital age, the seamless operation and collaboration of various systems and technologies are essential for the success of businesses. At [Your Company Name], we specialize in System Integration services, ensuring that your
          IT ecosystem operates harmoniously, streamlining processes, and enhancing efficiency.</p>
-<div class="accordion-container">
-    <div class="accordion_set">
-        <button class="select_div">Infrastructure Integration
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>We seamlessly connect and integrate hardware and software components, ensuring your IT infrastructure operates as a cohesive whole.</p>
+    <div class="accordion-container">
+        <div class="accordion_set">
+            <button class="select_div">Infrastructure Integration
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>We seamlessly connect and integrate hardware and software components, ensuring your IT infrastructure operates as a cohesive whole.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Application Integration
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>Our experts integrate diverse applications, enabling them to work together, share data, and automate processes for enhanced productivity.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Application Integration
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>Our experts integrate diverse applications, enabling them to work together, share data, and automate processes for enhanced productivity.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Data Integration
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p> We centralize data from multiple sources, making it accessible and actionable, fostering informed decision-making.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Data Integration
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p> We centralize data from multiple sources, making it accessible and actionable, fostering informed decision-making.</p>
+                    </div>
                 </div>
-            </div>
-    </div>
-    <div class="accordion_set">
-        <button class="select_div">Security Integration
-            <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
-            </span>
-        </button>
-            <div class="content-it">
-                <div class="content_wrap">
-                    <p>We ensure that security solutions are tightly integrated, safeguarding your digital assets from threats and breaches.</p>
+        </div>
+        <div class="accordion_set">
+            <button class="select_div">Security Integration
+                <span id="span-it" class="fa-solid fa-arrow-right" aria-hidden="true">
+                </span>
+            </button>
+                <div class="content-it">
+                    <div class="content_wrap">
+                        <p>We ensure that security solutions are tightly integrated, safeguarding your digital assets from threats and breaches.</p>
+                    </div>
                 </div>
-            </div>
+        </div>
     </div>
-</div>
 </section>
 
 <!---card-section-->
@@ -84,21 +84,21 @@
 <section class="row testimonial-services">
     <h2 class="text-center sec-title_heading"> Why Choose  <span>ALSYNC </span></h2>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/expertise.jpg">
             <div class="review">
                 <h4>Expertise</h4>
                     <p>Our experienced team possesses deep knowledge in integrating complex systems and technologies.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/data.jpg">
             <div class="review">
                 <h4>Data Accessibility</h4>
                     <p>With integrated systems, you gain instant access to critical data, fostering better decision-making.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/effici.jpg">
             <div class="review">
                 <h4>Efficiency</h4>
                     <p>We improve operational efficiency by eliminating data silos, reducing redundancy, and automating processes.</p>

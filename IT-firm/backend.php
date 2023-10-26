@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-backend">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>Backend Repairs</h1>
@@ -83,7 +83,7 @@
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Why Choose <span>ALSYNC </span></h2>
+<h2 class=" sec-title_heading service-heading-card"> Why Choose <span>ALSYNC </span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">

@@ -9,6 +9,26 @@ RewriteRule ^Services?$ services.php
 RewriteRule ^Detailed-Service?$ single-service.php
 RewriteRule ^Insights?$ insights.php
 
+RewriteRule ^It-Infrastructure-Management?$   itinfrastructure.php
+RewriteRule ^Managed-Print-Services?$  print-service.php
+RewriteRule ^E-Waste-Management?$  e-waste.php
+RewriteRule ^Facility-Management-Service?$  facility.php
+RewriteRule ^It-Asset-Management-Monitoring?$   asset.php
+RewriteRule ^Network-Operation-Center?$   noc.php
+RewriteRule ^Warranty-Management-Services?$  warranty-management.php
+RewriteRule ^System-Integration?$   system-integration.php
+RewriteRule ^Software-Solutions?$   software.php
+RewriteRule ^Annual-Maintenance-Contract?$   amc.php
+RewriteRule ^24x7-Service-Desk?$   desk.php
+RewriteRule ^Application-Support-Services?$   application.php
+RewriteRule ^Call-Centre?$  call-centre.php
+RewriteRule ^Warehousing?$   warehousing.php
+RewriteRule ^Transparency-Visibility?$   visibility.php
+RewriteRule ^Product-Portfolio?$   product-portfolio.php
+RewriteRule ^Field-Service?$   field-service.php
+RewriteRule ^Forward-And-Reverse-Logistics?$  forward.php
+RewriteRule ^Back-End-Repairs?$   backend.php
+
 RewriteRule ^home?$ index.php
 RewriteRule ^index?$ index.php
 RewriteRule ^about?$ about.php
@@ -17,3 +37,24 @@ RewriteRule ^career?$ career.php
 RewriteRule ^services?$ services.php
 RewriteRule ^detailed-service?$ single-service.php
 RewriteRule ^insights?$ insights.php
+
+
+RewriteRule ^it-infrastructure-management?$   itinfrastructure.php
+RewriteRule ^managed-print-services?$  print-service.php
+RewriteRule ^e-waste-management?$  e-waste.php
+RewriteRule ^facility-management-service?$  facility.php
+RewriteRule ^it-asset-management-monitoring?$   asset.php
+RewriteRule ^network-operation-center?$   noc.php
+RewriteRule ^warranty-management-services?$  warranty-management.php
+RewriteRule ^system-integration?$   system-integration.php
+RewriteRule ^software-solutions?$   software.php
+RewriteRule ^annual-maintenance-contract?$   amc.php
+RewriteRule ^24x7-service-desk?$   desk.php
+RewriteRule ^application-support-services?$   application.php
+RewriteRule ^call-centre?$  call-centre.php
+RewriteRule ^warehousing?$   warehousing.php
+RewriteRule ^transparency-visibility?$   visibility.php
+RewriteRule ^product-portfolio?$   product-portfolio.php
+RewriteRule ^field-service?$   field-service.php
+RewriteRule ^forward-and-reverse-logistics?$  forward.php
+RewriteRule ^back-end-repairs?$   backend.php

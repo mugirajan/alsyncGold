@@ -90,21 +90,21 @@
     <div class="container-fluid">
         <div class="row  list-services-card">
             <div class="service-box service-box-shadow">
-                <i class="fas fa-crop fa-2x icon"></i>
+                <i class="fas fa-laptop-code fa-2x icon"></i>
                     <p class="text">
                         Should you encounter any issues or have questions, our support team is just a call or message away. We prioritize swift responses to keep your data center running smoothly.
                     </p>
                         <h3 class="title">Responsive Support</h3>
             </div>
             <div class="service-box  service-box-shadow">
-                <i class="fas fa-laptop-code fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
                     <p class="text">
                          You can rely on our vigilant monitoring to detect and resolve issues before they disrupt your operations. We'll keep you informed with regular reports and updates.
                     </p>   
                         <h3 class="title">Proactive Monitoring</h3>
             </div>
             <div class="service-box">
-                <i class="fas fa-shield-alt fa-2x icon"></i>
+                <i class="fas fa-crop fa-2x icon"></i>
                     <p class="text">
                         Based on our assessment, we'll design a tailored data center management plan that aligns with your goals. This plan will outline the scope of our services and expected outcomes.
                     </p>

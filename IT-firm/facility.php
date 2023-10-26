@@ -84,7 +84,7 @@
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">
-                <i class="fas fa-crop fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>   
                     <p class="text">
                         We maintain safety and compliance standards, reducing risks and liabilities for your organization and best maintenance ever.
                     </p>
@@ -98,7 +98,7 @@
                         <h3 class="title">Operational Continuity</h3>
             </div>
             <div class="service-box">
-                <i class="fas fa-shield-alt fa-2x icon"></i>
+                <i class="fas fa-crop fa-2x icon"></i>
                     <p class="text">
                         Our team of facility management experts has the knowledge and experience to oversee and manage various aspects of your facilities.
                     </p>

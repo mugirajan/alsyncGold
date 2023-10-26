@@ -80,11 +80,11 @@
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Setting <span>Expectations </span></h2>
+<h2 class=" sec-title_heading service-heading-card"> Setting <span>Expectations </span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">
-                <i class="fas fa-crop fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
                     <p class="text">
                         Level 1 (L1) support serves as the first line of defense in our 24x7 Service Desk, providing initial assistance to address common IT issues and inquiries. The primary focus of L1 support is to deliver efficient
                         and prompt solutions while ensuring seamless communication with our clients.
@@ -92,7 +92,7 @@
                         <h3 class="title">Level 1 (L1) Support</h3>
             </div>
             <div class="service-box  service-box-shadow">
-                <i class="fas fa-laptop-code fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
                     <p class="text">
                         Level 2 (L2) support serves as the second tier of our 24x7 Service Desk, providing more advanced technical assistance to address complex IT issues and incidents. L2 support specialists possess deeper knowledge and
                         experience to handle intricate problems effectively.

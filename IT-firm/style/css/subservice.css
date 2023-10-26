@@ -34,6 +34,30 @@
 .hero-it-software{
   background: url('../../assets/images/services/software.jpg') center/cover no-repeat;
 }
+.hero-it-application{
+  background: url('../../assets/images/services/application.jpg') center/cover no-repeat;
+}
+.hero-it-call{
+  background: url('../../assets/images/services/call-centre.jpg') center/cover no-repeat;
+}
+.hero-it-ware{
+  background: url('../../assets/images/services/warehouse.jpg') center/cover no-repeat;
+}
+.hero-it-visibility{
+  background: url('../../assets/images/services/visibility.jpg') center/cover no-repeat;
+}
+.hero-it-product{
+  background: url('../../assets/images/services/application.jpg') center/cover no-repeat;
+}
+.hero-it-field{
+  background: url('../../assets/images/services/field.jpg') center/cover no-repeat;
+}
+.hero-it-forward{
+  background: url('../../assets/images/services/') center/cover no-repeat;
+}
+.hero-it-backend{
+  background: url('../../assets/images/services/backend.jpg') center/cover no-repeat;
+}
 
 @media(max-width:700px){
 .overlay-it {
@@ -178,7 +202,7 @@ ol.gradient-list > li::before, ol.gradient-list > li {
   .gradient-list > li::before {
     align-items: flex-end;
     content: counter(gradient-counter);
-    color: #1d1f20;
+    color: white;
     display: flex;
     font: 900 1.5em/1 "Montserrat";
     justify-content: flex-end;

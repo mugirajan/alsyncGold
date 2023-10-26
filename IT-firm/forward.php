@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-forward">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>Forward and Reverse Logistics</h1>
@@ -136,42 +136,42 @@
 <section class="row testimonial-services">
     <h2 class="text-center sec-title_heading"> Why Choose  <span>ALSYNC </span></h2>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/expertise.jpg">
             <div class="review">
                 <h4>Customization</h4>
                     <p>We tailor our logistics solutions to align with your specific industry and business needs.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/asset-2.jpg">
             <div class="review">
                 <h4>Environmental</h4>
                     <p>Our eco-friendly disposal and recycling practices contribute to corporate sustainability goals.</p>
             </div>
     </div>    
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/cost.jpg">
             <div class="review">
                 <h4>Cost Optimization</h4>
                     <p>Our services are designed to enhance cost-efficiency in logistics operations, saving you time and money.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/cus-satis.jpg">
             <div class="review">
                 <h4>Customer Satisfaction</h4>
                     <p>Effective logistics positively impacts customer satisfaction through timely deliveries and responsive return processes.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/data.jpg">
             <div class="review">
                 <h4>Data-Driven Decisions</h4>
                     <p>Our detailed reporting and data analytics empower you to make informed decisions and process improvements.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/effici.jpg">
             <div class="review">
                 <h4>Efficiency</h4>
                     <p>We streamline both forward and reverse logistics processes, ensuring that products move seamlessly from manufacturers to consumers & back.</p>

@@ -83,21 +83,21 @@
 <section class="row testimonial-services">
     <h2 class="text-center sec-title_heading"> Why Choose  <span>ALSYNC </span></h2>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/expertise.jpg">
             <div class="review">
                 <h4>Expertise</h4>
                     <p>Our team comprises professionals with deep knowledge of it environmentally responsible disposal practices.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/data.jpg">
             <div class="review">
                 <h4>Data Security</h4>
                     <p>Protecting your data is our priority. Our certified data destruction methods ensure your information remains safe.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/sustain.jpg">
             <div class="review">
                 <h4>Sustainability</h4>
                     <p>Our efforts to refurbish and reuse electronics contribute to a more sustainable approach to e-waste.</p>

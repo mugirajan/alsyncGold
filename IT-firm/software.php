@@ -83,7 +83,7 @@
                         <h3 class="title">Custom Software Development</h3>
             </div>
             <div class="service-box  service-box-shadow">
-                <i class="fas fa-laptop-code fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
                     <p class="text">
                         Protecting your digital assets and ensuring regulatory compliance are paramount. Our Software Security and Compliance services provide robust protection for your software
                         systems while ensuring adherence to industry-specific regulations.
@@ -91,7 +91,7 @@
                         <h3 class="title">Software Security and Compliance</h3>
             </div>
             <div class="service-box">
-                <i class="fas fa-shield-alt fa-2x icon"></i>
+                <i class="fas fa-laptop-code fa-2x icon"></i>
                     <p class="text">
                         Proficient users are the key to unlocking the full potential of your software. Our Software Training and User Support services include comprehensive training programs, user manuals,
                         and responsive support systems to empower your team.

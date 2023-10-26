@@ -4,7 +4,7 @@
 
 <!---hero-section--->
 
-<section class="page-title hero-it">
+<section class="page-title hero-it hero-it-ware">
         <div class="overlay-it"></div>
         <div class="hero-content-it">
             <h1>WareHousing</h1>
@@ -82,21 +82,21 @@
 <section class="row testimonial-services">
     <h2 class="text-center sec-title_heading"> Why Choose  <span>ALSYNC </span></h2>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/expertise.jpg">
             <div class="review">
                 <h4>Expertise</h4>
                     <p>Our experienced team understands the intricacies of warehousing and logistics, ensuring that your inventory is managed efficiently.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/cus-satis.jpg">
             <div class="review">
                 <h4>Customer Satisfaction</h4>
                     <p>Efficient warehousing and distribution lead to faster deliveries and improved customer satisfaction.</p>
             </div>
     </div>
     <div class="col-lg-4 col-md-6 col-sm-12 testimonial-cards-services">
-        <img src="https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTR8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=400&q=60">
+        <img src="assets/images/services/real-time.jpg">
             <div class="review">
                 <h4>Real-time Visibility</h4>
                     <p>Our advanced systems provide you with real-time visibility into your inventory, helping you make informed decisions.</p>

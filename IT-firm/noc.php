@@ -80,11 +80,12 @@
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Why <span>ALSYNC </span></h2>
+<h2 class=" sec-title_heading service-heading-card"> Why <span>ALSYNC </span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">
-                <i class="fas fa-crop fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
+                
                     <p class="text">
                         Our team of skilled network engineers and technicians possess the knowledge and experience to manage diverse networks.
                     </p>
@@ -98,7 +99,7 @@
                         <h3 class="title">Customized Solutions</h3>
             </div>
             <div class="service-box">
-                <i class="fas fa-shield-alt fa-2x icon"></i>
+                <i class="fas fa-crop fa-2x icon"></i>
                     <p class="text">
                     Whether you have a small or extensive network, our services can scale to fit your requirements.
                     </p>

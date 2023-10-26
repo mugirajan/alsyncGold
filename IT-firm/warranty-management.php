@@ -28,8 +28,8 @@
 <!-- accordion section -->
 
 <section class="accordion-container-fluid">
-<h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
-    <p>At ALSYNC, we excel in delivering comprehensive Warranty Management Services designed to simplify the complexities of warranty tracking, optimize cost savings, and enhance customer trust.</p>
+    <h2 class="sec-title_heading"> Our Areas of <span> Expertise</span></h2>
+        <p>At ALSYNC, we excel in delivering comprehensive Warranty Management Services designed to simplify the complexities of warranty tracking, optimize cost savings, and enhance customer trust.</p>
 <div class="accordion-container">
     <div class="accordion_set">
         <button class="select_div">Warranty Registration
@@ -81,11 +81,11 @@
 <!---card-section-->
 
 <section class="services-container">
-<h2 class=" sec-title_heading"> Our Warranty Management <span>Services</span></h2>
+    <h2 class=" sec-title_heading service-heading-card"> Our Warranty Management <span>Services</span></h2>
     <div class="container-fluid">
         <div class="list-services-card">
             <div class="service-box service-box-shadow">
-                <i class="fas fa-crop fa-2x icon"></i>
+                <i class="fas fa-shield-alt fa-2x icon"></i>
                     <p class="text">
                         Efficiently handling warranties, including contract management and tracking, to minimize costs and repair risks for businesses
                     </p>
@@ -99,7 +99,7 @@
                         <h3 class="title">Product Assurance</h3>
             </div>
             <div class="service-box">
-                <i class="fas fa-shield-alt fa-2x icon"></i>
+                <i class="fas fa-crop fa-2x icon"></i>
                     <p class="text">
                     In-depth analysis of warranty data to uncover trends & areas for improvement in product quality and reliability.
                     </p>
