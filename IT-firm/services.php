@@ -27,30 +27,23 @@ include 'shared/php/connect.php';
 			</div>
 			<div class="row clearfix">
 
-				<?php
+			
 
-					$connect = createConn();
-					$valid = array('success' => false, 'message' => "");
-					$sql = "SELECT serv_nm, sDscrptn, ft_img FROM serv_mstr WHERE active_status = true and is_deleted = false";
-					$result = $connect->query($sql);
 					
-					while($row = $result->fetch_assoc()) 
-        			{
-						echo '
 							<!-- Service Block Two -->
 							<div class="service-block_two col-lg-4 col-md-6 col-sm-12">
 								<div class="service-block_two-inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 									<div class="service-block_two-image">
-										<img src="../../alsync-admin/'.$row['ft_img'] .'" alt="" />
+										<img src="assets/images/services/itinfra.jpg" alt="" />
 										<div class="service-block_two-overlay">
 											<div class="service-block_two-icon"></div>
-											<h5 class="service-block_two-title"> '. $row['serv_nm'] .' </h5>
+											<h5 class="service-block_two-title"> IT Infrastructure Management Services </h5>
 										</div>
 										<div class="service-block_two-overlay-two">
 											<div class="service-two_overlay-content">
 												<h5 class="service-block_two-title"><a href="./Detailed-Service?service='. $row['serv_nm'] .'"> '. $row['serv_nm'] .' </a></h5>
 												<div class="service-block_two-text">
-												'. $row['sDscrptn'] .'
+												At ALSYNC, we specialize in providing top-notch IT Infrastructure Management Services designed to ensure your organization's technology backbone runs seamlessly and supports your strategic objectives.
 												</div>
 												<a class="service-block_two-more" href="./Detailed-Service?service='. $row['serv_nm'] .'">Read more</a>
 											</div>
@@ -58,10 +51,10 @@ include 'shared/php/connect.php';
 									</div>
 								</div>
 							</div>
-						';
-					}
+						
+					
 			
-				?>
+				
 				
 			</div>
 			
